@@ -1,6 +1,7 @@
-import JSONDATA from './data/MOCK_DATA.json'
+import JSONDATA from './data/mockpmd.json'
 import "./DataTable.css"
 import {useState} from "react";
+import ListElement from "./ListElement";
 
 function DataTable() {
 
@@ -19,13 +20,13 @@ function DataTable() {
             {JSONDATA.filter((val) => {
                 if (searchTerm == "") {
                     return val
-                } else if (val.Pokemon.toLowerCase().includes(searchTerm.toLowerCase())) {
+                } else if (val.Name.toLowerCase().includes(searchTerm.toLowerCase())) {
                     return val
                 }
             }).map((val, key) => {
                 return (
                     <div className="dataEntry">
-                        {val.Pokemon}
+                        <ListElement element={val}/>
                     </div>
                 )
             })}

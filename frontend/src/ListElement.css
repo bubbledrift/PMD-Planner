@@ -1,0 +1,5 @@
+.element {
+    display: grid;
+    grid-template-columns: 30px auto auto;
+    grid-template-rows: auto;
+}

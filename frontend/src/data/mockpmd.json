@@ -1,0 +1,101 @@
+[
+  {
+    "Number": "#001",
+    "Name": "Bulbasaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": "FALSE",
+    "Popularity": 5
+  },
+  {
+    "Number": "#002",
+    "Name": "Ivysaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": "FALSE",
+    "Popularity": 3
+  },
+  {
+    "Number": "#003",
+    "Name": "Venusaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": "TRUE",
+    "Popularity": 16
+  },
+  {
+    "Number": "#004",
+    "Name": "Charmander",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": "FALSE",
+    "Popularity": 24
+  },
+  {
+    "Number": "#005",
+    "Name": "Charmeleon",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": "FALSE",
+    "Popularity": 4
+  },
+  {
+    "Number": "#006",
+    "Name": "Charizard",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": "TRUE",
+    "Popularity": 40
+  },
+  {
+    "Number": "#007",
+    "Name": "Squirtle",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": "FALSE",
+    "Popularity": 11
+  },
+  {
+    "Number": "#008",
+    "Name": "Wartortle",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": "FALSE",
+    "Popularity": 3
+  },
+  {
+    "Number": "#009",
+    "Name": "Blastoise",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": "TRUE",
+    "Popularity": 32
+  },
+  {
+    "Number": "#010",
+    "Name": "Caterpie",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": "FALSE",
+    "Popularity": 6
+  },
+  {
+    "Number": "#011",
+    "Name": "Metapod",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": "FALSE",
+    "Popularity": 1
+  }
+]
