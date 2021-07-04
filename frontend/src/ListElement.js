@@ -14,33 +14,49 @@ function ListElement(props) {
      "Popularity": 5
      */
 
-    let start = "./data/sprites/"
-    let lowercaseName = props.element.Name.toLowerCase()
-    let end = ".png"
-    let src = start.concat(lowercaseName.concat(end))
+    let spriteSrc = '/images/sprites/' + props.element.Name.toLowerCase() + '.png'
 
-    function importAll(r) {
-        let images = {};
-        r.keys().map((item, index) => { images[item.replace('./', '')] = r(item); });
-        return images;
+    let type1Src = '/images/types/' + props.element.Type1.toLowerCase() + '.gif'
+
+    let type2Src = ''
+    if (props.element.Type2 !== "") {
+        type2Src = '/images/types/' + props.element.Type2.toLowerCase() + '.gif'
     }
 
-    const images = importAll(require.context('./data/sprites', false, /\.(png|jpe?g|svg)$/));
-    console.log(images[lowercaseName + end])
-
     return (
+
         <div className="element">
-            <div>
-                <img src={images[lowercaseName + end]}/>
+            <div className="sprite">
+                <img src={process.env.PUBLIC_URL + spriteSrc} alt={props.element.Name}/>
             </div>
 
-            <div>
+            <div className="name">
                 {props.element.Name}
             </div>
 
-            <div>
+            {props.element.Type2 === "" &&
+                <div className="typeBox1">
+                    <img src={process.env.PUBLIC_URL + type1Src} alt={props.element.Type1}/>
+                </div>
+            }
+            {props.element.Type2 !== "" &&
+                <div className="typeBox2">
+                    <div className="type1">
+                        <img src={process.env.PUBLIC_URL + type1Src} alt={props.element.Type1}/>
+                    </div>
+                    <div className="type2">
+                        {props.element.Type2 !== "" &&
+                        <img src={process.env.PUBLIC_URL + type2Src} alt={props.element.Type2}/>
+                        }
+                    </div>
+                </div>
+            }
+
+            <div className='campName'>
                 {props.element.RescueCamp}
             </div>
+
+
         </div>
     )
 }

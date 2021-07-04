@@ -1,5 +1,44 @@
+:root {
+    --height: 52px;
+}
+
 .element {
     display: grid;
-    grid-template-columns: 30px auto auto;
-    grid-template-rows: auto;
+    grid-template-columns: 60px 115px 32px 150px;
+    grid-template-rows: var(--height);
+    
+}
+
+.sprite {
+    margin: auto;
+}
+
+.name {
+    text-align: left;
+    line-height: var(--height);
+}
+
+.campName {
+    text-align: center;
+    line-height: var(--height);
+}
+
+.typeBox1 {
+    margin-top: 35%;
+}
+
+.typeBox2 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+}
+
+.type1 {
+    position: relative;
+    top: 5px;
+}
+
+.type2 {
+    position: relative;
+    bottom: 5px;
 }

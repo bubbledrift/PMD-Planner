@@ -2,6 +2,7 @@ import JSONDATA from './data/mockpmd.json'
 import "./DataTable.css"
 import {useState} from "react";
 import ListElement from "./ListElement";
+import {Button} from "react-bootstrap";
 
 function DataTable() {
 
@@ -22,11 +23,14 @@ function DataTable() {
                     return val
                 } else if (val.Name.toLowerCase().includes(searchTerm.toLowerCase())) {
                     return val
-                }
+                } //TODO: Add searching types and rescue camps if it doesn't impact performance
             }).map((val, key) => {
                 return (
                     <div className="dataEntry">
-                        <ListElement element={val}/>
+                        <Button variant="secondary" block>
+                            <ListElement element={val}/>
+                        </Button>
+
                     </div>
                 )
             })}
