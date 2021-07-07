@@ -26,6 +26,11 @@ function ListElement(props) {
     return (
 
         <div className="element">
+
+            <div className='popularity'>
+                {props.element.Popularity}
+            </div>
+
             <div className="sprite">
                 <img src={process.env.PUBLIC_URL + spriteSrc} alt={props.element.Name}/>
             </div>
@@ -55,7 +60,6 @@ function ListElement(props) {
             <div className='campName'>
                 {props.element.RescueCamp}
             </div>
-
 
         </div>
     )

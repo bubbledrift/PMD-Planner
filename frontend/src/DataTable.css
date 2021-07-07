@@ -11,7 +11,47 @@
 }
 
 
-.dataEntry {
-    color: antiquewhite;
+.listElement {
     margin: 5px;
+}
+
+.Results {
+    height: 400px;
+    width: 50vw;
+    overflow: auto;
+}
+
+.Header {
+    left: 4px;
+    width: 49vw;
+    display: grid;
+    grid-template-columns: 15.5% 44.5% 10% 30%;
+    grid-template-rows: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.HeaderButton {
+    -webkit-text-size-adjust: auto;
+    padding: 5px;
+    font-size: 95%;
+    border-width: 1px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-right-color: var(--borderColor);
+    border-left-color: var(--borderColor);
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 12px;
+}
+
+::-webkit-scrollbar-track {
+    border: 1px dimgray;
+}
+
+::-webkit-scrollbar-thumb {
+    background: darkgray;
+    border-radius: 5px;
 }
