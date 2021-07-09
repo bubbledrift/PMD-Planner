@@ -2,7 +2,7 @@
 
 }
 
-.MockData input {
+.searchbar {
     margin-top: 20px;
     width: 300px;
     height: 40px;
@@ -40,6 +40,17 @@
     border-left-style: solid;
     border-right-color: var(--borderColor);
     border-left-color: var(--borderColor);
+}
+
+.TypeDropdownButton {
+    margin: 10px;
+}
+
+.TypeDropdownMenu {
+    width: 50px;
+    /*background: #5a6268;*/
+    height: 80vh;
+    overflow: auto;
 }
 
 ::-webkit-scrollbar {

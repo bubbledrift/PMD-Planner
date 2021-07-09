@@ -1,15 +1,19 @@
 import JSONDATA from './data/mockpmd.json'
 import {useState} from "react";
 import ListElement from "./ListElement";
-import {Button, ButtonGroup} from "react-bootstrap";
+import {Button, ButtonGroup, Dropdown} from "react-bootstrap";
 import "./DataTable.css"
+
 
 
 function DataTable() {
 
     const [searchTerm, setSearchTerm] = useState('')
     const [sortState, setSortState] = useState('Pokemon')
+    const [typeFilter, setTypeFilter] = useState('Type')
+    const [evolvedOnly, setEvolvedOnly] = useState(false)
 
+    //Search Filter
     let results = JSONDATA.filter((val) => {
         if (searchTerm == "") {
             return val
@@ -18,8 +22,26 @@ function DataTable() {
         } //TODO: Add searching types and rescue camps if it doesn't impact performance
     })
 
+    //Further filter the results based on what filters have been applied.
+    if (typeFilter !== 'Type') {
+        results = results.filter((val) => {
+            if (val.Type1 === typeFilter || val.Type2 === typeFilter) {
+                return val
+            }
+        })
+    }
+    if (evolvedOnly) {
+        results = results.filter((val) => {
+            if (val.FinalEvolution === true) {
+                return val
+            }
+        })
+    }
+
+
     let headerLabels = ['Popularity','Pokemon','Type','Rescue Camp']
 
+    //SORT FUNCTION
     results.sort(function(a, b){
 
         for (let i = 0; i < headerLabels.length; i++) {
@@ -103,13 +125,55 @@ function DataTable() {
 
     return (
         <div className="MockData">
-            <input
-                type="text"
-                placeholder="Search..."
-                onChange={(event) => {
-                    setSearchTerm(event.target.value)
-                }}
-            />
+            <div className='searchbar'>
+                <input
+                    type="text"
+                    placeholder="Search..."
+                    onChange={(event) => {
+                        setSearchTerm(event.target.value)
+                    }}
+                />
+            </div>
+
+            <div className='evolvedCheck'>
+                <input type='checkbox' onChange={() => {
+                    if (evolvedOnly === false) {
+                        setEvolvedOnly(true)
+                    } else {
+                        setEvolvedOnly(false)
+                    }
+                }}/> Fully Evolved Only
+            </div>
+
+            <div>
+                <Dropdown>
+                    <Dropdown.Toggle size='sm' variant='secondary' className='TypeDropdownButton' >
+                        {typeFilter}
+                    </Dropdown.Toggle>
+
+                    <Dropdown.Menu className='TypeDropdownMenu'>
+                        <Dropdown.Item onClick={() => setTypeFilter('Type')}>All</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Normal')}>Normal</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Fighting')}>Fighting</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Flying')}>Flying</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Poison')}>Poison</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Ground')}>Ground</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Rock')}>Rock</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Bug')}>Bug</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Ghost')}>Ghost</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Steel')}>Steel</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Fire')}>Fire</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Water')}>Water</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Grass')}>Grass</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Electric')}>Electric</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Psychic')}>Psychic</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Ice')}>Ice</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Dragon')}>Dragon</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Dark')}>Dark</Dropdown.Item>
+                        <Dropdown.Item onClick={() => setTypeFilter('Fairy')}>Fairy</Dropdown.Item>
+                    </Dropdown.Menu>
+                </Dropdown>
+            </div>
 
             <div>
                 <ButtonGroup className='Header'>

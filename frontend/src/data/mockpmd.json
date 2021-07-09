@@ -5,7 +5,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 5
   },
   {
@@ -14,7 +14,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 3
   },
   {
@@ -23,7 +23,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": "TRUE",
+    "FinalEvolution": true,
     "Popularity": 16
   },
   {
@@ -32,7 +32,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 24
   },
   {
@@ -41,7 +41,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 4
   },
   {
@@ -50,7 +50,7 @@
     "Type1": "Fire",
     "Type2": "Flying",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": "TRUE",
+    "FinalEvolution": true,
     "Popularity": 40
   },
   {
@@ -59,7 +59,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 11
   },
   {
@@ -68,7 +68,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 3
   },
   {
@@ -77,7 +77,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": "TRUE",
+    "FinalEvolution": true,
     "Popularity": 32
   },
   {
@@ -86,7 +86,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 6
   },
   {
@@ -95,7 +95,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": "FALSE",
+    "FinalEvolution": false,
     "Popularity": 1
   }
 ]
