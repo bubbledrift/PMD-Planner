@@ -1,4 +1,4 @@
-import DataTable from "./DataTable";
+import Main from "./Main";
 import './App.css';
 import {Route, Switch} from "react-router-dom";
 
@@ -6,7 +6,7 @@ import {Route, Switch} from "react-router-dom";
 const Router = () => {
   return (
       <Switch> {/* The Switch decides which component to show based on the current URL.*/}
-          <Route exact path='/' component={DataTable}></Route>
+          <Route exact path='/' component={Main}></Route>
       </Switch>
   );
 }

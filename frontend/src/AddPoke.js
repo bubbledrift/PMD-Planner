@@ -2,11 +2,11 @@ import JSONDATA from './data/mockpmd.json'
 import {useState} from "react";
 import ListElement from "./ListElement";
 import {Button, ButtonGroup, Dropdown} from "react-bootstrap";
-import "./DataTable.css"
+import "./AddPoke.css"
 
 
 
-function DataTable() {
+function AddPoke(props) {
 
     const [searchTerm, setSearchTerm] = useState('')
     const [sortState, setSortState] = useState('Pokemon')
@@ -124,7 +124,7 @@ function DataTable() {
     }
 
     return (
-        <div className="MockData">
+        <div className="AddPokemon">
             <div className='searchbar'>
                 <input
                     type="text"
@@ -210,4 +210,4 @@ function DataTable() {
     )
 }
 
-export default DataTable;
+export default AddPoke;

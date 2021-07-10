@@ -1,4 +1,4 @@
-.MockData {
+.AddPokemon {
 
 }
 
@@ -16,7 +16,7 @@
 }
 
 .Results {
-    height: 400px;
+    height: 50vh;
     width: 50vw;
     overflow: auto;
 }
