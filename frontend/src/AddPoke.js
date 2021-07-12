@@ -91,6 +91,7 @@ function AddPoke(props) {
     /**
      * BUTTON ONCLICK HANDLERS
      */
+
     const popularityClick = () => {
         if (sortState === 'Popular') {
             setSortState('PopularRev')
@@ -196,7 +197,14 @@ function AddPoke(props) {
                     {results.map((val, key) => {
                         return (
                             <div className="listElement">
-                                <Button style={{padding: '0px', border: '0px'}} variant="secondary" block>
+                                <Button
+                                    style={{padding: '0px', border: '0px'}}
+                                    variant="secondary" block
+                                    onClick={() => {
+                                        props.setPokeToAdd(val.Name)
+                                        props.setShowPopup(false)
+                                    }}
+                                >
                                     <ListElement element={val}/>
                                 </Button>
                             </div>

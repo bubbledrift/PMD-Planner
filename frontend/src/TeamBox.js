@@ -1,0 +1,36 @@
+
+import "./TeamBox.css"
+import PokemonBox from "./PokemonBox";
+import React from "react";
+
+function TeamBox(props) {
+
+    let boxes = [];
+    for (let i = 1; i < 4; i++) {
+        boxes.push(
+            <PokemonBox
+                setShowPopup={props.setShowPopup}
+                setDestinationBox={props.setDestinationBox}
+                destinationBox={props.destinationBox}
+                pokeToAdd={props.pokeToAdd}
+                boxNumber={props.teamNumber * 10 + i}
+            />
+        );
+    }
+
+    return (
+        <div className='TeamBox'>
+            <div className='BoxHeader'>
+                Team {props.teamNumber}
+            </div>
+
+            <div className='Pokemon'>
+                {boxes}
+            </div>
+
+
+        </div>
+    )
+}
+
+export default TeamBox

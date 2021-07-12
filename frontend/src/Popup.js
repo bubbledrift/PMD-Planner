@@ -6,7 +6,7 @@ function Popup(props) {
 
     const addPokeBody = (
         <div>
-            <AddPoke setShowPopup={props.setShowPopup}/>
+            <AddPoke setShowPopup={props.setShowPopup} setPokeToAdd={props.setPokeToAdd}/>
         </div>
     )
 
