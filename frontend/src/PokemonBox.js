@@ -1,37 +1,51 @@
 import {Button} from "react-bootstrap";
-import React, {useRef} from "react";
+import React, {useEffect, useState} from "react";
 import "./PokemonBox.css"
 
 function PokemonBox(props) {
 
+    const [pokemon, setPokemon] = useState('')
+
     const addPokePopup = () => {
-        props.setShowPopup(true);
+        props.setShowPopupAdd(true)
         props.setDestinationBox(props.boxNumber)
+        props.setPokeToAdd('')
     }
 
-    const pokemon = useRef('')
-
-    if (props.boxNumber === props.destinationBox && props.pokeToAdd !== '') {
-        pokemon.current = props.pokeToAdd
+    const deletePoke = () => {
+        setPokemon('')
+        props.setShowUndo(true)
     }
 
-    return (
-        <div className='PokemonBox'>
 
-            {pokemon.current === '' &&
+    useEffect(() => {
+
+        if (props.boxNumber === props.destinationBox && props.pokeToAdd !== '') {
+            setPokemon(props.pokeToAdd)
+        }
+        
+    }, [props.pokeToAdd])
+
+
+    if (pokemon === '') {
+        return (
+            <div className='EmptyBox'>
                 <Button variant="secondary" className='AddPokeButton' onClick={addPokePopup}>
                     + Add Pokemon
                 </Button>
-            }
+            </div>
+        )
+    } else {
+        return (
+            <div className='PokemonBox'>
+                {pokemon}
+                <Button variant="secondary" className='DeleteButton' onClick={deletePoke}>
+                    Delete
+                </Button>
+            </div>
+        )
+    }
 
-            {pokemon.current !== '' &&
-                <div>
-                    {pokemon.current}
-                </div>
-            }
-
-        </div>
-    )
 }
 
 export default PokemonBox

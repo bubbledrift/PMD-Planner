@@ -202,7 +202,7 @@ function AddPoke(props) {
                                     variant="secondary" block
                                     onClick={() => {
                                         props.setPokeToAdd(val.Name)
-                                        props.setShowPopup(false)
+                                        props.setShowPopupAdd(false)
                                     }}
                                 >
                                     <ListElement element={val}/>

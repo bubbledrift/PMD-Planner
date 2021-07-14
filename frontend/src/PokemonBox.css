@@ -6,6 +6,19 @@
     height: 360px;
 }
 
+.EmptyBox {
+    border-style: solid;
+    border-color: white;
+
+    width: 220px;
+    height: 360px;
+}
+
+.Delete {
+    width: 100px;
+    height: 50px;
+}
+
 .AddPokeButton {
     width: 200px;
     height: 50px;

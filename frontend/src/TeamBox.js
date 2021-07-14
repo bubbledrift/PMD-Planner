@@ -9,11 +9,13 @@ function TeamBox(props) {
     for (let i = 1; i < 4; i++) {
         boxes.push(
             <PokemonBox
-                setShowPopup={props.setShowPopup}
+                setShowPopupAdd={props.setShowPopupAdd}
                 setDestinationBox={props.setDestinationBox}
                 destinationBox={props.destinationBox}
                 pokeToAdd={props.pokeToAdd}
+                setPokeToAdd={props.setPokeToAdd}
                 boxNumber={props.teamNumber * 10 + i}
+                setShowUndo={props.setShowUndo}
             />
         );
     }

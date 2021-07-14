@@ -1,12 +1,12 @@
 /*Credit for popup css: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal_bottom*/
-.Popup {
+.PopupUndo {
     z-index: 9999;
     position: fixed;
-    left: 50%;
-    top: 50%;
+    left: 90%;
+    top: 90%;
     transform: translate(-50%, -50%);
-    width: 60vw;
-    height: 90vh;
+    width: 20vw;
+    height: 15vh;
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
     background-color: #6a7f8f;
@@ -14,7 +14,7 @@
     animation-duration: 0.4s;
 }
 
-.Popup-content {
+.Popup-contentUndo {
     height: 80vh;
     overflow-y: scroll;
 }
@@ -24,13 +24,13 @@
     to {opacity: 1}
 }
 
-.Popup-header {
+.Popup-headerUndo {
     border-radius: 20px 20px 0px 0px;
     background-color: #9f9f98;
     padding: 10px;
 }
 
-.Popup-title {
+.Popup-titleUndo {
     margin-left: 10px;
     font-size: 24px;
     margin-top: auto;
@@ -71,3 +71,7 @@
     margin-top: 20px;
 }
 
+.UndoButton {
+    width: 200px;
+    height: 50px;
+}

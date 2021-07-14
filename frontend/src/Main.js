@@ -1,12 +1,14 @@
 
 import "./Main.css"
 import React, {useState} from "react";
-import Popup from "./Popup";
+import PopupAdd from "./PopupAdd";
 import TeamBox from "./TeamBox";
+import PopupUndo from "./PopupUndo";
 
 function Main() {
 
-    const [showPopup, setShowPopup] = useState(false);
+    const [showPopupAdd, setShowPopupAdd] = useState(false);
+    const [showUndo, setShowUndo] = useState(false);
 
     /**
      * When adding pokemon, we need to know what pokemon to add and where to add it.
@@ -18,11 +20,13 @@ function Main() {
     for (let i = 1; i < 8; i++) {
         teams.push(
             <TeamBox
-                setShowPopup={setShowPopup}
+                setShowPopupAdd={setShowPopupAdd}
                 setDestinationBox={setDestinationBox}
                 destinationBox={destinationBox}
                 pokeToAdd={pokeToAdd}
+                setPokeToAdd={setPokeToAdd}
                 teamNumber={i}
+                setShowUndo={setShowUndo}
             />
         );
     }
@@ -30,7 +34,8 @@ function Main() {
     return (
         <div>
             <div>
-                <Popup showPopup={showPopup} setShowPopup={setShowPopup} setPokeToAdd={setPokeToAdd}/>
+                <PopupAdd showPopupAdd={showPopupAdd} setShowPopupAdd={setShowPopupAdd} setPokeToAdd={setPokeToAdd}/>
+                <PopupUndo showUndo={showUndo} setShowUndo={setShowUndo} />
 
                 <h1>TITLE TBD</h1>
 
