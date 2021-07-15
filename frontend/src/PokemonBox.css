@@ -4,6 +4,9 @@
 
     width: 220px;
     height: 360px;
+
+    display: flex;
+    flex-direction: column;
 }
 
 .EmptyBox {
