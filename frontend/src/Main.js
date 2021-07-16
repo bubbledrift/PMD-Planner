@@ -58,6 +58,7 @@ function Main() {
                     showPopupEdit={showPopupEdit}
                     setShowPopupEdit={setShowPopupEdit}
                     pokeToEdit={pokeToEdit}
+                    setPokeToEdit={setPokeToEdit}
                 />
 
                 <h1>TITLE TBD</h1>

@@ -1,16 +1,22 @@
 import './PopupEdit.css';
+import EditPoke from "./EditPoke";
 
 function PopupEdit(props) {
 
     const addEditBody = (
         <div>
-
+            <EditPoke
+                pokeToEdit={props.pokeToEdit}
+                setPokeToEdit={props.setPokeToEdit}
+                setShowPopupEdit={props.setShowPopupEdit}
+            />
         </div>
     )
 
     if (!props.showPopupEdit) {
         return <div/>;
     }
+
     return (
         <div className="PopupEdit">
             <div className="Popup-headerEdit">

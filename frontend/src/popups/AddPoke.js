@@ -1,10 +1,8 @@
-import JSONDATA from './data/mockpmd.json'
+import JSONDATA from '../data/mockpmd.json'
 import {useState} from "react";
 import ListElement from "./ListElement";
 import {Button, ButtonGroup, Dropdown} from "react-bootstrap";
 import "./AddPoke.css"
-
-
 
 function AddPoke(props) {
 

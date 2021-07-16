@@ -1,5 +1,5 @@
 import './PopupAdd.css';
-import AddPoke from "../AddPoke";
+import AddPoke from "./AddPoke";
 
 function PopupAdd(props) {
 
