@@ -13,7 +13,7 @@ function AddPoke(props) {
 
     //Search Filter
     let results = JSONDATA.filter((val) => {
-        if (searchTerm == "") {
+        if (searchTerm === "") {
             return val
         } else if (val.Name.toLowerCase().includes(searchTerm.toLowerCase())) {
             return val

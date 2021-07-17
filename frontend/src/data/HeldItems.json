@@ -1,0 +1,207 @@
+[
+  {
+    "Picture": "Scarf",
+    "Name": "Big Eater Belt",
+    "Effect": "When this item is equipped, the wearer's Belly fills twice as much when they eat something"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Cover Band",
+    "Effect": "When this item is equipped, if a teammate with low HP is nearby, the wearer takes the attack instead."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Defense Scarf",
+    "Effect": "When equipped, it boosts the wearer's Defense, reducing the damage taken from physical moves!"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Detect Band",
+    "Effect": "When equipped, it boosts the wearer's evasiveness"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Efficient Bandanna",
+    "Effect": "When this item is euqipped, moves sometimes won't cost PP to use."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Explosive Band",
+    "Effect": "When equipped, it sometimes explodes when the wearer takes damage. It damages nearby Pokémon and makes items on the floor disappear. The wearer doesn't get Exp. Points if an enemy faints due to damage caused by the blast"
+  },
+  {
+    "Picture": "Goggle",
+    "Name": "Fickle Specs",
+    "Effect": "When equipped, it boosts the cricial-hit rate when using a different move than the turn before"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Fierce Bandanna",
+    "Effect": "When this item is equipped, the power of moves is greatly increased."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Friend Bow",
+    "Effect": "When this item is equipped, Pokémon you battle will be more likely to join you. It's also said that Shiny Pokémon will want to join you, too. It's only effective when the leader equips it, though."
+  },
+  {
+    "Picture": "Goggle",
+    "Name": "Goggle Specs",
+    "Effect": "When this item is equipped, traps that have been set on the floor become visible."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Heal Ribbon",
+    "Effect": "When this item is equipped, it speeds up the wearer's natural HP recovery"
+  },
+  {
+    "Picture": "Goggle",
+    "Name": "Heavy Rotation Specs",
+    "Effect": "When this item is equipped, they boost the critical-hit rate when using the same move as the turn before."
+  },
+  {
+    "Picture": "Goggle",
+    "Name": "Insomniscope",
+    "Effect": "When this item is equipped, it prevents the wearer from getting the Sleep, yawning or Nightmare condition."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Joy Ribbon",
+    "Effect": "When this item is equipped, the wearer can earn Exp. Points as turns go by, even if the Pokémon doesn't battle"
+  },
+  {
+    "Picture": "Goggle",
+    "Name": "Lock-On Specs",
+    "Effect": "When this item is equipped, the wearer's thrown items will never miss."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Lucky Ribbon",
+    "Effect": "When this item is equipped, it prevents the wearer from taking critical hits."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Mach Ribbon",
+    "Effect": "When this item is equipped, it boosts the wearer's Speed"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Mobile Scarf",
+    "Effect": "When this item is equipped, it enables the wearer to move through walls, across the water, and to other places that normally can't be reached. But be careful! The Pokémon's belly will empty while travelling through walls."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Munch Belt",
+    "Effect": "When this item is equipped, it boosts the wearer's Attack and Sp. Atk, but it also makes their Belly empty more quickly."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "No-Stick Cap",
+    "Effect": "If the leader equips it, it prevents items in your Bag from getting sticky as a result of traps or other means."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Nullify Bandanna",
+    "Effect": "When this item is equipped, it prevents the wearer's Ability from working."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Pass Scarf",
+    "Effect": "When this item is equipped, it enables the wearer to shrug off moves and pass them onto a nearby Pokémon. But the wearer's Belly gets emptier every time this happens. If the Pokémon's Belly gets too empty, this effect won't work."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Pecha Scarf",
+    "Effect": "When this item is equipped, it prevents the wearer from getting Poisoned or Badly Poisoned."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Persim Band",
+    "Effect": "When this item is equipped, it prevents the wearer from getting Confused."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Phase Ribbon",
+    "Effect": "When this item is equipped, the wearer can ignore the topography and walk anywhere. They can even break through most walls, but doing so will make their Belly less full. When their Belly reaches 0, they won't be able to break through any more walls. There are also some walls that can't be broken"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Pierce Band",
+    "Effect": "When this item is equipped, thrown items that fly in a straight line will pass through walls and Pokémon."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Power Band",
+    "Effect": "When this item is equipped, it boosts the wearer's Attack, increasing the power of physical moves"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Prosper Ribbon",
+    "Effect": "When this item is equipped, it heals the wearer's bad statuses, like being poisoned or paralyzed, if the wearer picks up money. It also slightly restores the wearer's HP"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Recovery Scarf",
+    "Effect": "When this item is equipped, the user recovers more quickly from bad statuses like being confused or paralyzed"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Reunion Cape",
+    "Effect": "When this item is equipped, it warps you near your teammates if you get separated from them."
+  },
+  {
+    "Picture": "Goggle",
+    "Name": "Scope Lens",
+    "Effect": "When this item is equipped, it boosts the wearer's critical-hit rate for moves used on enemies"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Sneak Scarf",
+    "Effect": "When this item is equipped, the wearer will be able to walk next to a sleeping enemy without waking them up."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Special Band",
+    "Effect": "When this item is equipped, it boosts the wearer's Sp. Atk, increasing the power of special moves!"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Stamina Band",
+    "Effect": "When this item is equipped, the wearer's Belly empties more slowly."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Tight Belt",
+    "Effect": "When this item is equipped, the wearer's Belly won't empty unless they pass through walls or use linked moves."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Trap Scarf",
+    "Effect": "When this item is equipped, traps the wearer steps on won't go off."
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Twist Band",
+    "Effect": "When this item is equipped, it prevents all the wearer's stats from being lowered"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Warp Scarf",
+    "Effect": "When this item is equipped, it sometimes warps the wearer somewhere on the floor"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Weather Band",
+    "Effect": "When this item is equipped, it shields the wearer from weather as if it's always Clear"
+  },
+  {
+    "Picture": "Goggle",
+    "Name": "X-Ray Specs",
+    "Effect": "When this item is equipped, the locations of items and Pokémon (but not traps) on the floow become visible"
+  },
+  {
+    "Picture": "Scarf",
+    "Name": "Zinc Band",
+    "Effect": "When this item is equipped, it boosts the wearer's Sp. Def, reducing the damage taken from special moves."
+  }
+]
