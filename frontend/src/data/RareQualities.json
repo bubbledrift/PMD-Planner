@@ -1,0 +1,138 @@
+[
+  {
+    "Name": "Bargain",
+    "Description": "Items can be bought at a lower price from shops in dungeons"
+  },
+  {
+    "Name": "Blast Control",
+    "Description": "Damage your team takes from explosions is reduced."
+  },
+  {
+    "Name": "Brawl",
+    "Description": "The more enemies there are in a room, the more powerful your moves will be"
+  },
+  {
+    "Name": "Defensive Rhythm",
+    "Description": "Whenever your pokémon are hit by attacks, their Defense and Sp. Def are boosted. The effect only lasts for 1 turn."
+  },
+  {
+    "Name": "Evasive Rhythm",
+    "Description": "Whenever Pokémon are hit by attacks, their evasiveness is boosted, making it easier to dodge attacks. The effect only lasts for 1 turn."
+  },
+  {
+    "Name": "Food Finder",
+    "Description": "You're more likely to see Tiny Apples in dungeons"
+  },
+  {
+    "Name": "Forge a Path",
+    "Description": "You can break through walls as you walk. But your Belly gets significantly emptier if you break walls and you can't break any more walls if your Belly reaches 0"
+  },
+  {
+    "Name": "Friendly",
+    "Description": "Pokémon you battle against are more likely to become your friends"
+  },
+  {
+    "Name": "Funnel Fun",
+    "Description": "The rate at which HP restores naturally when Pokémon are in a corridor is greatly sped up"
+  },
+  {
+    "Name": "Leap Ahead",
+    "Description": "The Pokémon behind you in a ocrridor jumps in front and uses a 1-tile move. After it uses the move, that Pokémon returns to its original spot"
+  },
+  {
+    "Name": "Leave Half",
+    "Description": "An Apple, Max Ether or Tiny Reviver Seed will remain in your bag after you use a Big Apple, Perfect Apple, Max Elixir or Reviver Seed"
+  },
+  {
+    "Name": "Link Boost",
+    "Description": "The power of linked moves is boosted. The more moves are linked, the more powerful they become"
+  },
+  {
+    "Name": "Lonely Courage",
+    "Description": "When a Pokémon has no nearby teammates, it gets very strong"
+  },
+  {
+    "Name": "Mind Over Matter",
+    "Description": "When a Pokémonsteps on a Wonder Title, its strength is restored, its bad conditions such as being poisoned or burned also heal"
+  },
+  {
+    "Name": "Moving Up",
+    "Description": "Move Exp. Earned when you use moves in a dungeon is increased more than usual"
+  },
+  {
+    "Name": "Narrow Focus",
+    "Description": "Moves used in corridors will never miss"
+  },
+  {
+    "Name": "Notorious Fasting",
+    "Description": "Pokémon won't take damage even when their Belly reaches 0. Beweare that HP won't restore naturally while the Pokémon's Belly is empty, and they will take damage if they're in a wall"
+  },
+  {
+    "Name": "Notorious Healing",
+    "Description": "The rate at which HP restores naturally is sped up"
+  },
+  {
+    "Name": "Notorious Restoration",
+    "Description": "When you use items that help restore HP or fill your Belly, those items will restore more than usual"
+  },
+  {
+    "Name": "PP Pouch",
+    "Description": "The PP of a learned move restores a bit when an enemy is defeated"
+  },
+  {
+    "Name": "Rapid Bull's-Eyes",
+    "Description": "Moves that hit multiple times will never miss"
+  },
+  {
+    "Name": "Recoil Boost",
+    "Description": "Moves that have recoil damage or moves that hurt the user if they miss are greatly powered up"
+  },
+  {
+    "Name": "Riled Up",
+    "Description": "Attack and Sp. Atk are boosted when you take damage from an enemy"
+  },
+  {
+    "Name": "Sales Pitch",
+    "Description": "Items can be sold at a higher price to shops in dungeons"
+  },
+  {
+    "Name": "Shared Happiness",
+    "Description": "When a teammate's bad conditions are healed, a bad condition of another team member also gets healed."
+  },
+  {
+    "Name": "Small Stomach",
+    "Description": "Whatever food you eat, it will fill your Belly completely"
+  },
+  {
+    "Name": "Squad Up",
+    "Description": "The more members you have on your team, the more likely it is that Pokémon you battle against will want to be your friends"
+  },
+  {
+    "Name": "Squeeze Out",
+    "Description": "The PP of a move that has 0 PP may sometimes be restored"
+  },
+  {
+    "Name": "Steamroll",
+    "Description": "Even moves that have no effect or are not very effective due to Abilities or bad type matchups will be able to steamroll opponents and deal damage"
+  },
+  {
+    "Name": "Strike Back",
+    "Description": "When the Pokémon takes damage from an adjacent enemy, it reduces the Attack and Sp. Atk of that enemy"
+  },
+  {
+    "Name": "Thrown Item Boost",
+    "Description": "Spikes and stones are powered up. On top of that, enemies won't be able to catch items"
+  },
+  {
+    "Name": "Tight Formation",
+    "Description": "The more team members there are nearby, the lower the damage will be when Pokémon are hit by wide-ranging moves, such as Magnitude"
+  },
+  {
+    "Name": "Wary Walk",
+    "Description": "When a Pokémon steps on a trap, the trap may be broken and disabled"
+  },
+  {
+    "Name": "XP Boost",
+    "Description": "The EXP. Points Pokémon earn after defeating an enemy in a dungeon are boosted"
+  }
+]

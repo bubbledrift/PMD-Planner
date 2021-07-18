@@ -2,6 +2,7 @@ import './EditPoke.css'
 import {Button} from "react-bootstrap";
 import React, {useState, useRef, useEffect} from "react";
 import itemdata from "../data/HeldItems.json";
+import RQdata from "../data/RareQualities.json"
 
 function EditPoke(props) {
 
@@ -11,9 +12,13 @@ function EditPoke(props) {
 
 
     let defaultItemText = ''
+    let defaultRQText = ''
     //Determines if pokemon's field is default or not
     if (pokemon.Item !== 'Item') {
         defaultItemText = pokemon.Item
+    }
+    if (pokemon.RareQuality !== 'RareQuality') {
+        defaultRQText = pokemon.RareQuality
     }
 
     /**
@@ -24,12 +29,13 @@ function EditPoke(props) {
     //Saving the text input fields
     const [nickname, setNickname] = useState(pokemon.Nickname)
     const [item, setItem] = useState(pokemon.Item)
-    const [rareQual, setRareQual] = useState(pokemon.RareQuality)
+    const [rq, setRQ] = useState(pokemon.RareQuality)
     const [itemText, setItemText] = useState(defaultItemText)
-    const [rareQualText, setRareQualText] = useState('')
+    const [rqText, setRQText] = useState(defaultRQText)
 
     //Checks if item input has changed in order to tell results to filter or not
     const [itemInputChanged, setItemInputChanged] = useState(false)
+    const [RQInputChanged, setRQInputChanged] = useState(false)
 
     //Determines which result set to show
     const [resultType, setResultType] = useState('')
@@ -48,6 +54,7 @@ function EditPoke(props) {
     const savePoke = () => {
         pokemon.Nickname = nickname
         pokemon.Item = item
+        pokemon.RareQuality = rq
 
         props.setPokeToEdit(pokemon)
         props.setShowPopupEdit(false)
@@ -62,15 +69,25 @@ function EditPoke(props) {
         }
     })
 
+    let rqResults = RQdata.filter((val) => {
+        if (rqText === "" || !RQInputChanged) {
+            return val
+        } else if (val.Name.toLowerCase().includes(rqText.toLowerCase())) {
+            return val
+        }
+    })
+
 
     //This use effect should happen every time the result type changes or text input changes
     useEffect(() => {
         if (resultType === 'Item') {
             setResults(itemResults)
+        } else if (resultType === "Rare Quality") {
+            setResults(rqResults)
         } else {
             setResults([])
         }
-    }, [resultType, itemText, rareQualText])
+    }, [resultType, itemText, rqText])
 
 
     return (
@@ -102,12 +119,14 @@ function EditPoke(props) {
                 Rare Quality
                 <input
                     type="text"
-
+                    value={rqText}
                     onFocus={() => {
                         setResultType('Rare Quality')
+                        setRQInputChanged(false)
                     }}
                     onChange={(event) => {
-                        setRareQualText(event.target.value)
+                        setRQText(event.target.value)
+                        setRQInputChanged(true)
                     }}
                 />
 
@@ -120,14 +139,6 @@ function EditPoke(props) {
                         setResultType('Item')
                         setItemInputChanged(false)
                     }}
-
-                    // onBlur={() => {
-                    //     if (!mouseInResults) {
-                    //         setResultType('')
-                    //     }
-                    //
-                    // }}
-
                     onChange={(event) => {
                         setItemText(event.target.value)
                         setItemInputChanged(true)
@@ -168,6 +179,10 @@ function EditPoke(props) {
                                         setItem(val.Name)
                                         setItemText(val.Name)
                                         setItemInputChanged(false)
+                                    } else if (resultType === 'Rare Quality') {
+                                        setRQ(val.Name)
+                                        setRQText(val.Name)
+                                        setRQInputChanged(false)
                                     }
 
                                 }}
