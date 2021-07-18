@@ -1,7 +1,7 @@
-import "./ListElement.css"
+import "./PokeListElement.css"
 
 
-function ListElement(props) {
+function PokeListElement(props) {
 
     /**
      * Example of what props.element is:
@@ -64,4 +64,4 @@ function ListElement(props) {
         </div>
     )
 }
-export default ListElement
+export default PokeListElement

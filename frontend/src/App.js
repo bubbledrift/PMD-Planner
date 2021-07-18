@@ -1,4 +1,4 @@
-import Main from "./Main";
+import Main from "./Main/Main";
 import './App.css';
 import {Route, Switch} from "react-router-dom";
 

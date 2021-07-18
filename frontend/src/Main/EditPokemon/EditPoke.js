@@ -1,8 +1,8 @@
 import './EditPoke.css'
 import {Button} from "react-bootstrap";
 import React, {useState, useRef, useEffect} from "react";
-import itemdata from "../data/HeldItems.json";
-import RQdata from "../data/RareQualities.json"
+import itemdata from "../../data/HeldItems.json";
+import RQdata from "../../data/RareQualities.json"
 
 function EditPoke(props) {
 

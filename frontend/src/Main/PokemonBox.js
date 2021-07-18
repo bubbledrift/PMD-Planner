@@ -1,5 +1,5 @@
 import {Button} from "react-bootstrap";
-import JSONDATA from './data/mockpmd.json'
+import JSONDATA from '../data/mockpmd.json'
 import React, {useEffect, useState} from "react";
 import "./PokemonBox.css"
 
