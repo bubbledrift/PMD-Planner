@@ -10,17 +10,6 @@ function EditPoke(props) {
     const pokemonRef = useRef(JSON.parse(JSON.stringify(props.pokeToEdit)))
     let pokemon = pokemonRef.current
 
-
-    let defaultItemText = ''
-    let defaultRQText = ''
-    //Determines if pokemon's field is default or not
-    if (pokemon.Item !== 'Item') {
-        defaultItemText = pokemon.Item
-    }
-    if (pokemon.RareQuality !== 'RareQuality') {
-        defaultRQText = pokemon.RareQuality
-    }
-
     /**
      * The are 2 types of variables we need
      * one for keeping track of the text in the html input, and one for the actual pokemon's attribute
@@ -30,8 +19,8 @@ function EditPoke(props) {
     const [nickname, setNickname] = useState(pokemon.Nickname)
     const [item, setItem] = useState(pokemon.Item)
     const [rq, setRQ] = useState(pokemon.RareQuality)
-    const [itemText, setItemText] = useState(defaultItemText)
-    const [rqText, setRQText] = useState(defaultRQText)
+    const [itemText, setItemText] = useState(pokemon.Item)
+    const [rqText, setRQText] = useState(pokemon.RareQuality)
 
     //Checks if item input has changed in order to tell results to filter or not
     const [itemInputChanged, setItemInputChanged] = useState(false)
@@ -40,8 +29,6 @@ function EditPoke(props) {
     //Determines which result set to show
     const [resultType, setResultType] = useState('')
     const [results, setResults] = useState([])
-    //Keeps track of if the mouse is in the results div area
-    const [mouseInResults, setMouseInResults] = useState(false)
 
     //TODO: Maybe extract out this code into separate file and just make a helper method?
     let type1Src = '/images/types/' + pokemon.Type1.toLowerCase() + '.gif'
@@ -159,14 +146,7 @@ function EditPoke(props) {
                 {resultType}
             </div>
 
-            <div className="Results"
-                 // onMouseEnter={() => {
-                 //     setMouseInResults(true)
-                 // }}
-                 // onMouseLeave={() => {
-                 //     setMouseInResults(false)
-                 // }}
-            >
+            <div className="Results">
                 {results.map((val, key) => {
                     return (
                         <div className="listElement">

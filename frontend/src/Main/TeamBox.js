@@ -1,8 +1,10 @@
-
 import "./TeamBox.css"
 import PokemonBox from "./PokemonBox";
 import React from "react";
 
+/**
+ * TODO: make teams nameable, make team box collapsible.
+ */
 function TeamBox(props) {
 
     let boxes = [];

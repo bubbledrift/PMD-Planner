@@ -9,6 +9,32 @@
     flex-direction: column;
 }
 
+#portrait {
+    width: 100px;
+}
+
+.TypeAndPic {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 100px auto;
+
+    margin: 0px 5px 3px;
+}
+
+.Name {
+    font-size: 20px;
+    margin-left: 4px;
+}
+
+.Type {
+    display: flex;
+    flex-direction: column;
+    height: 40px;
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
 .EmptyBox {
     border-style: solid;
     border-color: white;

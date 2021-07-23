@@ -1,5 +1,5 @@
 import {Button} from "react-bootstrap";
-import JSONDATA from '../data/mockpmd.json'
+import PokeData from '../data/PokeData.json'
 import React, {useEffect, useState} from "react";
 import "./PokemonBox.css"
 
@@ -19,9 +19,6 @@ function PokemonBox(props) {
         props.setShowUndo(true)
     }
 
-    /**
-     * Should bring up a popup for the editing of the specific pokemon.
-     */
     const editPoke = () => {
         props.setShowPopupEdit(true)
         props.setDestinationBox(props.boxNumber)
@@ -34,8 +31,7 @@ function PokemonBox(props) {
 
         if (props.boxNumber === props.destinationBox && props.pokeToAdd !== '') {
 
-
-            let pokemonData = JSONDATA.filter((val) => {
+            let pokemonData = PokeData.filter((val) => {
                 if (val.Name === props.pokeToAdd) {
                     return val
                 }
@@ -43,15 +39,16 @@ function PokemonBox(props) {
 
             let poke = {
                 "Name": props.pokeToAdd,
+                "Number": pokemonData.Number.substring(1),
                 "Nickname": "",
                 "Type1": pokemonData.Type1,
                 "Type2": pokemonData.Type2,
-                "RareQuality": "RareQuality",
-                "Item": "Item",
-                "Move1": "Move1",
-                "Move2": "Move2",
-                "Move3": "Move3",
-                "Move4": "Move4"
+                "RareQuality": "",
+                "Item": "",
+                "Move1": "",
+                "Move2": "",
+                "Move3": "",
+                "Move4": ""
             }
 
             setPokemon(poke)
@@ -86,27 +83,39 @@ function PokemonBox(props) {
             type2Src = '/images/types/' + pokemon.Type2.toLowerCase() + '.gif'
         }
 
+        let portraitSrc = '/images/portraits/' + pokemon.Number + '.png'
+
         return (
             <div className='PokemonBox'>
-                <div>
 
-                    {pokemon.Nickname === '' &&
-                        pokemon.Name
-                    }
+                {pokemon.Nickname === '' &&
+                <div className='Name'>{pokemon.Name}</div>
+                }
 
-                    {pokemon.Nickname !== '' &&
-                        <div>{pokemon.Nickname} ({pokemon.Name})</div>
-                    }
+                {pokemon.Nickname !== '' &&
+                <div className='Name'>{pokemon.Nickname}</div>
+                }
 
-                    <img src={process.env.PUBLIC_URL + type1Src} alt={pokemon.Type1}/>
-                    <img src={process.env.PUBLIC_URL + type2Src} alt={pokemon.Type2}/>
+
+                <div className='TypeAndPic'>
+
+                    <img id="portrait" src={process.env.PUBLIC_URL + portraitSrc} alt={pokemon.Name}/>
+
+                    <div className='Type'>
+                        <img src={process.env.PUBLIC_URL + type1Src} alt={pokemon.Type1}/>
+                        <img src={process.env.PUBLIC_URL + type2Src} alt={pokemon.Type2}/>
+                    </div>
 
                 </div>
 
                 <div>
-                    Rare Quality: {pokemon.RareQuality}
+                    <img src={process.env.PUBLIC_URL + "images/other/rarequality.png"}
+                         alt="Rare Quality"/> {pokemon.RareQuality}
+                </div>
 
-                    Item: {pokemon.Item}
+                <div>
+                    <img src={process.env.PUBLIC_URL + "images/other/scarf.png"}
+                         alt="Item"/> {pokemon.Item}
                 </div>
 
                 <div>

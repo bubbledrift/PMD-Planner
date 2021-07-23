@@ -1,4 +1,3 @@
-
 import "./Main.css"
 import React, {useState} from "react";
 import PopupAdd from "./AddPokemon/PopupAdd";
@@ -8,6 +7,7 @@ import PopupEdit from "./EditPokemon/PopupEdit";
 
 function Main() {
 
+    //Booleans that determine if popups should be rendered or not.
     const [showPopupAdd, setShowPopupAdd] = useState(false);
     const [showUndo, setShowUndo] = useState(false);
     const [showPopupEdit, setShowPopupEdit] = useState(false);

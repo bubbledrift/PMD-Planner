@@ -1,4 +1,4 @@
-import JSONDATA from '../../data/mockpmd.json'
+import JSONDATA from '../../data/PokeData.json'
 import {useState} from "react";
 import PokeListElement from "./PokeListElement";
 import {Button, ButtonGroup, Dropdown} from "react-bootstrap";
