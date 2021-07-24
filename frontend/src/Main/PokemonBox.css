@@ -1,7 +1,4 @@
 .PokemonBox {
-    border-style: solid;
-    border-color: white;
-
     width: 220px;
     height: 360px;
 
@@ -16,7 +13,7 @@
 .TypeAndPic {
     display: grid;
     grid-template-rows: auto;
-    grid-template-columns: 100px auto;
+    grid-template-columns: 100px auto 40px;
 
     margin: 0px 5px 3px;
 }
@@ -35,17 +32,33 @@
     margin-top: 5px;
 }
 
+.Delete {
+    margin-top: 5px;
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+}
+
+.Move {
+    margin: 5px;
+    height: 2em;
+    background: #565555;
+    border-radius: 5px;
+}
+
+.LeftAlign {
+    margin-left: 3px;
+    margin-right: auto;
+}
+
+
 .EmptyBox {
     border-style: solid;
     border-color: white;
+    border-radius: 5px;
 
     width: 220px;
     height: 360px;
-}
-
-.Delete {
-    width: 100px;
-    height: 50px;
 }
 
 .AddPokeButton {

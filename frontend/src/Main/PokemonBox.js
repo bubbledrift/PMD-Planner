@@ -14,9 +14,10 @@ function PokemonBox(props) {
         props.setPokeToAdd('')
     }
 
-    const deletePoke = () => {
+    const deletePoke = (e) => {
         setPokemon(null)
         props.setShowUndo(true)
+        e.stopPropagation();
     }
 
     const editPoke = () => {
@@ -86,55 +87,64 @@ function PokemonBox(props) {
         let portraitSrc = '/images/portraits/' + pokemon.Number + '.png'
 
         return (
-            <div className='PokemonBox'>
 
-                {pokemon.Nickname === '' &&
-                <div className='Name'>{pokemon.Name}</div>
-                }
-
-                {pokemon.Nickname !== '' &&
-                <div className='Name'>{pokemon.Nickname}</div>
-                }
+            <Button variant="secondary" className='EditButton' onClick={editPoke}>
 
 
-                <div className='TypeAndPic'>
+                <div className='PokemonBox'>
 
-                    <img id="portrait" src={process.env.PUBLIC_URL + portraitSrc} alt={pokemon.Name}/>
+                    {pokemon.Nickname === '' &&
+                    <div className='Name'>{pokemon.Name}</div>
+                    }
 
-                    <div className='Type'>
-                        <img src={process.env.PUBLIC_URL + type1Src} alt={pokemon.Type1}/>
-                        <img src={process.env.PUBLIC_URL + type2Src} alt={pokemon.Type2}/>
+                    {pokemon.Nickname !== '' &&
+                    <div className='Name'>{pokemon.Nickname}</div>
+                    }
+
+
+                    <div className='TypeAndPic'>
+
+                        <img id="portrait" src={process.env.PUBLIC_URL + portraitSrc} alt={pokemon.Name}/>
+
+                        <div className='Type'>
+                            <img src={process.env.PUBLIC_URL + type1Src} alt={pokemon.Type1}/>
+                            <img src={process.env.PUBLIC_URL + type2Src} alt={pokemon.Type2}/>
+                        </div>
+
+                        <Button variant="outline-danger" className='Delete' onClick={deletePoke}>
+                            <img id="trash" src={process.env.PUBLIC_URL + 'images/other/delete.png'} alt="Delete"/>
+                        </Button>
+
+                    </div>
+
+                    <div className="LeftAlign">
+                        <img src={process.env.PUBLIC_URL + "images/other/rarequality.png"}
+                             alt="Rare Quality"/> {pokemon.RareQuality}
+                    </div>
+
+                    <div className="LeftAlign">
+                        <img src={process.env.PUBLIC_URL + "images/other/scarf.png"}
+                             alt="Item"/> {pokemon.Item}
+                    </div>
+
+                    <div className="Move">
+                        {pokemon.Move1}
+                    </div>
+
+                    <div className="Move">
+                        {pokemon.Move2}
+                    </div>
+
+                    <div className="Move">
+                        {pokemon.Move3}
+                    </div>
+
+                    <div className="Move">
+                        {pokemon.Move4}
                     </div>
 
                 </div>
-
-                <div>
-                    <img src={process.env.PUBLIC_URL + "images/other/rarequality.png"}
-                         alt="Rare Quality"/> {pokemon.RareQuality}
-                </div>
-
-                <div>
-                    <img src={process.env.PUBLIC_URL + "images/other/scarf.png"}
-                         alt="Item"/> {pokemon.Item}
-                </div>
-
-                <div>
-                    Move 1: {pokemon.Move1}
-                    Move 2: {pokemon.Move2}
-                    Move 3: {pokemon.Move3}
-                    Move 4: {pokemon.Move4}
-                </div>
-
-
-                <Button variant="secondary" className='DeleteButton' onClick={deletePoke}>
-                    Delete
-                </Button>
-
-                <Button variant="secondary" className='EditButton' onClick={editPoke}>
-                    Edit
-                </Button>
-
-            </div>
+            </Button>
         )
     }
 
