@@ -1,6 +1,6 @@
 import "./TeamBox.css"
 import PokemonBox from "./PokemonBox";
-import React from "react";
+import React, {useState} from "react";
 
 /**
  * TODO: make teams nameable, make team box collapsible.
@@ -30,10 +30,24 @@ function TeamBox(props) {
         );
     }
 
+    const [teamName, setTeamName] = useState("Team " + props.teamNumber)
+
     return (
         <div className='TeamBox'>
             <div className='BoxHeader'>
-                Team {props.teamNumber}
+                <input
+                    type="text"
+                    placeholder={"Team " + props.teamNumber}
+                    value={teamName}
+                    maxLength="20"
+                    onChange={(event) => {
+                        setTeamName(event.target.value)
+                    }}
+                    style={{width: 80 + 12 * teamName.length + "px"}}
+                />
+
+                <img id="edit" src={process.env.PUBLIC_URL + 'images/other/edit.png'} alt="Edit"/>
+
             </div>
 
             <div className='Pokemon'>

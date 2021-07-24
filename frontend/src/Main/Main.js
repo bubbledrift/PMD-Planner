@@ -1,10 +1,9 @@
 import "./Main.css"
-import React, {useEffect, useState} from "react";
+import React, {useState} from "react";
 import PopupAdd from "./AddPokemon/PopupAdd";
 import TeamBox from "./TeamBox";
 import PopupUndo from "./PopupUndo";
 import PopupEdit from "./EditPokemon/PopupEdit";
-import PokeData from "../data/PokeData.json";
 
 function Main() {
 

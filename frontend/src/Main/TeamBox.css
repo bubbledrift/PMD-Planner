@@ -14,3 +14,23 @@
     flex-direction: row;
 }
 
+.BoxHeader {
+    display: flex;
+    flex-direction: row;
+}
+
+input[type="text"]
+{
+    color: #e2e3e5;
+    background: transparent;
+    border: none;
+
+    min-width: 80px;
+    max-width: 300px;
+    font-size: 22px;
+}
+
+#edit {
+    height: 80%;
+    margin-top: 3px;
+}
