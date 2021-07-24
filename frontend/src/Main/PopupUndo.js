@@ -5,7 +5,12 @@ import React from "react";
 function PopupUndo(props) {
 
     const reAddPoke = () => {
-
+        if (props.undo === false) {
+            props.setUndo(true)
+        } else {
+            props.setUndo(false)
+        }
+        props.setShowUndo(false)
     }
 
     const undoBody = (

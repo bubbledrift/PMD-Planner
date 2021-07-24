@@ -21,6 +21,11 @@ function TeamBox(props) {
                 setShowPopupEdit={props.setShowPopupEdit}
                 pokeToEdit={props.pokeToEdit}
                 setPokeToEdit={props.setPokeToEdit}
+                lastDeleted={props.lastDeleted}
+                setLastDeleted={props.setLastDeleted}
+                deletedBox={props.deletedBox}
+                setDeletedBox={props.setDeletedBox}
+                undo={props.undo}
             />
         );
     }

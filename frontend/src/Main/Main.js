@@ -1,9 +1,10 @@
 import "./Main.css"
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import PopupAdd from "./AddPokemon/PopupAdd";
 import TeamBox from "./TeamBox";
 import PopupUndo from "./PopupUndo";
 import PopupEdit from "./EditPokemon/PopupEdit";
+import PokeData from "../data/PokeData.json";
 
 function Main() {
 
@@ -23,6 +24,12 @@ function Main() {
      */
     const [pokeToEdit, setPokeToEdit] = useState(null)
 
+    //Keeps track of the last deleted pokemon to re-add if the user undoes the deletion.
+    const [lastDeleted, setLastDeleted] = useState(null)
+    //Keeps track of the box location of the last deleted pokemon
+    const [deletedBox, setDeletedBox] = useState(0)
+    //A boolean switch that is switched when the last deleted pokemon should be re-added.
+    const [undo, setUndo] = useState(false)
 
     let teams = [];
     for (let i = 1; i < 8; i++) {
@@ -38,6 +45,11 @@ function Main() {
                 setShowPopupEdit={setShowPopupEdit}
                 pokeToEdit={pokeToEdit}
                 setPokeToEdit={setPokeToEdit}
+                lastDeleted={lastDeleted}
+                setLastDeleted={setLastDeleted}
+                deletedBox={deletedBox}
+                setDeletedBox={setDeletedBox}
+                undo={undo}
             />
         );
     }
@@ -53,6 +65,8 @@ function Main() {
                 <PopupUndo
                     showUndo={showUndo}
                     setShowUndo={setShowUndo}
+                    undo={undo}
+                    setUndo={setUndo}
                 />
                 <PopupEdit
                     showPopupEdit={showPopupEdit}

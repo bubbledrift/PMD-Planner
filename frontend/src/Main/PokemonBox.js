@@ -9,12 +9,21 @@ function PokemonBox(props) {
 
 
     const addPokePopup = () => {
+        //If the destination box is the same as the last deleted box's number, don't show the undo popup.
+        if (props.deletedBox === props.boxNumber) {
+            props.setShowUndo(false)
+            props.setLastDeleted(null)
+            props.setDeletedBox(0)
+        }
+
         props.setShowPopupAdd(true)
         props.setDestinationBox(props.boxNumber)
         props.setPokeToAdd('')
     }
 
     const deletePoke = (e) => {
+        props.setLastDeleted(pokemon)
+        props.setDeletedBox(props.boxNumber)
         setPokemon(null)
         props.setShowUndo(true)
         e.stopPropagation();
@@ -57,6 +66,7 @@ function PokemonBox(props) {
 
     }, [props.pokeToAdd])
 
+
     //When pokeToEdit changes and it's different from our current pokemon, change to that pokemon
     useEffect(() => {
 
@@ -65,6 +75,13 @@ function PokemonBox(props) {
         }
 
     }, [props.pokeToEdit])
+
+    //When undo changes, set this box's pokemon to the last deleted pokemon.
+    useEffect(() => {
+        if (props.boxNumber === props.deletedBox) {
+            setPokemon(props.lastDeleted)
+        }
+    }, [props.undo])
 
 
     if (pokemon === null) {
