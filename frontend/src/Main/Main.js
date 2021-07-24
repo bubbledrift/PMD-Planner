@@ -67,6 +67,7 @@ function Main() {
                     setShowUndo={setShowUndo}
                     undo={undo}
                     setUndo={setUndo}
+                    lastDeleted={lastDeleted}
                 />
                 <PopupEdit
                     showPopupEdit={showPopupEdit}

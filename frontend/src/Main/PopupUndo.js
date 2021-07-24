@@ -13,26 +13,40 @@ function PopupUndo(props) {
         props.setShowUndo(false)
     }
 
-    const undoBody = (
-        <div>
-            <Button variant="secondary" className='UndoButton' onClick={reAddPoke}>
-                Undo
-            </Button>
-        </div>
-    )
+    let displayName = ''
+    if (props.lastDeleted !== null) {
+        displayName = props.lastDeleted.Nickname
+        if (displayName === '') {
+            displayName = props.lastDeleted.Name
+        }
+    }
+
 
     if (!props.showUndo) {
         return <div/>;
     }
     return (
         <div className="PopupUndo">
-            <div className="Popup-headerUndo">
-                <div className="Popup-titleUndo">You deleted ...</div>
-                <button className="close" onClick={() => props.setShowUndo(false)}/>
+
+            <div className="DeletedText">
+                Deleted
             </div>
-            <div className="Popup-contentUndo">
-                {undoBody}
+
+            <div className="PokeName">
+                {displayName}
             </div>
+
+            <button className="close-Undo" onClick={() => props.setShowUndo(false)}/>
+
+            <div>
+                <Button variant="dark" className='UndoButton' onClick={reAddPoke}>
+                    <div className="UndoText">
+                        Undo?
+                    </div>
+                </Button>
+            </div>
+
+
         </div>
     );
 
