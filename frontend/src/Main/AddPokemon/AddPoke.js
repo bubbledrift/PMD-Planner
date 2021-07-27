@@ -134,49 +134,52 @@ function AddPoke(props) {
                 />
             </div>
 
-            <div className='evolvedCheck'>
-                <input type='checkbox' onChange={() => {
-                    if (evolvedOnly === false) {
-                        setEvolvedOnly(true)
-                    } else {
-                        setEvolvedOnly(false)
-                    }
-                }}/> Fully Evolved Only
+            <div className='FilterSort'>
+                <div className='CheckFilter'>
+                    <input type='checkbox' onChange={() => {
+                        if (evolvedOnly === false) {
+                            setEvolvedOnly(true)
+                        } else {
+                            setEvolvedOnly(false)
+                        }
+                    }}/> Fully Evolved Only
+                </div>
+
+                <div>
+                    <Dropdown>
+                        <Dropdown.Toggle size='sm' variant='secondary' className='TypeDropdownButton' >
+                            {typeFilter}
+                        </Dropdown.Toggle>
+
+                        <Dropdown.Menu className='TypeDropdownMenu'>
+                            <Dropdown.Item onClick={() => setTypeFilter('Type')}>All</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Normal')}>Normal</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Fighting')}>Fighting</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Flying')}>Flying</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Poison')}>Poison</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Ground')}>Ground</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Rock')}>Rock</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Bug')}>Bug</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Ghost')}>Ghost</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Steel')}>Steel</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Fire')}>Fire</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Water')}>Water</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Grass')}>Grass</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Electric')}>Electric</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Psychic')}>Psychic</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Ice')}>Ice</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Dragon')}>Dragon</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Dark')}>Dark</Dropdown.Item>
+                            <Dropdown.Item onClick={() => setTypeFilter('Fairy')}>Fairy</Dropdown.Item>
+                        </Dropdown.Menu>
+                    </Dropdown>
+                </div>
             </div>
 
-            <div>
-                <Dropdown>
-                    <Dropdown.Toggle size='sm' variant='secondary' className='TypeDropdownButton' >
-                        {typeFilter}
-                    </Dropdown.Toggle>
-
-                    <Dropdown.Menu className='TypeDropdownMenu'>
-                        <Dropdown.Item onClick={() => setTypeFilter('Type')}>All</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Normal')}>Normal</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Fighting')}>Fighting</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Flying')}>Flying</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Poison')}>Poison</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Ground')}>Ground</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Rock')}>Rock</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Bug')}>Bug</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Ghost')}>Ghost</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Steel')}>Steel</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Fire')}>Fire</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Water')}>Water</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Grass')}>Grass</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Electric')}>Electric</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Psychic')}>Psychic</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Ice')}>Ice</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Dragon')}>Dragon</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Dark')}>Dark</Dropdown.Item>
-                        <Dropdown.Item onClick={() => setTypeFilter('Fairy')}>Fairy</Dropdown.Item>
-                    </Dropdown.Menu>
-                </Dropdown>
-            </div>
-
-            <div>
+            <div className='Table'>
                 <ButtonGroup className='Header'>
-                    <Button variant="secondary" className='HeaderButton' onClick={popularityClick}>
+                    <Button variant="secondary" className='HeaderButton' onClick={popularityClick}
+                            style={{borderLeftStyle: "none"}}>
                         {headerLabels[0]}
                     </Button>
                     <Button variant="secondary" className='HeaderButton' onClick={pokemonClick}>
@@ -185,13 +188,14 @@ function AddPoke(props) {
                     <Button variant="secondary" className='HeaderButton' onClick={typeClick}>
                         {headerLabels[2]}
                     </Button>
-                    <Button variant="secondary" className='HeaderButton' onClick={campClick}>
+                    <Button variant="secondary" className='HeaderButton' onClick={campClick}
+                            style={{borderRightStyle: "none"}}>
                         {headerLabels[3]}
                     </Button>
                 </ButtonGroup>
 
 
-                <div className="Results">
+                <div className="AddResults">
                     {results.map((val, key) => {
                         return (
                             <div className="listElement">

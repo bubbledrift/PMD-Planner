@@ -146,7 +146,7 @@ function EditPoke(props) {
                 {resultType}
             </div>
 
-            <div className="Results">
+            <div className="EditResults">
                 {results.map((val, key) => {
                     return (
                         <div className="listElement">

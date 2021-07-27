@@ -23,8 +23,7 @@
     flex-direction: row;
 }
 
-input[type="text"]
-{
+#TeamName {
     color: #e2e3e5;
     background: transparent;
     border: none;

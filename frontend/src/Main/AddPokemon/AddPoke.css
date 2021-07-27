@@ -1,23 +1,40 @@
 .AddPokemon {
-
+    display: flex;
+    flex-direction: column;
 }
 
 .searchbar {
-    margin-top: 20px;
-    width: 300px;
-    height: 40px;
-    font-size: 20px;
-    padding-left: 8px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
 }
 
+.FilterSort {
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.CheckFilter {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.Table {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .listElement {
     margin: 5px;
 }
 
-.Results {
-    height: 50vh;
-    width: 50vw;
+.AddResults {
+    height: 53vh;
+    width: 56vw;
     overflow: auto;
 }
 
@@ -28,14 +45,14 @@
     font-family: Arial, Helvetica, sans-serif;
 
     left: 4px;
-    width: 49vw;
+    width: 55vw;
 }
 
 .HeaderButton {
     /*-webkit-text-size-adjust: auto;*/
     padding: 5px;
     font-size: 95%;
-    border-width: 1px;
+    border-width: 1.5px;
     border-right-style: solid;
     border-left-style: solid;
     border-right-color: var(--borderColor);
@@ -47,9 +64,9 @@
 }
 
 .TypeDropdownMenu {
-    width: 50px;
-    /*background: #5a6268;*/
-    height: 80vh;
+    min-width: 8rem;
+    background: #c9eaff;
+    height: 60vh;
     overflow: auto;
 }
 
