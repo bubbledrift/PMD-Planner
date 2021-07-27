@@ -1,17 +1,21 @@
 .TeamBox {
-    width: 700px;
-    height: 400px;
+    width: 720px;
+    height: 410px;
     border-style: solid;
     border-color: white;
 
     display: flex;
     flex-direction: column;
     margin: 10px;
+    border-radius: 10px;
+    padding: 2px 8px 8px;
+    background: #aa5d5d;
 }
 
 .Pokemon {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .BoxHeader {
@@ -28,6 +32,7 @@ input[type="text"]
     min-width: 80px;
     max-width: 300px;
     font-size: 22px;
+    margin: 0px 5px 0px;
 }
 
 #edit {

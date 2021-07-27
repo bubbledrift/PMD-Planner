@@ -1,9 +1,34 @@
+.EmptyBox {
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 2px;
+
+    width: 220px;
+    height: 360px;
+    margin: 0px 5px 0px;
+}
+
+.AddPokeButton {
+    width: 216px;
+    height: 50px;
+}
+
 .PokemonBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.EditButton {
     width: 220px;
     height: 360px;
 
-    display: flex;
-    flex-direction: column;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+
+    padding: 0px;
+    margin: 0px 5px 0px;
 }
 
 #portrait {
@@ -40,8 +65,8 @@
 }
 
 .Move {
-    margin: 5px;
-    height: 2em;
+    margin: 4px;
+    height: 1.9em;
     background: #565555;
     border-radius: 5px;
 }
@@ -52,16 +77,3 @@
 }
 
 
-.EmptyBox {
-    border-style: solid;
-    border-color: white;
-    border-radius: 5px;
-
-    width: 220px;
-    height: 360px;
-}
-
-.AddPokeButton {
-    width: 200px;
-    height: 50px;
-}

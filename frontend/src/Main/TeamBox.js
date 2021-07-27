@@ -1,5 +1,5 @@
-import "./TeamBox.css"
 import PokemonBox from "./PokemonBox";
+import "./TeamBox.css"
 import React, {useState} from "react";
 
 /**
