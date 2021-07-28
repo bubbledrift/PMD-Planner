@@ -37,13 +37,8 @@ function EditPoke(props) {
         type2Src = '/images/types/' + pokemon.Type2.toLowerCase() + '.gif'
     }
 
-    //Saves our changes to the pokemon, and closes the edit popup
+    //closes the edit popup
     const savePoke = () => {
-        pokemon.Nickname = nickname
-        pokemon.Item = item
-        pokemon.RareQuality = rq
-
-        props.setPokeToEdit(pokemon)
         props.setShowPopupEdit(false)
     }
 
@@ -64,86 +59,157 @@ function EditPoke(props) {
         }
     })
 
+    //Autosaves any changes when fields that should be saved change.
+    useEffect(() => {
+        pokemon.Nickname = nickname
+        pokemon.Item = item
+        pokemon.RareQuality = rq
+
+        props.setPokeToEdit(pokemon)
+    }, [nickname, rq, item])
 
     //This use effect should happen every time the result type changes or text input changes
     useEffect(() => {
-        if (resultType === 'Item') {
+        if (resultType === 'Items') {
             setResults(itemResults)
-        } else if (resultType === "Rare Quality") {
+        } else if (resultType === "Rare Qualities") {
             setResults(rqResults)
         } else {
             setResults([])
         }
     }, [resultType, itemText, rqText])
 
+    let portraitSrc = '/images/portraits/' + pokemon.Number + '.png'
 
     return (
-        <div>
-            <div>
-                Pokemon
+        <div className="EditPage">
+            <div className='EditInfo'>
+
+                <div className='EditInfoElement' id='EditImage'>
+                    <img id="EditPortrait" src={process.env.PUBLIC_URL + portraitSrc} alt={pokemon.Name}/>
+
+                    <div id='EditTypes'>
+                        <img src={process.env.PUBLIC_URL + type1Src} alt={pokemon.Type1}/>
+                        <img src={process.env.PUBLIC_URL + type2Src} alt={pokemon.Type2}/>
+                    </div>
+
+                </div>
+
+                <div className='EditInfoElement' id='EditPokemon'>
+                    Pokemon
+                    <input
+                        type="text"
+                        defaultValue={pokemon.Name}
+                        onChange={(event) => {
+                            //setSearchTerm(event.target.value)
+                        }}
+                    />
+                </div>
+
+                <div className='EditInfoElement' id='EditNickname'>
+                    Nickname
+                    <input
+                        type="text"
+                        value={nickname}
+                        maxLength="11"
+                        onChange={(event) => {
+                            setNickname(event.target.value)
+                        }}
+                    />
+                </div>
+
+                <div className='EditInfoElement' id='EditRQ'>
+
+                    <div className='ItemAndRQLabel'>
+                        <img src={process.env.PUBLIC_URL + "images/other/rarequality.png"}
+                             alt="Rare Quality" id='RQIcon'/>
+                        <div className='ItemAndRQLabelText'>
+                            Rare Quality
+                        </div>
+                    </div>
+
+                    <input
+                        type="text"
+                        value={rqText}
+                        onFocus={() => {
+                            setResultType('Rare Qualities')
+                            setRQInputChanged(false)
+                        }}
+                        onChange={(event) => {
+                            setRQText(event.target.value)
+                            setRQInputChanged(true)
+                        }}
+                    />
+                </div>
+
+                <div className='EditInfoElement' id='EditItem'>
+
+                    <div className='ItemAndRQLabel'>
+                        <img src={process.env.PUBLIC_URL + "images/other/scarf.png"}
+                             alt="Item" id='ItemIcon'/>
+                        <div className='ItemAndRQLabelText'>
+                            Item
+                        </div>
+                    </div>
+
+                    <input
+                        type="text"
+                        value={itemText}
+                        onFocus={() => {
+                            setResultType('Items')
+                            setItemInputChanged(false)
+                        }}
+                        onChange={(event) => {
+                            setItemText(event.target.value)
+                            setItemInputChanged(true)
+                        }}
+                    />
+                </div>
+
+                <div className='EditInfoElement' id='EditMoves'>
+                    Moves
+                </div>
+
                 <input
+                    className='EditInfoElement'
+                    id='Move1'
                     type="text"
-                    defaultValue={pokemon.Name}
+                    defaultValue={pokemon.Move1}
+                    onChange={(event) => {
+                        //setSearchTerm(event.target.value)
+                    }}
+                />
+                <input
+                    className='EditInfoElement'
+                    id='Move2'
+                    type="text"
+                    defaultValue={pokemon.Move2}
+                    onChange={(event) => {
+                        //setSearchTerm(event.target.value)
+                    }}
+                />
+                <input
+                    className='EditInfoElement'
+                    id='Move3'
+                    type="text"
+                    defaultValue={pokemon.Move3}
+                    onChange={(event) => {
+                        //setSearchTerm(event.target.value)
+                    }}
+                />
+                <input
+                    className='EditInfoElement'
+                    id='Move4'
+                    type="text"
+                    defaultValue={pokemon.Move4}
                     onChange={(event) => {
                         //setSearchTerm(event.target.value)
                     }}
                 />
 
-                Nickname
-                <input
-                    type="text"
-                    value={nickname}
-                    maxLength="11"
-                    onChange={(event) => {
-                        setNickname(event.target.value)
-                    }}
-                />
-
-                <img src={process.env.PUBLIC_URL + type1Src} alt={pokemon.Type1}/>
-                <img src={process.env.PUBLIC_URL + type2Src} alt={pokemon.Type2}/>
-            </div>
-            <div>
-                Rare Quality
-                <input
-                    type="text"
-                    value={rqText}
-                    onFocus={() => {
-                        setResultType('Rare Quality')
-                        setRQInputChanged(false)
-                    }}
-                    onChange={(event) => {
-                        setRQText(event.target.value)
-                        setRQInputChanged(true)
-                    }}
-                />
-
-
-                Item
-                <input
-                    type="text"
-                    value={itemText}
-                    onFocus={() => {
-                        setResultType('Item')
-                        setItemInputChanged(false)
-                    }}
-                    onChange={(event) => {
-                        setItemText(event.target.value)
-                        setItemInputChanged(true)
-                    }}
-                />
-
-            </div>
-
-            <div className='Moves'>
-                Moves
-                {pokemon.Move1}
-                {pokemon.Move2}
-                {pokemon.Move3}
-                {pokemon.Move4}
-            </div>
-
-            <div className='ResultHeader'>
-                {resultType}
+                <div className='EditInfoElement' id='EditResultHeader'>
+                    {resultType}
+                </div>
             </div>
 
             <div className="EditResults">
@@ -155,11 +221,11 @@ function EditPoke(props) {
                                 variant="secondary" block
                                 onClick={() => {
 
-                                    if (resultType === "Item") {
+                                    if (resultType === "Items") {
                                         setItem(val.Name)
                                         setItemText(val.Name)
                                         setItemInputChanged(false)
-                                    } else if (resultType === 'Rare Quality') {
+                                    } else if (resultType === 'Rare Qualities') {
                                         setRQ(val.Name)
                                         setRQText(val.Name)
                                         setRQInputChanged(false)
@@ -175,8 +241,8 @@ function EditPoke(props) {
             </div>
 
 
-            <div >
-                <Button variant="secondary" className='SaveButton' onClick={savePoke}>
+            <div className='EditSave'>
+                <Button variant="success" className='SaveButton' onClick={savePoke}>
                     Save
                 </Button>
             </div>

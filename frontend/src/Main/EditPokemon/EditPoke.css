@@ -1,5 +1,130 @@
+.EditPage {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.EditInfo {
+    display: grid;
+    grid-template-columns: 12em 12em;
+    grid-template-rows: auto auto auto auto auto auto auto auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.EditInfoElement {
+    margin: 0px 2px 0px;
+}
+
+#EditImage {
+    grid-row: 1/4;
+    display: grid;
+    grid-template-columns: 68% auto;
+    grid-template-rows: auto;
+}
+
+#EditPortrait {
+    width: 120px;
+}
+
+#EditTypes {
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#EditPokemon {
+    grid-column: 2;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+}
+
+#EditNickname {
+    grid-column: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.ItemAndRQLabel {
+    display: flex;
+    flex-direction: row;
+}
+
+.ItemAndRQLabelText {
+    padding-top: 4px;
+    padding-left: 2px;
+}
+
+#RQIcon {
+    height: 28px;
+    margin-bottom: 2px;
+}
+
+#EditRQ {
+    grid-column: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+#ItemIcon {
+    height: 28px;
+    margin-bottom: 2px;
+}
+
+#EditItem {
+    grid-column: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+#EditMoves {
+    grid-row: 5;
+}
+
+#Move1 {
+    grid-column: 1;
+    grid-row: 6;
+    margin-bottom: 5px;
+}
+
+#Move2 {
+    grid-column: 1;
+    grid-row: 7;
+}
+#Move3 {
+    grid-column: 2;
+    grid-row: 6;
+    margin-bottom: 5px;
+}
+#Move4 {
+    grid-column: 2;
+    grid-row: 7;
+}
+
+#EditResultHeader {
+    grid-row: 8;
+    font-size: 20px;
+}
+
 .EditResults {
+    margin-right: auto;
+    margin-left: auto;
+
     height: 50vh;
-    width: 50vw;
+    width: 24.5em;
     overflow: auto;
+}
+
+.EditSave {
+    margin-top: 7px;
+    margin-left: auto;
+    margin-right: 2%;
+}
+
+.SaveButton {
+    width: 100px;
 }
