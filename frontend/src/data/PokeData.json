@@ -6,7 +6,7 @@
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
     "FinalEvolution": false,
-    "Popularity": 5
+    "Popularity": 0
   },
   {
     "Number": "#002",
@@ -15,7 +15,7 @@
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
     "FinalEvolution": false,
-    "Popularity": 3
+    "Popularity": 0
   },
   {
     "Number": "#003",
@@ -24,7 +24,7 @@
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
     "FinalEvolution": true,
-    "Popularity": 16
+    "Popularity": 0
   },
   {
     "Number": "#004",
@@ -33,7 +33,7 @@
     "Type2": "",
     "RescueCamp": "Mt. Cleft",
     "FinalEvolution": false,
-    "Popularity": 24
+    "Popularity": 0
   },
   {
     "Number": "#005",
@@ -42,7 +42,7 @@
     "Type2": "",
     "RescueCamp": "Mt. Cleft",
     "FinalEvolution": false,
-    "Popularity": 4
+    "Popularity": 0
   },
   {
     "Number": "#006",
@@ -51,7 +51,7 @@
     "Type2": "Flying",
     "RescueCamp": "Mt. Cleft",
     "FinalEvolution": true,
-    "Popularity": 40
+    "Popularity": 0
   },
   {
     "Number": "#007",
@@ -60,7 +60,7 @@
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
     "FinalEvolution": false,
-    "Popularity": 11
+    "Popularity": 0
   },
   {
     "Number": "#008",
@@ -69,7 +69,7 @@
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
     "FinalEvolution": false,
-    "Popularity": 3
+    "Popularity": 0
   },
   {
     "Number": "#009",
@@ -78,7 +78,7 @@
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
     "FinalEvolution": true,
-    "Popularity": 32
+    "Popularity": 0
   },
   {
     "Number": "#010",
@@ -87,7 +87,7 @@
     "Type2": "",
     "RescueCamp": "Stump Forest",
     "FinalEvolution": false,
-    "Popularity": 6
+    "Popularity": 0
   },
   {
     "Number": "#011",
@@ -96,6 +96,3669 @@
     "Type2": "",
     "RescueCamp": "Stump Forest",
     "FinalEvolution": false,
-    "Popularity": 1
+    "Popularity": 0
+  },
+  {
+    "Number": "#012",
+    "Name": "Butterfree",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#013",
+    "Name": "Weedle",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#014",
+    "Name": "Kakuna",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#015",
+    "Name": "Beedrill",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#016",
+    "Name": "Pidgey",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#017",
+    "Name": "Pidgeotto",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#018",
+    "Name": "Pidgeot",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#019",
+    "Name": "Rattata",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#020",
+    "Name": "Raticate",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#021",
+    "Name": "Spearow",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Ravaged Field",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#022",
+    "Name": "Fearow",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Ravaged Field",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#023",
+    "Name": "Ekans",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#024",
+    "Name": "Arbok",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#025",
+    "Name": "Pikachu",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#026",
+    "Name": "Raichu",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#027",
+    "Name": "Sandshrew",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Withering Desert",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#028",
+    "Name": "Sandslash",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Withering Desert",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#029",
+    "Name": "Nidoran♀",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#030",
+    "Name": "Nidorina",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#031",
+    "Name": "Nidoqueen",
+    "Type1": "Poison",
+    "Type2": "Ground",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#032",
+    "Name": "Nidoran♂",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#033",
+    "Name": "Nidorino",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#034",
+    "Name": "Nidoking",
+    "Type1": "Poison",
+    "Type2": "Ground",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#035",
+    "Name": "Clefairy",
+    "Type1": "Fairy",
+    "Type2": "",
+    "RescueCamp": "Mt. Moonview",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#036",
+    "Name": "Clefable",
+    "Type1": "Fairy",
+    "Type2": "",
+    "RescueCamp": "Mt. Moonview",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#037",
+    "Name": "Vulpix",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#038",
+    "Name": "Ninetales",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#039",
+    "Name": "Jigglypuff",
+    "Type1": "Normal",
+    "Type2": "Fairy",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#040",
+    "Name": "Wigglytuff",
+    "Type1": "Normal",
+    "Type2": "Fairy",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#041",
+    "Name": "Zubat",
+    "Type1": "Poison",
+    "Type2": "Flying",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#042",
+    "Name": "Golbat",
+    "Type1": "Poison",
+    "Type2": "Flying",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#043",
+    "Name": "Oddish",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#044",
+    "Name": "Gloom",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#045",
+    "Name": "Vileplume",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#046",
+    "Name": "Paras",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "RescueCamp": "Mushroom Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#047",
+    "Name": "Parasect",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "RescueCamp": "Mushroom Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#048",
+    "Name": "Venonat",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#049",
+    "Name": "Venomoth",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#050",
+    "Name": "Diglett",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Boulder Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#051",
+    "Name": "Dugtrio",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Boulder Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#052",
+    "Name": "Meowth",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#053",
+    "Name": "Persian",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#054",
+    "Name": "Psyduck",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#055",
+    "Name": "Golduck",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#056",
+    "Name": "Mankey",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#057",
+    "Name": "Primeape",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#058",
+    "Name": "Growlithe",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#059",
+    "Name": "Arcanine",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#060",
+    "Name": "Poliwag",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#061",
+    "Name": "Poliwhirl",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#062",
+    "Name": "Poliwrath",
+    "Type1": "Water",
+    "Type2": "Fighting",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#063",
+    "Name": "Abra",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#064",
+    "Name": "Kadabra",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#065",
+    "Name": "Alakazam",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#066",
+    "Name": "Machop",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#067",
+    "Name": "Machoke",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#068",
+    "Name": "Machamp",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#069",
+    "Name": "Bellsprout",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#070",
+    "Name": "Weepinbell",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#071",
+    "Name": "Victreebel",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#072",
+    "Name": "Tentacool",
+    "Type1": "Water",
+    "Type2": "Poison",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#073",
+    "Name": "Tentacruel",
+    "Type1": "Water",
+    "Type2": "Poison",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#074",
+    "Name": "Geodude",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#075",
+    "Name": "Graveler",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#076",
+    "Name": "Golem",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#077",
+    "Name": "Ponyta",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#078",
+    "Name": "Rapidash",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#079",
+    "Name": "Slowpoke",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#080",
+    "Name": "Slowbro",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#081",
+    "Name": "Magnemite",
+    "Type1": "Electric",
+    "Type2": "Steel",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#082",
+    "Name": "Magneton",
+    "Type1": "Electric",
+    "Type2": "Steel",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#083",
+    "Name": "Farfetch'd",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#084",
+    "Name": "Doduo",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#085",
+    "Name": "Dodrio",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#086",
+    "Name": "Seel",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Ice Floe Beach",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#087",
+    "Name": "Dewgong",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "RescueCamp": "Ice Floe Beach",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#088",
+    "Name": "Grimer",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Poison Swamp",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#089",
+    "Name": "Muk",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Poison Swamp",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#090",
+    "Name": "Shellder",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#091",
+    "Name": "Cloyster",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#092",
+    "Name": "Gastly",
+    "Type1": "Ghost",
+    "Type2": "Poison",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#093",
+    "Name": "Haunter",
+    "Type1": "Ghost",
+    "Type2": "Poison",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#094",
+    "Name": "Gengar",
+    "Type1": "Ghost",
+    "Type2": "Poison",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#095",
+    "Name": "Onix",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "RescueCamp": "Boulder Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#096",
+    "Name": "Drowzee",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#097",
+    "Name": "Hypno",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#098",
+    "Name": "Krabby",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Shallow Beach",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#099",
+    "Name": "Kingler",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Shallow Beach",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#100",
+    "Name": "Voltorb",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#101",
+    "Name": "Electrode",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#102",
+    "Name": "Exeggcute",
+    "Type1": "Grass",
+    "Type2": "Psychic",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#103",
+    "Name": "Exeggutor",
+    "Type1": "Grass",
+    "Type2": "Psychic",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#104",
+    "Name": "Cubone",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#105",
+    "Name": "Marowak",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#106",
+    "Name": "Hitmonlee",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#107",
+    "Name": "Hitmonchan",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#108",
+    "Name": "Lickitung",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#109",
+    "Name": "Koffing",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Poison Swamp",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#110",
+    "Name": "Weezing",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Poison Swamp",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#111",
+    "Name": "Rhyhorn",
+    "Type1": "Ground",
+    "Type2": "Rock",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#112",
+    "Name": "Rhydon",
+    "Type1": "Ground",
+    "Type2": "Rock",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#113",
+    "Name": "Chansey",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#114",
+    "Name": "Tangela",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#115",
+    "Name": "Kangaskhan",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#116",
+    "Name": "Horsea",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#117",
+    "Name": "Seadra",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#118",
+    "Name": "Goldeen",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Rub-a-Dub River",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#119",
+    "Name": "Seaking",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Rub-a-Dub River",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#120",
+    "Name": "Staryu",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#121",
+    "Name": "Starmie",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#122",
+    "Name": "Mr. Mime",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#123",
+    "Name": "Scyther",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#124",
+    "Name": "Jynx",
+    "Type1": "Ice",
+    "Type2": "Psychic",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#125",
+    "Name": "Electabuzz",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#126",
+    "Name": "Magmar",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Crater",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#127",
+    "Name": "Pinsir",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#128",
+    "Name": "Tauros",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#129",
+    "Name": "Magikarp",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Waterfall Lake",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#130",
+    "Name": "Gyarados",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "RescueCamp": "Waterfall Lake",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#131",
+    "Name": "Lapras",
+    "Type1": "Water",
+    "Type2": "Ice",
+    "RescueCamp": "Mystic Lake",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#132",
+    "Name": "Ditto",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#133",
+    "Name": "Eevee",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#134",
+    "Name": "Vaporeon",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#135",
+    "Name": "Jolteon",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#136",
+    "Name": "Flareon",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#137",
+    "Name": "Porygon",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#138",
+    "Name": "Omanyte",
+    "Type1": "Rock",
+    "Type2": "Water",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#139",
+    "Name": "Omastar",
+    "Type1": "Rock",
+    "Type2": "Water",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#140",
+    "Name": "Kabuto",
+    "Type1": "Rock",
+    "Type2": "Water",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#141",
+    "Name": "Kabutops",
+    "Type1": "Rock",
+    "Type2": "Water",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#142",
+    "Name": "Aerodactyl",
+    "Type1": "Rock",
+    "Type2": "Flying",
+    "RescueCamp": "Ancient Relic",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#143",
+    "Name": "Snorlax",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#144",
+    "Name": "Articuno",
+    "Type1": "Ice",
+    "Type2": "Flying",
+    "RescueCamp": "Legendary Island",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#145",
+    "Name": "Zapdos",
+    "Type1": "Electric",
+    "Type2": "Flying",
+    "RescueCamp": "Legendary Island",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#146",
+    "Name": "Moltres",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "RescueCamp": "Legendary Island",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#147",
+    "Name": "Dratini",
+    "Type1": "Dragon",
+    "Type2": "",
+    "RescueCamp": "Mystic Lake",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#148",
+    "Name": "Dragonair",
+    "Type1": "Dragon",
+    "Type2": "",
+    "RescueCamp": "Mystic Lake",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#149",
+    "Name": "Dragonite",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "RescueCamp": "Mystic Lake",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#150",
+    "Name": "Mewtwo",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Cryptic Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#151",
+    "Name": "Mew",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Final Island",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#152",
+    "Name": "Chikorita",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#153",
+    "Name": "Bayleef",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#154",
+    "Name": "Meganium",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#155",
+    "Name": "Cyndaquil",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#156",
+    "Name": "Quilava",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#157",
+    "Name": "Typhlosion",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#158",
+    "Name": "Totodile",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Rub-a-Dub River",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#159",
+    "Name": "Croconaw",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Rub-a-Dub River",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#160",
+    "Name": "Feraligatr",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Rub-a-Dub River",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#161",
+    "Name": "Sentret",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#162",
+    "Name": "Furret",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#163",
+    "Name": "Hoothoot",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#164",
+    "Name": "Noctowl",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#165",
+    "Name": "Ledyba",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#166",
+    "Name": "Ledian",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#167",
+    "Name": "Spinarak",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#168",
+    "Name": "Ariados",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#169",
+    "Name": "Crobat",
+    "Type1": "Poison",
+    "Type2": "Flying",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#170",
+    "Name": "Chinchou",
+    "Type1": "Water",
+    "Type2": "Electric",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#171",
+    "Name": "Lanturn",
+    "Type1": "Water",
+    "Type2": "Electric",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#172",
+    "Name": "Pichu",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#173",
+    "Name": "Cleffa",
+    "Type1": "Fairy",
+    "Type2": "",
+    "RescueCamp": "Mt. Moonview",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#174",
+    "Name": "Igglybuff",
+    "Type1": "Normal",
+    "Type2": "Fairy",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#175",
+    "Name": "Togepi",
+    "Type1": "Fairy",
+    "Type2": "",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#176",
+    "Name": "Togetic",
+    "Type1": "Fairy",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#177",
+    "Name": "Natu",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#178",
+    "Name": "Xatu",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#179",
+    "Name": "Mareep",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#180",
+    "Name": "Flaaffy",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#181",
+    "Name": "Ampharos",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#182",
+    "Name": "Bellossom",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#183",
+    "Name": "Marill",
+    "Type1": "Water",
+    "Type2": "Fairy",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#184",
+    "Name": "Azumarill",
+    "Type1": "Water",
+    "Type2": "Fairy",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#185",
+    "Name": "Sudowoodo",
+    "Type1": "Rock",
+    "Type2": "",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#186",
+    "Name": "Politoed",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#187",
+    "Name": "Hoppip",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#188",
+    "Name": "Skiploom",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#189",
+    "Name": "Jumpluff",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#190",
+    "Name": "Aipom",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#191",
+    "Name": "Sunkern",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#192",
+    "Name": "Sunflora",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#193",
+    "Name": "Yanma",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#194",
+    "Name": "Wooper",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "RescueCamp": "Gourd Swamp",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#195",
+    "Name": "Quagsire",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "RescueCamp": "Gourd Swamp",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#196",
+    "Name": "Espeon",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#197",
+    "Name": "Umbreon",
+    "Type1": "Dark",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#198",
+    "Name": "Murkrow",
+    "Type1": "Dark",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#199",
+    "Name": "Slowking",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "RescueCamp": "Bountiful Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#200",
+    "Name": "Misdreavus",
+    "Type1": "Ghost",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#201",
+    "Name": "Unown",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Aged Chamber A-N",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#202",
+    "Name": "Wobbuffet",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#203",
+    "Name": "Girafarig",
+    "Type1": "Normal",
+    "Type2": "Psychic",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#204",
+    "Name": "Pineco",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#205",
+    "Name": "Forretress",
+    "Type1": "Bug",
+    "Type2": "Steel",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#206",
+    "Name": "Dunsparce",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#207",
+    "Name": "Gligar",
+    "Type1": "Ground",
+    "Type2": "Flying",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#208",
+    "Name": "Steelix",
+    "Type1": "Steel",
+    "Type2": "Ground",
+    "RescueCamp": "Boulder Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#209",
+    "Name": "Snubbull",
+    "Type1": "Fairy",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#210",
+    "Name": "Granbull",
+    "Type1": "Fairy",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#211",
+    "Name": "Qwilfish",
+    "Type1": "Water",
+    "Type2": "Poison",
+    "RescueCamp": "Serene Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#212",
+    "Name": "Scizor",
+    "Type1": "Bug",
+    "Type2": "Steel",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#213",
+    "Name": "Shuckle",
+    "Type1": "Bug",
+    "Type2": "Rock",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#214",
+    "Name": "Heracross",
+    "Type1": "Bug",
+    "Type2": "Fighting",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#215",
+    "Name": "Sneasel",
+    "Type1": "Dark",
+    "Type2": "Ice",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#216",
+    "Name": "Teddiursa",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#217",
+    "Name": "Ursaring",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#218",
+    "Name": "Slugma",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Crater",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#219",
+    "Name": "Magcargo",
+    "Type1": "Fire",
+    "Type2": "Rock",
+    "RescueCamp": "Crater",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#220",
+    "Name": "Swinub",
+    "Type1": "Ice",
+    "Type2": "Ground",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#221",
+    "Name": "Piloswine",
+    "Type1": "Ice",
+    "Type2": "Ground",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#222",
+    "Name": "Corsola",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Shallow Beach",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#223",
+    "Name": "Remoraid",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#224",
+    "Name": "Octillery",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#225",
+    "Name": "Delibird",
+    "Type1": "Ice",
+    "Type2": "Flying",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#226",
+    "Name": "Mantine",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "RescueCamp": "Serene Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#227",
+    "Name": "Skarmory",
+    "Type1": "Steel",
+    "Type2": "Flying",
+    "RescueCamp": "Ravaged Field",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#228",
+    "Name": "Houndour",
+    "Type1": "Dark",
+    "Type2": "Fire",
+    "RescueCamp": "Ravaged Field",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#229",
+    "Name": "Houndoom",
+    "Type1": "Dark",
+    "Type2": "Fire",
+    "RescueCamp": "Ravaged Field",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#230",
+    "Name": "Kingdra",
+    "Type1": "Water",
+    "Type2": "Dragon",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#231",
+    "Name": "Phanpy",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#232",
+    "Name": "Donphan",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#233",
+    "Name": "Porygon2",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#234",
+    "Name": "Stantler",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#235",
+    "Name": "Smeargle",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#236",
+    "Name": "Tyrogue",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#237",
+    "Name": "Hitmontop",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#238",
+    "Name": "Smoochum",
+    "Type1": "Ice",
+    "Type2": "Psychic",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#239",
+    "Name": "Elekid",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#240",
+    "Name": "Magby",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Crater",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#241",
+    "Name": "Miltank",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#242",
+    "Name": "Blissey",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#243",
+    "Name": "Raikou",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Sacred Field",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#244",
+    "Name": "Entei",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Sacred Field",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#245",
+    "Name": "Suicune",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Sacred Field",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#246",
+    "Name": "Larvitar",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#247",
+    "Name": "Pupitar",
+    "Type1": "Rock",
+    "Type2": "Ground",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#248",
+    "Name": "Tyranitar",
+    "Type1": "Rock",
+    "Type2": "Dark",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#249",
+    "Name": "Lugia",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "RescueCamp": "Deepsea Current",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#250",
+    "Name": "Ho-Oh",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "RescueCamp": "Rainbow Peak",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#251",
+    "Name": "Celebi",
+    "Type1": "Psychic",
+    "Type2": "Grass",
+    "RescueCamp": "Healing Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#252",
+    "Name": "Treecko",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#253",
+    "Name": "Grovyle",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#254",
+    "Name": "Sceptile",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#255",
+    "Name": "Torchic",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#256",
+    "Name": "Combusken",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#257",
+    "Name": "Blaziken",
+    "Type1": "Fire",
+    "Type2": "Fighting",
+    "RescueCamp": "Scorched Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#258",
+    "Name": "Mudkip",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Gourd Swamp",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#259",
+    "Name": "Marshtomp",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "RescueCamp": "Gourd Swamp",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#260",
+    "Name": "Swampert",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "RescueCamp": "Gourd Swamp",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#261",
+    "Name": "Poochyena",
+    "Type1": "Dark",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#262",
+    "Name": "Mightyena",
+    "Type1": "Dark",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#263",
+    "Name": "Zigzagoon",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#264",
+    "Name": "Linoone",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#265",
+    "Name": "Wurmple",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#266",
+    "Name": "Silcoon",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#267",
+    "Name": "Beautifly",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#268",
+    "Name": "Cascoon",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#269",
+    "Name": "Dustox",
+    "Type1": "Bug",
+    "Type2": "Poison",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#270",
+    "Name": "Lotad",
+    "Type1": "Water",
+    "Type2": "Grass",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#271",
+    "Name": "Lombre",
+    "Type1": "Water",
+    "Type2": "Grass",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#272",
+    "Name": "Ludicolo",
+    "Type1": "Water",
+    "Type2": "Grass",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#273",
+    "Name": "Seedot",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Mushroom Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#274",
+    "Name": "Nuzleaf",
+    "Type1": "Grass",
+    "Type2": "Dark",
+    "RescueCamp": "Mushroom Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#275",
+    "Name": "Shiftry",
+    "Type1": "Grass",
+    "Type2": "Dark",
+    "RescueCamp": "Mushroom Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#276",
+    "Name": "Taillow",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#277",
+    "Name": "Swellow",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#278",
+    "Name": "Wingull",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "RescueCamp": "Shallow Beach",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#279",
+    "Name": "Pelipper",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "RescueCamp": "Shallow Beach",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#280",
+    "Name": "Ralts",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#281",
+    "Name": "Kirlia",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#282",
+    "Name": "Gardevoir",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#283",
+    "Name": "Surskit",
+    "Type1": "Bug",
+    "Type2": "Water",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#284",
+    "Name": "Masquerain",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Tadpole Pond",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#285",
+    "Name": "Shroomish",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Mushroom Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#286",
+    "Name": "Breloom",
+    "Type1": "Grass",
+    "Type2": "Fighting",
+    "RescueCamp": "Mushroom Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#287",
+    "Name": "Slakoth",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#288",
+    "Name": "Vigoroth",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#289",
+    "Name": "Slaking",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#290",
+    "Name": "Nincada",
+    "Type1": "Bug",
+    "Type2": "Ground",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#291",
+    "Name": "Ninjask",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#292",
+    "Name": "Shedinja",
+    "Type1": "Bug",
+    "Type2": "Ghost",
+    "RescueCamp": "Secretive Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#293",
+    "Name": "Whismur",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#294",
+    "Name": "Loudred",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#295",
+    "Name": "Exploud",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#296",
+    "Name": "Makuhita",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#297",
+    "Name": "Hariyama",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#298",
+    "Name": "Azurill",
+    "Type1": "Normal",
+    "Type2": "Fairy",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#299",
+    "Name": "Nosepass",
+    "Type1": "Rock",
+    "Type2": "",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#300",
+    "Name": "Skitty",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#301",
+    "Name": "Delcatty",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#302",
+    "Name": "Sableye",
+    "Type1": "Dark",
+    "Type2": "Ghost",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#303",
+    "Name": "Mawile",
+    "Type1": "Steel",
+    "Type2": "Fairy",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#304",
+    "Name": "Aron",
+    "Type1": "Steel",
+    "Type2": "Rock",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#305",
+    "Name": "Lairon",
+    "Type1": "Steel",
+    "Type2": "Rock",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#306",
+    "Name": "Aggron",
+    "Type1": "Steel",
+    "Type2": "Rock",
+    "RescueCamp": "Mt. Cleft",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#307",
+    "Name": "Meditite",
+    "Type1": "Fighting",
+    "Type2": "Psychic",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#308",
+    "Name": "Medicham",
+    "Type1": "Fighting",
+    "Type2": "Psychic",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#309",
+    "Name": "Electrike",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#310",
+    "Name": "Manectric",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#311",
+    "Name": "Plusle",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#312",
+    "Name": "Minun",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#313",
+    "Name": "Volbeat",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Rub-a-Dub River",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#314",
+    "Name": "Illumise",
+    "Type1": "Bug",
+    "Type2": "",
+    "RescueCamp": "Rub-a-Dub River",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#315",
+    "Name": "Roselia",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#316",
+    "Name": "Gulpin",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Poison Swamp",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#317",
+    "Name": "Swalot",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Poison Swamp",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#318",
+    "Name": "Carvanha",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#319",
+    "Name": "Sharpedo",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#320",
+    "Name": "Wailmer",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Serene Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#321",
+    "Name": "Wailord",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Serene Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#322",
+    "Name": "Numel",
+    "Type1": "Fire",
+    "Type2": "Ground",
+    "RescueCamp": "Crater",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#323",
+    "Name": "Camerupt",
+    "Type1": "Fire",
+    "Type2": "Ground",
+    "RescueCamp": "Crater",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#324",
+    "Name": "Torkoal",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Crater",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#325",
+    "Name": "Spoink",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#326",
+    "Name": "Grumpig",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#327",
+    "Name": "Spinda",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#328",
+    "Name": "Trapinch",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Withering Desert",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#329",
+    "Name": "Vibrava",
+    "Type1": "Ground",
+    "Type2": "Dragon",
+    "RescueCamp": "Withering Desert",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#330",
+    "Name": "Flygon",
+    "Type1": "Ground",
+    "Type2": "Dragon",
+    "RescueCamp": "Withering Desert",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#331",
+    "Name": "Cacnea",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Withering Desert",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#332",
+    "Name": "Cacturne",
+    "Type1": "Grass",
+    "Type2": "Dark",
+    "RescueCamp": "Withering Desert",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#333",
+    "Name": "Swablu",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#334",
+    "Name": "Altaria",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#335",
+    "Name": "Zangoose",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#336",
+    "Name": "Seviper",
+    "Type1": "Poison",
+    "Type2": "",
+    "RescueCamp": "Wild Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#337",
+    "Name": "Lunatone",
+    "Type1": "Rock",
+    "Type2": "Psychic",
+    "RescueCamp": "Mt. Moonview",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#338",
+    "Name": "Solrock",
+    "Type1": "Rock",
+    "Type2": "Psychic",
+    "RescueCamp": "Mt. Moonview",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#339",
+    "Name": "Barboach",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "RescueCamp": "Gourd Swamp",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#340",
+    "Name": "Whiscash",
+    "Type1": "Water",
+    "Type2": "Ground",
+    "RescueCamp": "Gourd Swamp",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#341",
+    "Name": "Corphish",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#342",
+    "Name": "Crawdaunt",
+    "Type1": "Water",
+    "Type2": "Dark",
+    "RescueCamp": "Turtleshell Pond",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#343",
+    "Name": "Baltoy",
+    "Type1": "Ground",
+    "Type2": "Psychic",
+    "RescueCamp": "Ancient Relic",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#344",
+    "Name": "Claydol",
+    "Type1": "Ground",
+    "Type2": "Psychic",
+    "RescueCamp": "Ancient Relic",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#345",
+    "Name": "Lileep",
+    "Type1": "Rock",
+    "Type2": "Grass",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#346",
+    "Name": "Cradily",
+    "Type1": "Rock",
+    "Type2": "Grass",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#347",
+    "Name": "Anorith",
+    "Type1": "Rock",
+    "Type2": "Bug",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#348",
+    "Name": "Armaldo",
+    "Type1": "Rock",
+    "Type2": "Bug",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#349",
+    "Name": "Feebas",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Waterfall Lake",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#350",
+    "Name": "Milotic",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Waterfall Lake",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#351",
+    "Name": "Castform",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#352",
+    "Name": "Kecleon",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#353",
+    "Name": "Shuppet",
+    "Type1": "Ghost",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#354",
+    "Name": "Banette",
+    "Type1": "Ghost",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#355",
+    "Name": "Duskull",
+    "Type1": "Ghost",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#356",
+    "Name": "Dusclops",
+    "Type1": "Ghost",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#357",
+    "Name": "Tropius",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#358",
+    "Name": "Chimecho",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#359",
+    "Name": "Absol",
+    "Type1": "Dark",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#360",
+    "Name": "Wynaut",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#361",
+    "Name": "Snorunt",
+    "Type1": "Ice",
+    "Type2": "",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#362",
+    "Name": "Glalie",
+    "Type1": "Ice",
+    "Type2": "",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#363",
+    "Name": "Spheal",
+    "Type1": "Ice",
+    "Type2": "Water",
+    "RescueCamp": "Ice Floe Beach",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#364",
+    "Name": "Sealeo",
+    "Type1": "Ice",
+    "Type2": "Water",
+    "RescueCamp": "Ice Floe Beach",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#365",
+    "Name": "Walrein",
+    "Type1": "Ice",
+    "Type2": "Water",
+    "RescueCamp": "Ice Floe Beach",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#366",
+    "Name": "Clamperl",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#367",
+    "Name": "Huntail",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#368",
+    "Name": "Gorebyss",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#369",
+    "Name": "Relicanth",
+    "Type1": "Water",
+    "Type2": "Rock",
+    "RescueCamp": "Deepsea Floor",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#370",
+    "Name": "Luvdisc",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Treasure Sea",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#371",
+    "Name": "Bagon",
+    "Type1": "Dragon",
+    "Type2": "",
+    "RescueCamp": "Dragon Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#372",
+    "Name": "Shelgon",
+    "Type1": "Dragon",
+    "Type2": "",
+    "RescueCamp": "Dragon Cave",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#373",
+    "Name": "Salamence",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "RescueCamp": "Dragon Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#374",
+    "Name": "Beldum",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "RescueCamp": "Magnetic Quarry",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#375",
+    "Name": "Metang",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "RescueCamp": "Magnetic Quarry",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#376",
+    "Name": "Metagross",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "RescueCamp": "Magnetic Quarry",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#377",
+    "Name": "Regirock",
+    "Type1": "Rock",
+    "Type2": "",
+    "RescueCamp": "Ancient Relic",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#378",
+    "Name": "Regice",
+    "Type1": "Ice",
+    "Type2": "",
+    "RescueCamp": "Ancient Relic",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#379",
+    "Name": "Registeel",
+    "Type1": "Steel",
+    "Type2": "",
+    "RescueCamp": "Ancient Relic",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#380",
+    "Name": "Latias",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "RescueCamp": "Southern Island",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#381",
+    "Name": "Latios",
+    "Type1": "Dragon",
+    "Type2": "Psychic",
+    "RescueCamp": "Southern Island",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#382",
+    "Name": "Kyogre",
+    "Type1": "Water",
+    "Type2": "",
+    "RescueCamp": "Seafloor Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#383",
+    "Name": "Groudon",
+    "Type1": "Ground",
+    "Type2": "",
+    "RescueCamp": "Volcanic Pit",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#384",
+    "Name": "Rayquaza",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "RescueCamp": "Stratos Lookout",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#385",
+    "Name": "Jirachi",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "RescueCamp": "Mt. Moonview",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#386",
+    "Name": "Deoxys",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Enclosed Island",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#406",
+    "Name": "Budew",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#407",
+    "Name": "Roserade",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "RescueCamp": "Beau Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#424",
+    "Name": "Ambipom",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#429",
+    "Name": "Mismagius",
+    "Type1": "Ghost",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#430",
+    "Name": "Honchkrow",
+    "Type1": "Dark",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#433",
+    "Name": "Chingling",
+    "Type1": "Psychic",
+    "Type2": "",
+    "RescueCamp": "Thunder Crag",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#438",
+    "Name": "Bonsly",
+    "Type1": "Rock",
+    "Type2": "",
+    "RescueCamp": "Overgrown Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#439",
+    "Name": "Mime Jr.",
+    "Type1": "Psychic",
+    "Type2": "Fairy",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#440",
+    "Name": "Happiny",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#446",
+    "Name": "Munchlax",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Vibrant Forest",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#447",
+    "Name": "Riolu",
+    "Type1": "Fighting",
+    "Type2": "",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#448",
+    "Name": "Lucario",
+    "Type1": "Fighting",
+    "Type2": "Steel",
+    "RescueCamp": "Mt. Discipline",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#458",
+    "Name": "Mantyke",
+    "Type1": "Water",
+    "Type2": "Flying",
+    "RescueCamp": "Serene Sea",
+    "FinalEvolution": false,
+    "Popularity": 0
+  },
+  {
+    "Number": "#461",
+    "Name": "Weavile",
+    "Type1": "Dark",
+    "Type2": "Ice",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#462",
+    "Name": "Magnezone",
+    "Type1": "Electric",
+    "Type2": "Steel",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#463",
+    "Name": "Lickilicky",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#464",
+    "Name": "Rhyperior",
+    "Type1": "Ground",
+    "Type2": "Rock",
+    "RescueCamp": "Safari",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#465",
+    "Name": "Tangrowth",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Jungle",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#466",
+    "Name": "Electivire",
+    "Type1": "Electric",
+    "Type2": "",
+    "RescueCamp": "Power Plant",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#467",
+    "Name": "Magmortar",
+    "Type1": "Fire",
+    "Type2": "",
+    "RescueCamp": "Crater",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#468",
+    "Name": "Togekiss",
+    "Type1": "Fairy",
+    "Type2": "Flying",
+    "RescueCamp": "Flyaway Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#469",
+    "Name": "Yanmega",
+    "Type1": "Bug",
+    "Type2": "Flying",
+    "RescueCamp": "Stump Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#470",
+    "Name": "Leafeon",
+    "Type1": "Grass",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#471",
+    "Name": "Glaceon",
+    "Type1": "Ice",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#472",
+    "Name": "Gliscor",
+    "Type1": "Ground",
+    "Type2": "Flying",
+    "RescueCamp": "Mt. Green",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#473",
+    "Name": "Mamoswine",
+    "Type1": "Ice",
+    "Type2": "Ground",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#474",
+    "Name": "Porygon-Z",
+    "Type1": "Normal",
+    "Type2": "",
+    "RescueCamp": "Decrepit Lab",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#475",
+    "Name": "Gallade",
+    "Type1": "Psychic",
+    "Type2": "Fighting",
+    "RescueCamp": "Sky-Blue Plains",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#476",
+    "Name": "Probopass",
+    "Type1": "Rock",
+    "Type2": "Steel",
+    "RescueCamp": "Echo Cave",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#477",
+    "Name": "Dusknoir",
+    "Type1": "Ghost",
+    "Type2": "",
+    "RescueCamp": "Darkness Ridge",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#478",
+    "Name": "Froslass",
+    "Type1": "Ice",
+    "Type2": "Ghost",
+    "RescueCamp": "Frigid Cavern",
+    "FinalEvolution": true,
+    "Popularity": 0
+  },
+  {
+    "Number": "#700",
+    "Name": "Sylveon",
+    "Type1": "Fairy",
+    "Type2": "",
+    "RescueCamp": "Evolution Forest",
+    "FinalEvolution": true,
+    "Popularity": 0
   }
 ]
