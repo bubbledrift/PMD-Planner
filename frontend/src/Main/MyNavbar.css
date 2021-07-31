@@ -1,0 +1,12 @@
+.NavLink {
+    color: #dddbdb;
+    margin: 7px;
+}
+
+.NavLink:hover {
+    color: #acacac;
+}
+
+#MyNavbar {
+    width: 100vw;
+}

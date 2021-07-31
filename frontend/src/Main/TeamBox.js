@@ -1,6 +1,6 @@
 import PokemonBox from "./PokemonBox";
 import "./TeamBox.css"
-import React, {useState} from "react";
+import {useLocalStorage} from "./Helpers";
 
 /**
  * TODO: make teams nameable, make team box collapsible.
@@ -30,7 +30,7 @@ function TeamBox(props) {
         );
     }
 
-    const [teamName, setTeamName] = useState("Team " + props.teamNumber)
+    const [teamName, setTeamName] = useLocalStorage(props.teamNumber,"Team " + props.teamNumber)
 
     return (
         <div className='TeamBox'>

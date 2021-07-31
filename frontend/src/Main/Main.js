@@ -4,6 +4,8 @@ import PopupAdd from "./AddPokemon/PopupAdd";
 import TeamBox from "./TeamBox";
 import PopupUndo from "./PopupUndo";
 import PopupEdit from "./EditPokemon/PopupEdit";
+import MyNavbar from "./MyNavbar";
+
 
 function Main() {
 
@@ -31,7 +33,7 @@ function Main() {
     const [undo, setUndo] = useState(false)
 
     let teams = [];
-    for (let i = 1; i < 8; i++) {
+    for (let i = 1; i < 10; i++) {
         teams.push(
             <TeamBox
                 setShowPopupAdd={setShowPopupAdd}
@@ -75,9 +77,10 @@ function Main() {
                     setPokeToEdit={setPokeToEdit}
                 />
 
-                <h1>TITLE TBD</h1>
+                <MyNavbar/>
 
-                {teams}
+                <div id='teams'>{teams}</div>
+
 
             </div>
         </div>

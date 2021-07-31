@@ -1,12 +1,12 @@
 import {Button} from "react-bootstrap";
 import PokeData from '../data/PokeData.json'
-import React, {useEffect, useState} from "react";
+import React, {useEffect} from "react";
 import "./PokemonBox.css"
+import {useLocalStorage} from "./Helpers";
 
 function PokemonBox(props) {
 
-    const [pokemon, setPokemon] = useState(null)
-
+    const [pokemon, setPokemon] = useLocalStorage(props.boxNumber,null)
 
     const addPokePopup = () => {
         //If the destination box is the same as the last deleted box's number, don't show the undo popup.
