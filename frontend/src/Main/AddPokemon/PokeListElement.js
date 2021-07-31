@@ -28,7 +28,7 @@ function PokeListElement(props) {
         <div className="element">
 
             <div className='popularity'>
-                {props.element.Popularity}
+                {props.popularity[props.element.Number]}
             </div>
 
             <div className="sprite">

@@ -5,8 +5,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#002",
@@ -14,8 +13,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#003",
@@ -23,8 +21,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#004",
@@ -32,8 +29,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#005",
@@ -41,8 +37,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#006",
@@ -50,8 +45,7 @@
     "Type1": "Fire",
     "Type2": "Flying",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#007",
@@ -59,8 +53,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#008",
@@ -68,8 +61,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#009",
@@ -77,8 +69,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#010",
@@ -86,8 +77,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#011",
@@ -95,8 +85,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#012",
@@ -104,8 +93,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#013",
@@ -113,8 +101,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#014",
@@ -122,8 +109,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#015",
@@ -131,8 +117,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#016",
@@ -140,8 +125,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#017",
@@ -149,8 +133,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#018",
@@ -158,8 +141,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#019",
@@ -167,8 +149,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#020",
@@ -176,8 +157,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#021",
@@ -185,8 +165,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Ravaged Field",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#022",
@@ -194,8 +173,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Ravaged Field",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#023",
@@ -203,8 +181,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#024",
@@ -212,8 +189,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#025",
@@ -221,8 +197,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#026",
@@ -230,8 +205,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#027",
@@ -239,8 +213,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Withering Desert",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#028",
@@ -248,8 +221,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Withering Desert",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#029",
@@ -257,8 +229,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#030",
@@ -266,8 +237,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#031",
@@ -275,8 +245,7 @@
     "Type1": "Poison",
     "Type2": "Ground",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#032",
@@ -284,8 +253,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#033",
@@ -293,8 +261,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#034",
@@ -302,8 +269,7 @@
     "Type1": "Poison",
     "Type2": "Ground",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#035",
@@ -311,8 +277,7 @@
     "Type1": "Fairy",
     "Type2": "",
     "RescueCamp": "Mt. Moonview",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#036",
@@ -320,8 +285,7 @@
     "Type1": "Fairy",
     "Type2": "",
     "RescueCamp": "Mt. Moonview",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#037",
@@ -329,8 +293,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#038",
@@ -338,8 +301,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#039",
@@ -347,8 +309,7 @@
     "Type1": "Normal",
     "Type2": "Fairy",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#040",
@@ -356,8 +317,7 @@
     "Type1": "Normal",
     "Type2": "Fairy",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#041",
@@ -365,8 +325,7 @@
     "Type1": "Poison",
     "Type2": "Flying",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#042",
@@ -374,8 +333,7 @@
     "Type1": "Poison",
     "Type2": "Flying",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#043",
@@ -383,8 +341,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Jungle",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#044",
@@ -392,8 +349,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Jungle",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#045",
@@ -401,8 +357,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Jungle",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#046",
@@ -410,8 +365,7 @@
     "Type1": "Bug",
     "Type2": "Grass",
     "RescueCamp": "Mushroom Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#047",
@@ -419,8 +373,7 @@
     "Type1": "Bug",
     "Type2": "Grass",
     "RescueCamp": "Mushroom Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#048",
@@ -428,8 +381,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#049",
@@ -437,8 +389,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#050",
@@ -446,8 +397,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Boulder Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#051",
@@ -455,8 +405,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Boulder Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#052",
@@ -464,8 +413,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#053",
@@ -473,8 +421,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#054",
@@ -482,8 +429,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#055",
@@ -491,8 +437,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#056",
@@ -500,8 +445,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#057",
@@ -509,8 +453,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#058",
@@ -518,8 +461,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#059",
@@ -527,8 +469,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#060",
@@ -536,8 +477,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#061",
@@ -545,8 +485,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#062",
@@ -554,8 +493,7 @@
     "Type1": "Water",
     "Type2": "Fighting",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#063",
@@ -563,8 +501,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#064",
@@ -572,8 +509,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#065",
@@ -581,8 +517,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#066",
@@ -590,8 +525,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#067",
@@ -599,8 +533,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#068",
@@ -608,8 +541,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#069",
@@ -617,8 +549,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Jungle",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#070",
@@ -626,8 +557,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Jungle",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#071",
@@ -635,8 +565,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Jungle",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#072",
@@ -644,8 +573,7 @@
     "Type1": "Water",
     "Type2": "Poison",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#073",
@@ -653,8 +581,7 @@
     "Type1": "Water",
     "Type2": "Poison",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#074",
@@ -662,8 +589,7 @@
     "Type1": "Rock",
     "Type2": "Ground",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#075",
@@ -671,8 +597,7 @@
     "Type1": "Rock",
     "Type2": "Ground",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#076",
@@ -680,8 +605,7 @@
     "Type1": "Rock",
     "Type2": "Ground",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#077",
@@ -689,8 +613,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#078",
@@ -698,8 +621,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#079",
@@ -707,8 +629,7 @@
     "Type1": "Water",
     "Type2": "Psychic",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#080",
@@ -716,8 +637,7 @@
     "Type1": "Water",
     "Type2": "Psychic",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#081",
@@ -725,8 +645,7 @@
     "Type1": "Electric",
     "Type2": "Steel",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#082",
@@ -734,8 +653,7 @@
     "Type1": "Electric",
     "Type2": "Steel",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#083",
@@ -743,8 +661,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#084",
@@ -752,8 +669,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#085",
@@ -761,8 +677,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#086",
@@ -770,8 +685,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Ice Floe Beach",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#087",
@@ -779,8 +693,7 @@
     "Type1": "Water",
     "Type2": "Ice",
     "RescueCamp": "Ice Floe Beach",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#088",
@@ -788,8 +701,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Poison Swamp",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#089",
@@ -797,8 +709,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Poison Swamp",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#090",
@@ -806,8 +717,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#091",
@@ -815,8 +725,7 @@
     "Type1": "Water",
     "Type2": "Ice",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#092",
@@ -824,8 +733,7 @@
     "Type1": "Ghost",
     "Type2": "Poison",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#093",
@@ -833,8 +741,7 @@
     "Type1": "Ghost",
     "Type2": "Poison",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#094",
@@ -842,8 +749,7 @@
     "Type1": "Ghost",
     "Type2": "Poison",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#095",
@@ -851,8 +757,7 @@
     "Type1": "Rock",
     "Type2": "Ground",
     "RescueCamp": "Boulder Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#096",
@@ -860,8 +765,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#097",
@@ -869,8 +773,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#098",
@@ -878,8 +781,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Shallow Beach",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#099",
@@ -887,8 +789,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Shallow Beach",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#100",
@@ -896,8 +797,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#101",
@@ -905,8 +805,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#102",
@@ -914,8 +813,7 @@
     "Type1": "Grass",
     "Type2": "Psychic",
     "RescueCamp": "Jungle",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#103",
@@ -923,8 +821,7 @@
     "Type1": "Grass",
     "Type2": "Psychic",
     "RescueCamp": "Jungle",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#104",
@@ -932,8 +829,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#105",
@@ -941,8 +837,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#106",
@@ -950,8 +845,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#107",
@@ -959,8 +853,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#108",
@@ -968,8 +861,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#109",
@@ -977,8 +869,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Poison Swamp",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#110",
@@ -986,8 +877,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Poison Swamp",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#111",
@@ -995,8 +885,7 @@
     "Type1": "Ground",
     "Type2": "Rock",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#112",
@@ -1004,8 +893,7 @@
     "Type1": "Ground",
     "Type2": "Rock",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#113",
@@ -1013,8 +901,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#114",
@@ -1022,8 +909,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Jungle",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#115",
@@ -1031,8 +917,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#116",
@@ -1040,8 +925,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#117",
@@ -1049,8 +933,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#118",
@@ -1058,8 +941,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Rub-a-Dub River",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#119",
@@ -1067,8 +949,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Rub-a-Dub River",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#120",
@@ -1076,8 +957,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#121",
@@ -1085,8 +965,7 @@
     "Type1": "Water",
     "Type2": "Psychic",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#122",
@@ -1094,8 +973,7 @@
     "Type1": "Psychic",
     "Type2": "Fairy",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#123",
@@ -1103,8 +981,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#124",
@@ -1112,8 +989,7 @@
     "Type1": "Ice",
     "Type2": "Psychic",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#125",
@@ -1121,8 +997,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#126",
@@ -1130,8 +1005,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Crater",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#127",
@@ -1139,8 +1013,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#128",
@@ -1148,8 +1021,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#129",
@@ -1157,8 +1029,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Waterfall Lake",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#130",
@@ -1166,8 +1037,7 @@
     "Type1": "Water",
     "Type2": "Flying",
     "RescueCamp": "Waterfall Lake",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#131",
@@ -1175,8 +1045,7 @@
     "Type1": "Water",
     "Type2": "Ice",
     "RescueCamp": "Mystic Lake",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#132",
@@ -1184,8 +1053,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#133",
@@ -1193,8 +1061,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#134",
@@ -1202,8 +1069,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#135",
@@ -1211,8 +1077,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#136",
@@ -1220,8 +1085,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#137",
@@ -1229,8 +1093,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#138",
@@ -1238,8 +1101,7 @@
     "Type1": "Rock",
     "Type2": "Water",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#139",
@@ -1247,8 +1109,7 @@
     "Type1": "Rock",
     "Type2": "Water",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#140",
@@ -1256,8 +1117,7 @@
     "Type1": "Rock",
     "Type2": "Water",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#141",
@@ -1265,8 +1125,7 @@
     "Type1": "Rock",
     "Type2": "Water",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#142",
@@ -1274,8 +1133,7 @@
     "Type1": "Rock",
     "Type2": "Flying",
     "RescueCamp": "Ancient Relic",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#143",
@@ -1283,8 +1141,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#144",
@@ -1292,8 +1149,7 @@
     "Type1": "Ice",
     "Type2": "Flying",
     "RescueCamp": "Legendary Island",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#145",
@@ -1301,8 +1157,7 @@
     "Type1": "Electric",
     "Type2": "Flying",
     "RescueCamp": "Legendary Island",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#146",
@@ -1310,8 +1165,7 @@
     "Type1": "Fire",
     "Type2": "Flying",
     "RescueCamp": "Legendary Island",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#147",
@@ -1319,8 +1173,7 @@
     "Type1": "Dragon",
     "Type2": "",
     "RescueCamp": "Mystic Lake",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#148",
@@ -1328,8 +1181,7 @@
     "Type1": "Dragon",
     "Type2": "",
     "RescueCamp": "Mystic Lake",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#149",
@@ -1337,8 +1189,7 @@
     "Type1": "Dragon",
     "Type2": "Flying",
     "RescueCamp": "Mystic Lake",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#150",
@@ -1346,8 +1197,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Cryptic Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#151",
@@ -1355,8 +1205,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Final Island",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#152",
@@ -1364,8 +1213,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#153",
@@ -1373,8 +1221,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#154",
@@ -1382,8 +1229,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#155",
@@ -1391,8 +1237,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#156",
@@ -1400,8 +1245,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#157",
@@ -1409,8 +1253,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#158",
@@ -1418,8 +1261,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Rub-a-Dub River",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#159",
@@ -1427,8 +1269,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Rub-a-Dub River",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#160",
@@ -1436,8 +1277,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Rub-a-Dub River",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#161",
@@ -1445,8 +1285,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#162",
@@ -1454,8 +1293,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#163",
@@ -1463,8 +1301,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#164",
@@ -1472,8 +1309,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#165",
@@ -1481,8 +1317,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#166",
@@ -1490,8 +1325,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#167",
@@ -1499,8 +1333,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#168",
@@ -1508,8 +1341,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#169",
@@ -1517,8 +1349,7 @@
     "Type1": "Poison",
     "Type2": "Flying",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#170",
@@ -1526,8 +1357,7 @@
     "Type1": "Water",
     "Type2": "Electric",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#171",
@@ -1535,8 +1365,7 @@
     "Type1": "Water",
     "Type2": "Electric",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#172",
@@ -1544,8 +1373,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#173",
@@ -1553,8 +1381,7 @@
     "Type1": "Fairy",
     "Type2": "",
     "RescueCamp": "Mt. Moonview",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#174",
@@ -1562,8 +1389,7 @@
     "Type1": "Normal",
     "Type2": "Fairy",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#175",
@@ -1571,8 +1397,7 @@
     "Type1": "Fairy",
     "Type2": "",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#176",
@@ -1580,8 +1405,7 @@
     "Type1": "Fairy",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#177",
@@ -1589,8 +1413,7 @@
     "Type1": "Psychic",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#178",
@@ -1598,8 +1421,7 @@
     "Type1": "Psychic",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#179",
@@ -1607,8 +1429,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#180",
@@ -1616,8 +1437,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#181",
@@ -1625,8 +1445,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#182",
@@ -1634,8 +1453,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Jungle",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#183",
@@ -1643,8 +1461,7 @@
     "Type1": "Water",
     "Type2": "Fairy",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#184",
@@ -1652,8 +1469,7 @@
     "Type1": "Water",
     "Type2": "Fairy",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#185",
@@ -1661,8 +1477,7 @@
     "Type1": "Rock",
     "Type2": "",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#186",
@@ -1670,8 +1485,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#187",
@@ -1679,8 +1493,7 @@
     "Type1": "Grass",
     "Type2": "Flying",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#188",
@@ -1688,8 +1501,7 @@
     "Type1": "Grass",
     "Type2": "Flying",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#189",
@@ -1697,8 +1509,7 @@
     "Type1": "Grass",
     "Type2": "Flying",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#190",
@@ -1706,8 +1517,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#191",
@@ -1715,8 +1525,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Jungle",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#192",
@@ -1724,8 +1533,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Jungle",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#193",
@@ -1733,8 +1541,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#194",
@@ -1742,8 +1549,7 @@
     "Type1": "Water",
     "Type2": "Ground",
     "RescueCamp": "Gourd Swamp",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#195",
@@ -1751,8 +1557,7 @@
     "Type1": "Water",
     "Type2": "Ground",
     "RescueCamp": "Gourd Swamp",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#196",
@@ -1760,8 +1565,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#197",
@@ -1769,8 +1573,7 @@
     "Type1": "Dark",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#198",
@@ -1778,8 +1581,7 @@
     "Type1": "Dark",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#199",
@@ -1787,8 +1589,7 @@
     "Type1": "Water",
     "Type2": "Psychic",
     "RescueCamp": "Bountiful Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#200",
@@ -1796,8 +1597,7 @@
     "Type1": "Ghost",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#201",
@@ -1805,8 +1605,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Aged Chamber A-N",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#202",
@@ -1814,8 +1613,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#203",
@@ -1823,8 +1621,7 @@
     "Type1": "Normal",
     "Type2": "Psychic",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#204",
@@ -1832,8 +1629,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#205",
@@ -1841,8 +1637,7 @@
     "Type1": "Bug",
     "Type2": "Steel",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#206",
@@ -1850,8 +1645,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#207",
@@ -1859,8 +1653,7 @@
     "Type1": "Ground",
     "Type2": "Flying",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#208",
@@ -1868,8 +1661,7 @@
     "Type1": "Steel",
     "Type2": "Ground",
     "RescueCamp": "Boulder Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#209",
@@ -1877,8 +1669,7 @@
     "Type1": "Fairy",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#210",
@@ -1886,8 +1677,7 @@
     "Type1": "Fairy",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#211",
@@ -1895,8 +1685,7 @@
     "Type1": "Water",
     "Type2": "Poison",
     "RescueCamp": "Serene Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#212",
@@ -1904,8 +1693,7 @@
     "Type1": "Bug",
     "Type2": "Steel",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#213",
@@ -1913,8 +1701,7 @@
     "Type1": "Bug",
     "Type2": "Rock",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#214",
@@ -1922,8 +1709,7 @@
     "Type1": "Bug",
     "Type2": "Fighting",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#215",
@@ -1931,8 +1717,7 @@
     "Type1": "Dark",
     "Type2": "Ice",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#216",
@@ -1940,8 +1725,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#217",
@@ -1949,8 +1733,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#218",
@@ -1958,8 +1741,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Crater",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#219",
@@ -1967,8 +1749,7 @@
     "Type1": "Fire",
     "Type2": "Rock",
     "RescueCamp": "Crater",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#220",
@@ -1976,8 +1757,7 @@
     "Type1": "Ice",
     "Type2": "Ground",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#221",
@@ -1985,8 +1765,7 @@
     "Type1": "Ice",
     "Type2": "Ground",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#222",
@@ -1994,8 +1773,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Shallow Beach",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#223",
@@ -2003,8 +1781,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#224",
@@ -2012,8 +1789,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#225",
@@ -2021,8 +1797,7 @@
     "Type1": "Ice",
     "Type2": "Flying",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#226",
@@ -2030,8 +1805,7 @@
     "Type1": "Water",
     "Type2": "Flying",
     "RescueCamp": "Serene Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#227",
@@ -2039,8 +1813,7 @@
     "Type1": "Steel",
     "Type2": "Flying",
     "RescueCamp": "Ravaged Field",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#228",
@@ -2048,8 +1821,7 @@
     "Type1": "Dark",
     "Type2": "Fire",
     "RescueCamp": "Ravaged Field",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#229",
@@ -2057,8 +1829,7 @@
     "Type1": "Dark",
     "Type2": "Fire",
     "RescueCamp": "Ravaged Field",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#230",
@@ -2066,8 +1837,7 @@
     "Type1": "Water",
     "Type2": "Dragon",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#231",
@@ -2075,8 +1845,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#232",
@@ -2084,8 +1853,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#233",
@@ -2093,8 +1861,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#234",
@@ -2102,8 +1869,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#235",
@@ -2111,8 +1877,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#236",
@@ -2120,8 +1885,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#237",
@@ -2129,8 +1893,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#238",
@@ -2138,8 +1901,7 @@
     "Type1": "Ice",
     "Type2": "Psychic",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#239",
@@ -2147,8 +1909,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#240",
@@ -2156,8 +1917,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Crater",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#241",
@@ -2165,8 +1925,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#242",
@@ -2174,8 +1933,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#243",
@@ -2183,8 +1941,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Sacred Field",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#244",
@@ -2192,8 +1949,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Sacred Field",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#245",
@@ -2201,8 +1957,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Sacred Field",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#246",
@@ -2210,8 +1965,7 @@
     "Type1": "Rock",
     "Type2": "Ground",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#247",
@@ -2219,8 +1973,7 @@
     "Type1": "Rock",
     "Type2": "Ground",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#248",
@@ -2228,8 +1981,7 @@
     "Type1": "Rock",
     "Type2": "Dark",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#249",
@@ -2237,8 +1989,7 @@
     "Type1": "Psychic",
     "Type2": "Flying",
     "RescueCamp": "Deepsea Current",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#250",
@@ -2246,8 +1997,7 @@
     "Type1": "Fire",
     "Type2": "Flying",
     "RescueCamp": "Rainbow Peak",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#251",
@@ -2255,8 +2005,7 @@
     "Type1": "Psychic",
     "Type2": "Grass",
     "RescueCamp": "Healing Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#252",
@@ -2264,8 +2013,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#253",
@@ -2273,8 +2021,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#254",
@@ -2282,8 +2029,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#255",
@@ -2291,8 +2037,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#256",
@@ -2300,8 +2045,7 @@
     "Type1": "Fire",
     "Type2": "Fighting",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#257",
@@ -2309,8 +2053,7 @@
     "Type1": "Fire",
     "Type2": "Fighting",
     "RescueCamp": "Scorched Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#258",
@@ -2318,8 +2061,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Gourd Swamp",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#259",
@@ -2327,8 +2069,7 @@
     "Type1": "Water",
     "Type2": "Ground",
     "RescueCamp": "Gourd Swamp",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#260",
@@ -2336,8 +2077,7 @@
     "Type1": "Water",
     "Type2": "Ground",
     "RescueCamp": "Gourd Swamp",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#261",
@@ -2345,8 +2085,7 @@
     "Type1": "Dark",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#262",
@@ -2354,8 +2093,7 @@
     "Type1": "Dark",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#263",
@@ -2363,8 +2101,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#264",
@@ -2372,8 +2109,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#265",
@@ -2381,8 +2117,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#266",
@@ -2390,8 +2125,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#267",
@@ -2399,8 +2133,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#268",
@@ -2408,8 +2141,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#269",
@@ -2417,8 +2149,7 @@
     "Type1": "Bug",
     "Type2": "Poison",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#270",
@@ -2426,8 +2157,7 @@
     "Type1": "Water",
     "Type2": "Grass",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#271",
@@ -2435,8 +2165,7 @@
     "Type1": "Water",
     "Type2": "Grass",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#272",
@@ -2444,8 +2173,7 @@
     "Type1": "Water",
     "Type2": "Grass",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#273",
@@ -2453,8 +2181,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Mushroom Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#274",
@@ -2462,8 +2189,7 @@
     "Type1": "Grass",
     "Type2": "Dark",
     "RescueCamp": "Mushroom Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#275",
@@ -2471,8 +2197,7 @@
     "Type1": "Grass",
     "Type2": "Dark",
     "RescueCamp": "Mushroom Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#276",
@@ -2480,8 +2205,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#277",
@@ -2489,8 +2213,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#278",
@@ -2498,8 +2221,7 @@
     "Type1": "Water",
     "Type2": "Flying",
     "RescueCamp": "Shallow Beach",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#279",
@@ -2507,8 +2229,7 @@
     "Type1": "Water",
     "Type2": "Flying",
     "RescueCamp": "Shallow Beach",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#280",
@@ -2516,8 +2237,7 @@
     "Type1": "Psychic",
     "Type2": "Fairy",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#281",
@@ -2525,8 +2245,7 @@
     "Type1": "Psychic",
     "Type2": "Fairy",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#282",
@@ -2534,8 +2253,7 @@
     "Type1": "Psychic",
     "Type2": "Fairy",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#283",
@@ -2543,8 +2261,7 @@
     "Type1": "Bug",
     "Type2": "Water",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#284",
@@ -2552,8 +2269,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Tadpole Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#285",
@@ -2561,8 +2277,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Mushroom Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#286",
@@ -2570,8 +2285,7 @@
     "Type1": "Grass",
     "Type2": "Fighting",
     "RescueCamp": "Mushroom Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#287",
@@ -2579,8 +2293,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#288",
@@ -2588,8 +2301,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#289",
@@ -2597,8 +2309,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#290",
@@ -2606,8 +2317,7 @@
     "Type1": "Bug",
     "Type2": "Ground",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#291",
@@ -2615,8 +2325,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#292",
@@ -2624,8 +2333,7 @@
     "Type1": "Bug",
     "Type2": "Ghost",
     "RescueCamp": "Secretive Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#293",
@@ -2633,8 +2341,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#294",
@@ -2642,8 +2349,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#295",
@@ -2651,8 +2357,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#296",
@@ -2660,8 +2365,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#297",
@@ -2669,8 +2373,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#298",
@@ -2678,8 +2381,7 @@
     "Type1": "Normal",
     "Type2": "Fairy",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#299",
@@ -2687,8 +2389,7 @@
     "Type1": "Rock",
     "Type2": "",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#300",
@@ -2696,8 +2397,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#301",
@@ -2705,8 +2405,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#302",
@@ -2714,8 +2413,7 @@
     "Type1": "Dark",
     "Type2": "Ghost",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#303",
@@ -2723,8 +2421,7 @@
     "Type1": "Steel",
     "Type2": "Fairy",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#304",
@@ -2732,8 +2429,7 @@
     "Type1": "Steel",
     "Type2": "Rock",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#305",
@@ -2741,8 +2437,7 @@
     "Type1": "Steel",
     "Type2": "Rock",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#306",
@@ -2750,8 +2445,7 @@
     "Type1": "Steel",
     "Type2": "Rock",
     "RescueCamp": "Mt. Cleft",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#307",
@@ -2759,8 +2453,7 @@
     "Type1": "Fighting",
     "Type2": "Psychic",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#308",
@@ -2768,8 +2461,7 @@
     "Type1": "Fighting",
     "Type2": "Psychic",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#309",
@@ -2777,8 +2469,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#310",
@@ -2786,8 +2477,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#311",
@@ -2795,8 +2485,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#312",
@@ -2804,8 +2493,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#313",
@@ -2813,8 +2501,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Rub-a-Dub River",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#314",
@@ -2822,8 +2509,7 @@
     "Type1": "Bug",
     "Type2": "",
     "RescueCamp": "Rub-a-Dub River",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#315",
@@ -2831,8 +2517,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#316",
@@ -2840,8 +2525,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Poison Swamp",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#317",
@@ -2849,8 +2533,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Poison Swamp",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#318",
@@ -2858,8 +2541,7 @@
     "Type1": "Water",
     "Type2": "Dark",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#319",
@@ -2867,8 +2549,7 @@
     "Type1": "Water",
     "Type2": "Dark",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#320",
@@ -2876,8 +2557,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Serene Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#321",
@@ -2885,8 +2565,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Serene Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#322",
@@ -2894,8 +2573,7 @@
     "Type1": "Fire",
     "Type2": "Ground",
     "RescueCamp": "Crater",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#323",
@@ -2903,8 +2581,7 @@
     "Type1": "Fire",
     "Type2": "Ground",
     "RescueCamp": "Crater",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#324",
@@ -2912,8 +2589,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Crater",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#325",
@@ -2921,8 +2597,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#326",
@@ -2930,8 +2605,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#327",
@@ -2939,8 +2613,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#328",
@@ -2948,8 +2621,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Withering Desert",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#329",
@@ -2957,8 +2629,7 @@
     "Type1": "Ground",
     "Type2": "Dragon",
     "RescueCamp": "Withering Desert",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#330",
@@ -2966,8 +2637,7 @@
     "Type1": "Ground",
     "Type2": "Dragon",
     "RescueCamp": "Withering Desert",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#331",
@@ -2975,8 +2645,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Withering Desert",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#332",
@@ -2984,8 +2653,7 @@
     "Type1": "Grass",
     "Type2": "Dark",
     "RescueCamp": "Withering Desert",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#333",
@@ -2993,8 +2661,7 @@
     "Type1": "Normal",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#334",
@@ -3002,8 +2669,7 @@
     "Type1": "Dragon",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#335",
@@ -3011,8 +2677,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#336",
@@ -3020,8 +2685,7 @@
     "Type1": "Poison",
     "Type2": "",
     "RescueCamp": "Wild Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#337",
@@ -3029,8 +2693,7 @@
     "Type1": "Rock",
     "Type2": "Psychic",
     "RescueCamp": "Mt. Moonview",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#338",
@@ -3038,8 +2701,7 @@
     "Type1": "Rock",
     "Type2": "Psychic",
     "RescueCamp": "Mt. Moonview",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#339",
@@ -3047,8 +2709,7 @@
     "Type1": "Water",
     "Type2": "Ground",
     "RescueCamp": "Gourd Swamp",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#340",
@@ -3056,8 +2717,7 @@
     "Type1": "Water",
     "Type2": "Ground",
     "RescueCamp": "Gourd Swamp",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#341",
@@ -3065,8 +2725,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#342",
@@ -3074,8 +2733,7 @@
     "Type1": "Water",
     "Type2": "Dark",
     "RescueCamp": "Turtleshell Pond",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#343",
@@ -3083,8 +2741,7 @@
     "Type1": "Ground",
     "Type2": "Psychic",
     "RescueCamp": "Ancient Relic",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#344",
@@ -3092,8 +2749,7 @@
     "Type1": "Ground",
     "Type2": "Psychic",
     "RescueCamp": "Ancient Relic",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#345",
@@ -3101,8 +2757,7 @@
     "Type1": "Rock",
     "Type2": "Grass",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#346",
@@ -3110,8 +2765,7 @@
     "Type1": "Rock",
     "Type2": "Grass",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#347",
@@ -3119,8 +2773,7 @@
     "Type1": "Rock",
     "Type2": "Bug",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#348",
@@ -3128,8 +2781,7 @@
     "Type1": "Rock",
     "Type2": "Bug",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#349",
@@ -3137,8 +2789,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Waterfall Lake",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#350",
@@ -3146,8 +2797,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Waterfall Lake",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#351",
@@ -3155,8 +2805,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#352",
@@ -3164,8 +2813,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#353",
@@ -3173,8 +2821,7 @@
     "Type1": "Ghost",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#354",
@@ -3182,8 +2829,7 @@
     "Type1": "Ghost",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#355",
@@ -3191,8 +2837,7 @@
     "Type1": "Ghost",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#356",
@@ -3200,8 +2845,7 @@
     "Type1": "Ghost",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#357",
@@ -3209,8 +2853,7 @@
     "Type1": "Grass",
     "Type2": "Flying",
     "RescueCamp": "Jungle",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#358",
@@ -3218,8 +2861,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#359",
@@ -3227,8 +2869,7 @@
     "Type1": "Dark",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#360",
@@ -3236,8 +2877,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#361",
@@ -3245,8 +2885,7 @@
     "Type1": "Ice",
     "Type2": "",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#362",
@@ -3254,8 +2893,7 @@
     "Type1": "Ice",
     "Type2": "",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#363",
@@ -3263,8 +2901,7 @@
     "Type1": "Ice",
     "Type2": "Water",
     "RescueCamp": "Ice Floe Beach",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#364",
@@ -3272,8 +2909,7 @@
     "Type1": "Ice",
     "Type2": "Water",
     "RescueCamp": "Ice Floe Beach",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#365",
@@ -3281,8 +2917,7 @@
     "Type1": "Ice",
     "Type2": "Water",
     "RescueCamp": "Ice Floe Beach",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#366",
@@ -3290,8 +2925,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#367",
@@ -3299,8 +2933,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#368",
@@ -3308,8 +2941,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#369",
@@ -3317,8 +2949,7 @@
     "Type1": "Water",
     "Type2": "Rock",
     "RescueCamp": "Deepsea Floor",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#370",
@@ -3326,8 +2957,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Treasure Sea",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#371",
@@ -3335,8 +2965,7 @@
     "Type1": "Dragon",
     "Type2": "",
     "RescueCamp": "Dragon Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#372",
@@ -3344,8 +2973,7 @@
     "Type1": "Dragon",
     "Type2": "",
     "RescueCamp": "Dragon Cave",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#373",
@@ -3353,8 +2981,7 @@
     "Type1": "Dragon",
     "Type2": "Flying",
     "RescueCamp": "Dragon Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#374",
@@ -3362,8 +2989,7 @@
     "Type1": "Steel",
     "Type2": "Psychic",
     "RescueCamp": "Magnetic Quarry",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#375",
@@ -3371,8 +2997,7 @@
     "Type1": "Steel",
     "Type2": "Psychic",
     "RescueCamp": "Magnetic Quarry",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#376",
@@ -3380,8 +3005,7 @@
     "Type1": "Steel",
     "Type2": "Psychic",
     "RescueCamp": "Magnetic Quarry",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#377",
@@ -3389,8 +3013,7 @@
     "Type1": "Rock",
     "Type2": "",
     "RescueCamp": "Ancient Relic",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#378",
@@ -3398,8 +3021,7 @@
     "Type1": "Ice",
     "Type2": "",
     "RescueCamp": "Ancient Relic",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#379",
@@ -3407,8 +3029,7 @@
     "Type1": "Steel",
     "Type2": "",
     "RescueCamp": "Ancient Relic",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#380",
@@ -3416,8 +3037,7 @@
     "Type1": "Dragon",
     "Type2": "Psychic",
     "RescueCamp": "Southern Island",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#381",
@@ -3425,8 +3045,7 @@
     "Type1": "Dragon",
     "Type2": "Psychic",
     "RescueCamp": "Southern Island",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#382",
@@ -3434,8 +3053,7 @@
     "Type1": "Water",
     "Type2": "",
     "RescueCamp": "Seafloor Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#383",
@@ -3443,8 +3061,7 @@
     "Type1": "Ground",
     "Type2": "",
     "RescueCamp": "Volcanic Pit",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#384",
@@ -3452,8 +3069,7 @@
     "Type1": "Dragon",
     "Type2": "Flying",
     "RescueCamp": "Stratos Lookout",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#385",
@@ -3461,8 +3077,7 @@
     "Type1": "Steel",
     "Type2": "Psychic",
     "RescueCamp": "Mt. Moonview",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#386",
@@ -3470,8 +3085,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Enclosed Island",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#406",
@@ -3479,8 +3093,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#407",
@@ -3488,8 +3101,7 @@
     "Type1": "Grass",
     "Type2": "Poison",
     "RescueCamp": "Beau Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#424",
@@ -3497,8 +3109,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#429",
@@ -3506,8 +3117,7 @@
     "Type1": "Ghost",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#430",
@@ -3515,8 +3125,7 @@
     "Type1": "Dark",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#433",
@@ -3524,8 +3133,7 @@
     "Type1": "Psychic",
     "Type2": "",
     "RescueCamp": "Thunder Crag",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#438",
@@ -3533,8 +3141,7 @@
     "Type1": "Rock",
     "Type2": "",
     "RescueCamp": "Overgrown Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#439",
@@ -3542,8 +3149,7 @@
     "Type1": "Psychic",
     "Type2": "Fairy",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#440",
@@ -3551,8 +3157,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#446",
@@ -3560,8 +3165,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Vibrant Forest",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#447",
@@ -3569,8 +3173,7 @@
     "Type1": "Fighting",
     "Type2": "",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#448",
@@ -3578,8 +3181,7 @@
     "Type1": "Fighting",
     "Type2": "Steel",
     "RescueCamp": "Mt. Discipline",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#458",
@@ -3587,8 +3189,7 @@
     "Type1": "Water",
     "Type2": "Flying",
     "RescueCamp": "Serene Sea",
-    "FinalEvolution": false,
-    "Popularity": 0
+    "FinalEvolution": false
   },
   {
     "Number": "#461",
@@ -3596,8 +3197,7 @@
     "Type1": "Dark",
     "Type2": "Ice",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#462",
@@ -3605,8 +3205,7 @@
     "Type1": "Electric",
     "Type2": "Steel",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#463",
@@ -3614,8 +3213,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#464",
@@ -3623,8 +3221,7 @@
     "Type1": "Ground",
     "Type2": "Rock",
     "RescueCamp": "Safari",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#465",
@@ -3632,8 +3229,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Jungle",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#466",
@@ -3641,8 +3237,7 @@
     "Type1": "Electric",
     "Type2": "",
     "RescueCamp": "Power Plant",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#467",
@@ -3650,8 +3245,7 @@
     "Type1": "Fire",
     "Type2": "",
     "RescueCamp": "Crater",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#468",
@@ -3659,8 +3253,7 @@
     "Type1": "Fairy",
     "Type2": "Flying",
     "RescueCamp": "Flyaway Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#469",
@@ -3668,8 +3261,7 @@
     "Type1": "Bug",
     "Type2": "Flying",
     "RescueCamp": "Stump Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#470",
@@ -3677,8 +3269,7 @@
     "Type1": "Grass",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#471",
@@ -3686,8 +3277,7 @@
     "Type1": "Ice",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#472",
@@ -3695,8 +3285,7 @@
     "Type1": "Ground",
     "Type2": "Flying",
     "RescueCamp": "Mt. Green",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#473",
@@ -3704,8 +3293,7 @@
     "Type1": "Ice",
     "Type2": "Ground",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#474",
@@ -3713,8 +3301,7 @@
     "Type1": "Normal",
     "Type2": "",
     "RescueCamp": "Decrepit Lab",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#475",
@@ -3722,8 +3309,7 @@
     "Type1": "Psychic",
     "Type2": "Fighting",
     "RescueCamp": "Sky-Blue Plains",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#476",
@@ -3731,8 +3317,7 @@
     "Type1": "Rock",
     "Type2": "Steel",
     "RescueCamp": "Echo Cave",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#477",
@@ -3740,8 +3325,7 @@
     "Type1": "Ghost",
     "Type2": "",
     "RescueCamp": "Darkness Ridge",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#478",
@@ -3749,8 +3333,7 @@
     "Type1": "Ice",
     "Type2": "Ghost",
     "RescueCamp": "Frigid Cavern",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   },
   {
     "Number": "#700",
@@ -3758,7 +3341,6 @@
     "Type1": "Fairy",
     "Type2": "",
     "RescueCamp": "Evolution Forest",
-    "FinalEvolution": true,
-    "Popularity": 0
+    "FinalEvolution": true
   }
 ]

@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {useState, useEffect, useRef} from "react";
 
 // Code from https://usehooks.com/useLocalStorage/
 export function useLocalStorage(key, initialValue) {
@@ -33,4 +33,32 @@ export function useLocalStorage(key, initialValue) {
         }
     };
     return [storedValue, setValue];
+}
+
+/**
+ * A function found online that is basically setInterval but works the way it's supposed to,
+ * as the native setInterval function doesn't always work as expected.
+ *
+ * https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+ * @param callback The method to call at every interval
+ * @param delay The amount of milliseconds between each interval
+ */
+export function useInterval(callback, delay) {
+    const savedCallback = useRef();
+
+    // Remember the latest callback.
+    useEffect(() => {
+        savedCallback.current = callback;
+    }, [callback]);
+
+    // Set up the interval.
+    useEffect(() => {
+        function tick() {
+            savedCallback.current();
+        }
+        if (delay !== null) {
+            let id = setInterval(tick, delay);
+            return () => clearInterval(id);
+        }
+    }, [delay]);
 }

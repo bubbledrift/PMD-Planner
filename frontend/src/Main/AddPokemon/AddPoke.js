@@ -1,8 +1,9 @@
-import JSONDATA from '../../data/PokeData.json'
-import {useState} from "react";
+import PokeData from '../../data/PokeData.json'
+import {useEffect, useState} from "react";
 import PokeListElement from "./PokeListElement";
 import {Button, ButtonGroup, Dropdown} from "react-bootstrap";
 import "./AddPoke.css"
+import {useLocalStorage} from "../Helpers";
 
 function AddPoke(props) {
 
@@ -11,8 +12,25 @@ function AddPoke(props) {
     const [typeFilter, setTypeFilter] = useState('Type')
     const [evolvedOnly, setEvolvedOnly] = useState(false)
 
+    // //Holds pokedata with popularity info added
+    // const [augmented, setAugmented] = useLocalStorage("FullData", PokeData)
+    //
+    // useEffect(() => {
+    //     PokeData.sort(function(a, b){
+    //         //Sort by pokedex
+    //         headerLabels[1] = headerLabels[1].concat(" ▼")
+    //         return b.Number > a.Number ? -1 : 1
+    //     });
+    //     for (let i = 0; i < PokeData.length; i++) {
+    //         PokeData[i].put("Popularity", props.popularity[i]["Popularity"])
+    //     }
+    //
+    //     setAugmented(PokeData)
+    // }, props.popularity)
+
+
     //Search Filter
-    let results = JSONDATA.filter((val) => {
+    let results = PokeData.filter((val) => {
         if (searchTerm === "") {
             return val
         } else if (val.Name.toLowerCase().includes(searchTerm.toLowerCase())) {
@@ -60,11 +78,11 @@ function AddPoke(props) {
         } else if (sortState === 'Popular') {
             headerLabels[0] = headerLabels[0].concat(" ▼")
             //Sort by most popular
-            return a.Popularity - b.Popularity
+            return props.popularity[a.Number] - props.popularity[b.Number]
         } else if (sortState === 'PopularRev') {
             headerLabels[0] = headerLabels[0].concat(" ▲")
             //Sort by least popular
-            return b.Popularity - a.Popularity
+            return props.popularity[b.Number] - props.popularity[a.Number]
 
         } else if (sortState === 'Type') {
             headerLabels[2] = headerLabels[2].concat(" ▼")
@@ -207,7 +225,7 @@ function AddPoke(props) {
                                         props.setShowPopupAdd(false)
                                     }}
                                 >
-                                    <PokeListElement element={val}/>
+                                    <PokeListElement element={val} popularity={props.popularity}/>
                                 </Button>
                             </div>
                         )

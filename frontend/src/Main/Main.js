@@ -1,10 +1,12 @@
 import "./Main.css"
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
+import {useInterval, useLocalStorage} from "./Helpers";
 import PopupAdd from "./AddPokemon/PopupAdd";
 import TeamBox from "./TeamBox";
 import PopupUndo from "./PopupUndo";
 import PopupEdit from "./EditPokemon/PopupEdit";
 import MyNavbar from "./MyNavbar";
+import axios from "axios";
 
 
 function Main() {
@@ -31,6 +33,72 @@ function Main() {
     const [deletedBox, setDeletedBox] = useState(0)
     //A boolean switch that is switched when the last deleted pokemon should be re-added.
     const [undo, setUndo] = useState(false)
+
+    //Stores a list of pokemon and how popular they are.
+    const [popularity, setPopularity] = useLocalStorage("Popularity", [])
+    //Stores the most recent update to our popularity list.
+    const [lastUpdate, setLastUpdate] = useLocalStorage("LastUpdated", 0)
+
+
+
+
+    // Upon first loading, update the popularity if it isn't stored in local storage.
+    // If it's stored in local storage, update only if enough time has passed.
+    useEffect(() => {
+        let time = new Date().getTime()
+
+        if (popularity === []) {
+            //Send a request to the backend to set our popularity.
+            getPopularity()
+            //Set the last update to the current date.
+            setLastUpdate(time)
+        } else if (lastUpdate + 43200000 < time) {
+            //If it's been more than 12 hours since the last update, we ask the backend for another update.
+            getPopularity()
+            //Set the last update to the current date.
+            setLastUpdate(time)
+        }
+    })
+
+    const getPopularity = () => {
+        axios.get("http://localhost:4567/getPopularity")
+            .then(response => {
+                console.log(response.data["byPopular"])
+                setPopularity(response.data["byPopular"])
+            })
+            .catch(function (error) {
+                console.log(error.response);
+            });
+        console.log(popularity)
+    }
+
+    //Sends a list of pokemon added to the backend for it to update popularity.
+    const sendPopularity = () => {
+        const toSend = {
+            pokemon: []
+        };
+
+        let config = {
+            headers: {
+                "Content-Type": "application/json",
+                'Access-Control-Allow-Origin': '*',
+            }
+        }
+
+        axios.post(
+            "http://localhost:4567/updatePopularity",
+            toSend,
+            config
+        )
+            .then(response => {
+
+            })
+            .catch(function (error) {
+                console.log(error.response);
+            });
+    }
+
+
 
     let teams = [];
     for (let i = 1; i < 10; i++) {
@@ -62,6 +130,7 @@ function Main() {
                     showPopupAdd={showPopupAdd}
                     setShowPopupAdd={setShowPopupAdd}
                     setPokeToAdd={setPokeToAdd}
+                    popularity={popularity}
                 />
                 <PopupUndo
                     showUndo={showUndo}
