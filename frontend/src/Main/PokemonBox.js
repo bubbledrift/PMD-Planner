@@ -18,7 +18,7 @@ function PokemonBox(props) {
 
         props.setShowPopupAdd(true)
         props.setDestinationBox(props.boxNumber)
-        props.setPokeToAdd('')
+        props.setPokeToAdd(null)
     }
 
     const deletePoke = (e) => {
@@ -39,30 +39,34 @@ function PokemonBox(props) {
     //When pokeToAdd changes, create a blank template of that pokemon.
     useEffect(() => {
 
-        if (props.boxNumber === props.destinationBox && props.pokeToAdd !== '') {
-
-            let pokemonData = PokeData.filter((val) => {
-                if (val.Name === props.pokeToAdd) {
-                    return val
-                }
-            })[0]
-
-            let poke = {
-                "Name": props.pokeToAdd,
-                "Number": pokemonData.Number.substring(1),
-                "Nickname": "",
-                "Type1": pokemonData.Type1,
-                "Type2": pokemonData.Type2,
-                "RareQuality": "",
-                "Item": "",
-                "Move1": "",
-                "Move2": "",
-                "Move3": "",
-                "Move4": ""
-            }
-
-            setPokemon(poke)
+        if (props.boxNumber === props.destinationBox && props.pokeToAdd !== null) {
+            setPokemon(props.pokeToAdd)
         }
+
+        // if (props.boxNumber === props.destinationBox && props.pokeToAdd !== '') {
+        //
+        //     let pokemonData = PokeData.filter((val) => {
+        //         if (val.Name === props.pokeToAdd) {
+        //             return val
+        //         }
+        //     })[0]
+        //
+        //     let poke = {
+        //         "Name": props.pokeToAdd,
+        //         "Number": pokemonData.Number.substring(1),
+        //         "Nickname": "",
+        //         "Type1": pokemonData.Type1,
+        //         "Type2": pokemonData.Type2,
+        //         "RareQuality": "",
+        //         "Item": "",
+        //         "Move1": "",
+        //         "Move2": "",
+        //         "Move3": "",
+        //         "Move4": ""
+        //     }
+        //
+        //     setPokemon(poke)
+        // }
 
     }, [props.pokeToAdd])
 
@@ -101,7 +105,7 @@ function PokemonBox(props) {
             type2Src = '/images/types/' + pokemon.Type2.toLowerCase() + '.gif'
         }
 
-        let portraitSrc = '/images/portraits/' + pokemon.Number + '.png'
+        let portraitSrc = '/images/portraits/' + pokemon.Number.substring(1) + '.png'
 
         return (
 

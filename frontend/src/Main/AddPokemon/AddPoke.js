@@ -221,7 +221,22 @@ function AddPoke(props) {
                                     style={{padding: '0px', border: '0px'}}
                                     variant="secondary" block
                                     onClick={() => {
-                                        props.setPokeToAdd(val.Name)
+
+                                        let poke = {
+                                            "Name": val.Name,
+                                            "Number": val.Number,
+                                            "Nickname": "",
+                                            "Type1": val.Type1,
+                                            "Type2": val.Type2,
+                                            "RareQuality": "",
+                                            "Item": "",
+                                            "Move1": "",
+                                            "Move2": "",
+                                            "Move3": "",
+                                            "Move4": ""
+                                        }
+
+                                        props.setPokeToAdd(poke)
                                         props.setShowPopupAdd(false)
                                     }}
                                 >

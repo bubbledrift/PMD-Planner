@@ -1,5 +1,5 @@
 import "./Main.css"
-import React, {useEffect, useState} from "react";
+import React, {useEffect, useRef, useState} from "react";
 import {useInterval, useLocalStorage} from "./Helpers";
 import PopupAdd from "./AddPokemon/PopupAdd";
 import TeamBox from "./TeamBox";
@@ -19,7 +19,7 @@ function Main() {
     /**
      * When adding pokemon, we need to know what pokemon to add and where to add it.
      */
-    const [pokeToAdd, setPokeToAdd] = useState('')
+    const [pokeToAdd, setPokeToAdd] = useState(null)
     const [destinationBox, setDestinationBox] = useState(0)
 
     /**
@@ -38,8 +38,6 @@ function Main() {
     const [popularity, setPopularity] = useLocalStorage("Popularity", [])
     //Stores the most recent update to our popularity list.
     const [lastUpdate, setLastUpdate] = useLocalStorage("LastUpdated", 0)
-
-
 
 
     // Upon first loading, update the popularity if it isn't stored in local storage.
@@ -63,7 +61,6 @@ function Main() {
     const getPopularity = () => {
         axios.get("http://localhost:4567/getPopularity")
             .then(response => {
-                console.log(response.data["byPopular"])
                 setPopularity(response.data["byPopular"])
             })
             .catch(function (error) {
@@ -72,10 +69,22 @@ function Main() {
         console.log(popularity)
     }
 
+
+    const recentlyAddedRef = useRef([])
+    let recentlyAdded = recentlyAddedRef.current;
+
+    useEffect(() => {
+        if (pokeToAdd !== null) {
+            recentlyAdded.push(pokeToAdd.Number)
+            console.log(recentlyAdded)
+        }
+    }, [pokeToAdd])
+
     //Sends a list of pokemon added to the backend for it to update popularity.
     const sendPopularity = () => {
+        console.log(recentlyAdded)
         const toSend = {
-            pokemon: []
+            toIncrement: recentlyAdded
         };
 
         let config = {
@@ -91,12 +100,15 @@ function Main() {
             config
         )
             .then(response => {
-
+                recentlyAdded = [];
+                console.log(recentlyAdded)
             })
             .catch(function (error) {
                 console.log(error.response);
             });
     }
+
+    useInterval(sendPopularity, 60000)
 
 
 
