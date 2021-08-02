@@ -1,8 +1,22 @@
-#teams {
-    margin-top: 5em;
-    margin-left: 2em;
-}
-
 #main {
     width: 100%;
+    display: grid;
+    grid-template-columns: 770px auto;
+}
+
+#teams {
+    grid-column: 1;
+    margin-top: 4em;
+    margin-left: 1em;
+}
+
+#instructions {
+    grid-column: 2;
+    height: 500px;
+    margin-top: 4.6em;
+    margin-right: 1em;
+    background: rgba(56, 126, 209, 0.9);
+    border-radius: 10px;
+    padding: 1em;
+
 }

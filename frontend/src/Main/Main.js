@@ -76,13 +76,11 @@ function Main() {
     useEffect(() => {
         if (pokeToAdd !== null) {
             recentlyAdded.push(pokeToAdd.Number)
-            console.log(recentlyAdded)
         }
     }, [pokeToAdd])
 
     //Sends a list of pokemon added to the backend for it to update popularity.
     const sendPopularity = () => {
-        console.log(recentlyAdded)
         const toSend = {
             toIncrement: recentlyAdded
         };
@@ -101,7 +99,6 @@ function Main() {
         )
             .then(response => {
                 recentlyAdded = [];
-                console.log(recentlyAdded)
             })
             .catch(function (error) {
                 console.log(error.response);
@@ -163,6 +160,14 @@ function Main() {
             <MyNavbar/>
 
             <div id='teams'>{teams}</div>
+
+            <div id='instructions'>
+                <h1>How to Use:</h1>
+
+                <p>
+
+                </p>
+            </div>
         </div>
     )
 

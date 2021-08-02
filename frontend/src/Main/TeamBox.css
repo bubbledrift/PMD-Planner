@@ -26,12 +26,13 @@
 .TeamName {
     color: #fcfcfc;
     background: transparent;
-    border: none;
+    border: solid 1px;
+    border-radius: 5px;
 
     min-width: 80px;
     max-width: 300px;
     font-size: 22px;
-    margin: 0px 5px 0px;
+    margin: 2px 5px 3px;
 }
 
 #edit {

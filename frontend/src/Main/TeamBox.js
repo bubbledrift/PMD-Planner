@@ -47,8 +47,6 @@ function TeamBox(props) {
                     style={{width: 80 + 12 * teamName.length + "px"}}
                 />
 
-                <img id="edit" src={process.env.PUBLIC_URL + 'images/other/edit.png'} alt="Edit"/>
-
             </div>
 
             <div className='Pokemon'>
