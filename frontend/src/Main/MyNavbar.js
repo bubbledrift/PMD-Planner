@@ -9,7 +9,16 @@ function MyNavbar() {
             <Container>
                 <Navbar.Brand>
                     <Link className="NavLink" to='/'>
-                        PMD Planner
+                        <img
+                            src="/images/other/logo.png"
+                            height="30"
+                            className="d-inline-block align-top"
+                            alt="PMD Planner logo"
+                            style={{
+                                margin: "0px 0px 0px",
+                                padding: "0px"
+                            }}
+                        />
                     </Link>
                 </Navbar.Brand>
                 <Navbar.Toggle/>
