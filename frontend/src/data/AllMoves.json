@@ -1,0 +1,2262 @@
+[
+  {
+    "Name": "Absorb",
+    "Description": "It damages an enemy, It also restores your HP. The greater the damage it causes, the more HP it restores."
+  },
+  {
+    "Name": "Acid",
+    "Description": "It damages an enemy. It could also lower the enemy's Sp.Def."
+  },
+  {
+    "Name": "Acid Armor",
+    "Description": "It sharply boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Acid Spray",
+    "Description": "It damages an enemy. It also sharply lowers the enemy's Sp.Def."
+  },
+  {
+    "Name": "Acrobatics",
+    "Description": "It damages an enemy, If you are not holding an item, the damage goes up."
+  },
+  {
+    "Name": "Acupressure",
+    "Description": "It sharply boosts the Attack, Defense, Sp.Atk, Sp.Def, evasiveness, accuracy, or Travel Speed of you and your teammates in the same room. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Aerial Ace",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Aeroblast",
+    "Description": "It damages even faraway Pokemon. It has a high critical-hit rate."
+  },
+  {
+    "Name": "After You",
+    "Description": "After switching your position with your teammate, it boosts your teammate's Attack, Defense, Sp.Atk, Sp.Def, accuracy, or evasiveness. The stat returns to normal when the Pokemon goes to the next floor or steps on a Wonder Tile."
+  },
+  {
+    "Name": "Agility",
+    "Description": "It boosts the Travel Speed of you and your teammates in the same room."
+  },
+  {
+    "Name": "Air Cutter",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Air Slash",
+    "Description": "It damages an enemy. It could also cause the enemy to Flinch."
+  },
+  {
+    "Name": "Ally Switch",
+    "Description": "It switches the positions of you and your teammate."
+  },
+  {
+    "Name": "Amnesia",
+    "Description": "It sharply boosts your Sp.Def. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Ancient Power",
+    "Description": "It damages and enemy. It could also boost your Attack, Defense, Sp.Atk, Sp.Def. and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Aqua Jet",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Aqua Ring",
+    "Description": "You'll get the Aqua Ring condition, which keeps restoring your HP."
+  },
+  {
+    "Name": "Aqua Tail",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Arm Thrust",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Aromatherapy",
+    "Description": "If you and your teammates in the same room have any bad statuses, all the bad statuses will be removed."
+  },
+  {
+    "Name": "Assist",
+    "Description": "It causes you to unleash a random move from all the moves known by your teammates on the floor. Some moves can't be used in this way!"
+  },
+  {
+    "Name": "Assurance",
+    "Description": "It damages an enemy. It will cause more damage if the enemy's HP is down to half or lower."
+  },
+  {
+    "Name": "Astonish",
+    "Description": "It damages an enemy. It could also cause the enemy to Flinch."
+  },
+  {
+    "Name": "Attract",
+    "Description": "It makes an enemy Infatuated, which makes the enemy's moves more likely to fail."
+  },
+  {
+    "Name": "Aura Sphere",
+    "Description": "It damages a Pokemon, even one far away. It never misses."
+  },
+  {
+    "Name": "Aurora Beam",
+    "Description": "It damages a Pokemon, even one far away. It could also sharply lower the target's Attack."
+  },
+  {
+    "Name": "Aurora Veil",
+    "Description": "It gives you and your teammates in the same room the Aurora Veil condition, reducing damage taken from moves. This move fails when the weather is not Hail."
+  },
+  {
+    "Name": "Autotomize",
+    "Description": "It sharply boosts your Travel Speed, and you'll get the Autotomize condition, making your whole body feel lighter."
+  },
+  {
+    "Name": "Avalanche",
+    "Description": "You'll get the Bide status for a little while, and then you'll damage an enemy. The more damage you take while biding, the greater the damage you can cause."
+  },
+  {
+    "Name": "Baby-Doll Eyes",
+    "Description": "It lowers the enemy's Attack. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Barrage",
+    "Description": "It damages an enemy by throwing a round object in an arc. It damages the enemy 2 to 5 times."
+  },
+  {
+    "Name": "Barrier",
+    "Description": "It sharply boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Baton Pass",
+    "Description": "After switching your position with your teammate's, it boosts your teammate's Attack, Defense, Sp.Atk, Sp.Def, accuracy or evasiveness. The stat returns to normal when the Pokemon goes to the next floor or steps on a Wonder Tile."
+  },
+  {
+    "Name": "Beat Up",
+    "Description": "It warps all your teammates close to the targeted enemy."
+  },
+  {
+    "Name": "Belch",
+    "Description": "It damages an enemy. It will fail if your Belly is close to empty, so be careful."
+  },
+  {
+    "Name": "Belly Drum",
+    "Description": "It makes your Belly emptier, but it boosts your Attack to the max! The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Bestow",
+    "Description": "You give your held item to the Pokemon in front of you. If the Pokemon is already holding and item, you can't give your item to the Pokemon, so be careful!"
+  },
+  {
+    "Name": "Bide",
+    "Description": "You'll get the Bide status for a little while, and then you'll damage an enemy. The more damage you take from enemy Pokemon while biding, the greater the damage you can cause."
+  },
+  {
+    "Name": "Bind",
+    "Description": "It damages an enemy. It could also cause the enemy to be Bound."
+  },
+  {
+    "Name": "Bite",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Blast Burn",
+    "Description": "It damages enemies in the same room. But it also gives you the Recoil status, which prevents you from doing anything on the next turn."
+  },
+  {
+    "Name": "Blaze Kick",
+    "Description": "It damages an enemy. It could also leave the enemy with a Burn. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Blizzard",
+    "Description": "It damages enemies in the same room. It could also make them Frozen. During Hail, the move never misses."
+  },
+  {
+    "Name": "Block",
+    "Description": "It causes an enemy to get Stuck."
+  },
+  {
+    "Name": "Body Slam",
+    "Description": "It damages an enemy. It could also cause Paralysis."
+  },
+  {
+    "Name": "Bone Club",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Bone Rush",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Bonemerang",
+    "Description": "It damages even faraway Pokemon 2 times in a row."
+  },
+  {
+    "Name": "Boomburst",
+    "Description": "It damages all Pokemon in the same room except for you."
+  },
+  {
+    "Name": "Bounce",
+    "Description": "You get the Bouncing condition. You soar and then strike your enemy on the next turn. While airborne, you'll evade items and moves. This move could also inflict Paralysis on the enemy."
+  },
+  {
+    "Name": "Brave Bird",
+    "Description": "It damages an enemy, but you'll receive recoil damage, too."
+  },
+  {
+    "Name": "Brick Break",
+    "Description": "It damages an enemy. It also shatters the enemy's Reflect, Light Screen, and Aurora Veil conditions."
+  },
+  {
+    "Name": "Brine",
+    "Description": "It damages an enemy. It will cause more damage if the enemy's HP is down to half or lower."
+  },
+  {
+    "Name": "Brutal Swing",
+    "Description": "It damages nearby enemies."
+  },
+  {
+    "Name": "Bubble",
+    "Description": "It damages a Pokemon, even one far away. It could also lower the target's Travel Speed."
+  },
+  {
+    "Name": "Bubble Beam",
+    "Description": "It damages a Pokemon, even one far away. It could also lower the target's Travel Speed."
+  },
+  {
+    "Name": "Bug Bite",
+    "Description": "It damages an enemy. If the enemy is carrying any food, you'll eat it."
+  },
+  {
+    "Name": "Bug Buzz",
+    "Description": "It damages nearby enemies. It could also lower their SP. Def."
+  },
+  {
+    "Name": "Bulk Up",
+    "Description": "It boosts your Attack and Defense. The stats return to normal when you go to the next floor or step on a Wonder Tile"
+  },
+  {
+    "Name": "Bulldoze",
+    "Description": "It damages nearby enemies. It also lowers their Travel Speed."
+  },
+  {
+    "Name": "Bullet Punch",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Bullet Seed",
+    "Description": "It fires off a seed at a high speed, damaging a Pokemon, even one far away, 2 to 5 times in a row."
+  },
+  {
+    "Name": "Burn Up",
+    "Description": "It damages an enemy. Using this move removes your Fire type. You regain your Fire type when you go to the next floor or faint. It fails if you aren't Fire type."
+  },
+  {
+    "Name": "Calm Mind",
+    "Description": "It boosts your Sp. Atk and Sp. Def. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Camouflage",
+    "Description": "It changes you type depending on the scenery of the floor. You'll regain your usual type when you go to the next floor."
+  },
+  {
+    "Name": "Captivate",
+    "Description": "It sharply lowers the enemy's Sp. Atk."
+  },
+  {
+    "Name": "Charge",
+    "Description": "You'll get the Charging status, which boosts the power of Electric-type moves used on the next turn. It also boosts your Sp. Def. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Charge Beam",
+    "Description": "It damages an enemy. It could also boost your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Charm",
+    "Description": "It sharply lowers the enemy's Attack."
+  },
+  {
+    "Name": "Chip Away",
+    "Description": "It damages an enemy. The enemy's stat changes in Defense and evasiveness don't affect this attack , regardless of whether the stats were boosted or reduced."
+  },
+  {
+    "Name": "Circle Throw",
+    "Description": "It damages an enemy and blows the enemy away in a straight line. It causes more damage if the enemy crashes into a wall or a Pokemon."
+  },
+  {
+    "Name": "Clamp",
+    "Description": "It damages an enemy. It could also cause the target to be subjected to the Clamp condition."
+  },
+  {
+    "Name": "Clear Smog",
+    "Description": "It damages an enemy. It never misses. It also resets the enemy's Attack, Defense, and all other stats, regardless of whether they were boosted or reduced."
+  },
+  {
+    "Name": "Clear Combat",
+    "Description": "It damages an enemy but also lowers your Defense and Sp. Def. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Coil",
+    "Description": "It boosts your aAttack, Defense, and accuracy. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Comet Punch",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Confide",
+    "Description": "It lowers the enemy's Sp. Atk."
+  },
+  {
+    "Name": "Confuse Ray",
+    "Description": "It makes an enemy Confused."
+  },
+  {
+    "Name": "Confusion",
+    "Description": "It damages an enemy. It could also make the enemy Confused."
+  },
+  {
+    "Name": "Constrict",
+    "Description": "It damages an enemy. It could also lower the enemy's Travel Speed."
+  },
+  {
+    "Name": "Conversion",
+    "Description": "It changes your type to the same type as the move at the top of the list of moves you know. You return to your original type when you go to the next floor or faint."
+  },
+  {
+    "Name": "Conversion 2",
+    "Description": "It changes your type to the type that is advantageous to a target's last move. You return to your original type when you go to the next floor or faint."
+  },
+  {
+    "Name": "Copycat",
+    "Description": "You counter the enemy by mimicking the enemy's last move. There are some moves that can't be used in this way."
+  },
+  {
+    "Name": "Cosmic Power",
+    "Description": "It boosts your Defense and SP. Def. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Cotton Guard",
+    "Description": "It significantly boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Cotton Spore",
+    "Description": "It reduces the enemy's Travel Speed, but it has no effect on Grass-type Pokemon."
+  },
+  {
+    "Name": "Counter",
+    "Description": "You'll get the Counter status condition, which enables you to counter when you take damage from a physical move."
+  },
+  {
+    "Name": "Covet",
+    "Description": "It damages an enemy. You'll also steal an item that the enemy has. If you can't carry any more items, your attempt to steal will fail."
+  },
+  {
+    "Name": "Crabhammer",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Cross Chop",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Cross Poison",
+    "Description": "It damages an enemy. It could also make the enemy Poisoned. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Crunch",
+    "Description": "It damages an enemy. It could also lower the enemy's Defense."
+  },
+  {
+    "Name": "Crush Claw",
+    "Description": "It damages an enemy. It could also lower the enemy's Defense."
+  },
+  {
+    "Name": "Curse",
+    "Description": "It boosts your Attack and Defense., but it lowers your Travel Speed. If this is used by a Ghost-type Pokemon, it makes the enemy Cursed but halves your HP."
+  },
+  {
+    "Name": "Dark Pulse",
+    "Description": "It damages nearby enemies. It could also make them Flinch."
+  },
+  {
+    "Name": "Dazzling Gleam",
+    "Description": "It damages nearby enemies."
+  },
+  {
+    "Name": "Defense Curl",
+    "Description": "It boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Defog",
+    "Description": "It lowers the evasiveness of enemies in the same room."
+  },
+  {
+    "Name": "Destiny Bond",
+    "Description": "It causes the Destiny Bond condition. The enemy will sustain the same amount of damage that you take. But be careful, its chance of failing rises if used repeatedly."
+  },
+  {
+    "Name": "Detect",
+    "Description": "You'll Protect yourself from enemies' moves. But its chance of failure rises if you use it after you've already used a move that blocks enemies' attacks."
+  },
+  {
+    "Name": "Dig",
+    "Description": "You'll get the Digging condition, doing damage to your enemy on the next turn. While underground, you'll evade items and moves."
+  },
+  {
+    "Name": "Disable",
+    "Description": "It causes the move the enemy last used to be Sealed, which prevents the Pokemon from using it. The seal will be removed when you go to the next floor."
+  },
+  {
+    "Name": "Disarming Voice",
+    "Description": "It damages nearby enemies. It never misses."
+  },
+  {
+    "Name": "Discharge",
+    "Description": "It damages enemies in the same room. It could also cause Paralysis."
+  },
+  {
+    "Name": "Dive",
+    "Description": "You'll dive underwater, get the Dive condition, and do damage to an enemy on the next turn. You'll evade items or moves while you're underwater. But Surf and Whirlpool will hit you, so be careful."
+  },
+  {
+    "Name": "Dizzy Punch",
+    "Description": "It damage an enemy. It could also make the enemy Confused."
+  },
+  {
+    "Name": "Doom Desire",
+    "Description": "You'll get the Doom Desire condition, which lets you charge power to try a powerful attack on the next turn. This attack will damage all enemies in the same room."
+  },
+  {
+    "Name": "Double HIt",
+    "Description": "It damages an enemy 2 times in a row."
+  },
+  {
+    "Name": "Double Kick",
+    "Description": "It damages an enemy 2 times in a row."
+  },
+  {
+    "Name": "Double Slap",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Double Team",
+    "Description": "It boosts your evasiveness. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Double-Edge",
+    "Description": "It damages an enemy-but you'll receive recoil damage, too."
+  },
+  {
+    "Name": "Draco Meteor",
+    "Description": "It damages all enemies in the same room, but it also sharply lowers your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Dragon Ascent",
+    "Description": "It damages enemies in a wide area in front of you. But it lowers your Defense and Sp. Def. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Dragon Breath",
+    "Description": "It damages a Pokemon, even one far away. It could also cause Paralysis."
+  },
+  {
+    "Name": "Dragon Claw",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Dragon Dance",
+    "Description": "It boosts your Attack and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Dragon Pulse",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Dragon Rage",
+    "Description": "It inflicts a set amount of damage on an enemy. The greater your level, the further this move can reach."
+  },
+  {
+    "Name": "Dragon Rush",
+    "Description": "It damages an enemy. It could also cause the enemy to Flinch."
+  },
+  {
+    "Name": "Dragon Tail",
+    "Description": "It damages an enemy and blows the enemy away in a straight line. It causes more damage if the enemy crashes into a wall or Pokemon."
+  },
+  {
+    "Name": "Drain Punch",
+    "Description": "It damages an enemy. It also restores your HP. The greater the damage causes, the more HP it restores."
+  },
+  {
+    "Name": "Draining Kiss",
+    "Description": "It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores."
+  },
+  {
+    "Name": "Dream Eater",
+    "Description": "It damages a sleeping enemy. It also restores your HP. The greater the damage if causes, the more HP it restores."
+  },
+  {
+    "Name": "Drill Peck",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Drill Run",
+    "Description": "It damages an enemy. It has a high critical-hit rate. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Dual Chop",
+    "Description": "It damages an enemy 2 times in a row."
+  },
+  {
+    "Name": "Dynamic Punch",
+    "Description": "It damages an enemy. It also makes the enemy Confused."
+  },
+  {
+    "Name": "Earth Power",
+    "Description": "It damages enemies in the same room. It could also lower their Sp. Def."
+  },
+  {
+    "Name": "Earthquake",
+    "Description": "It damages all Pokemon in the same room except for you. It can also damage Pokemon that are underground while using Dig."
+  },
+  {
+    "Name": "Echoed Voice",
+    "Description": "It damages enemies. It causes more damage if it's used repeatedly. The power also goes up when you use it after a teammate use it."
+  },
+  {
+    "Name": "Eerie Impulse",
+    "Description": "It sharply lowers the enemy's Sp. Atk."
+  },
+  {
+    "Name": "Egg Bomb",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Electric Terrain",
+    "Description": "It changes the floor to the Electric Terrain condition. In this condition, Electric-type moves get more powerful. It also prevents Pokemon from sleeping. It has no effect on Pokemon in the air."
+  },
+  {
+    "Name": "Electro Ball",
+    "Description": "It damages an enemy. The higher your Speed compared to that of the enemy, the greater the damage caused."
+  },
+  {
+    "Name": "Electroweb",
+    "Description": "It damages an enemy. It also lowers the enemy's Travel Speed."
+  },
+  {
+    "Name": "Embargo",
+    "Description": "It puts an Embargo on an enemy, making the enemy unable to use any items."
+  },
+  {
+    "Name": "Ember",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away. It could also leave the enemy with a Burn."
+  },
+  {
+    "Name": "Encore",
+    "Description": "It demands an Encore from an enemy."
+  },
+  {
+    "Name": "Endeavor",
+    "Description": "It damages an enemy, cutting the enemy's HP down to equal your HP. If your HP is higher than the enemy's, it has no effect."
+  },
+  {
+    "Name": "Endure",
+    "Description": "You'll get the Enduring status and hang on with 1 HP even if you take big damage. But its chance of failure rises if you use it after you've already used a move that blocks enemies' attack."
+  },
+  {
+    "Name": "Energy Ball",
+    "Description": "It damages a Pokemon, even one far away. It could also lower the enemy's Sp Def."
+  },
+  {
+    "Name": "Entrainment",
+    "Description": "It makes the Ability of the Pokemon in front of you the same as yours. The effect wears off when you go to the next floor."
+  },
+  {
+    "Name": "Eruption",
+    "Description": "It damages nearby enemies. The less HP you have , the less powerful this attack will be"
+  },
+  {
+    "Name": "Explosion",
+    "Description": "You''ll get the Explosion condition, explode when you're attacked, and damage the Pokemon around you."
+  },
+  {
+    "Name": "Extrasensory",
+    "Description": "It damages an enemy. It could also cause the enemy to Flinch."
+  },
+  {
+    "Name": "Extreme Speed",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Facade",
+    "Description": "It damages an enemy. The damage it causes goes up if you have a bad status. It also prevents your Attack from being lowered when you use this move while you have a Burn."
+  },
+  {
+    "Name": "Fairy Wind",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Fake Out",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Fake Tears",
+    "Description": "It sharply lowers the enemy's Sp. Def."
+  },
+  {
+    "Name": "False Swipe",
+    "Description": "It damages an enemy. If you knock an enemy out with it, they will be more likely to join you on your adventure!"
+  },
+  {
+    "Name": "Feather Dance",
+    "Description": "It sharply lowers the enemy's Attack."
+  },
+  {
+    "Name": "Feint",
+    "Description": "It breaks through the enemy's Protect, Wide Guard, Quick Guard, or Spiky Shield to damage the enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Feint Attack",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Fell Stinger",
+    "Description": "It damages an enemy. Using this move to cause an enemy to faint will boost your Attack sharply. The stat returns to normal when you go to the next floor or steps on a Wonder Tile."
+  },
+  {
+    "Name": "Final Gambit",
+    "Description": "It lowers your HP to 1 and damages an enemy by and amount equal to your reduced HP."
+  },
+  {
+    "Name": "Fire Blast",
+    "Description": "It damages an enemy. It could also leave the enemy with a Burn."
+  },
+  {
+    "Name": "Fire Fang",
+    "Description": "It damages an enemy. It could also leave the enemy with a Burn or cause it to Flinch."
+  },
+  {
+    "Name": "Fire Pledge",
+    "Description": "It damages an enemy. If your teammate is in a position from which it can use Grass Pledge, the PP of Grass Pledge will be used, but its power increases, and enemies in the same room as you will get the Sea of Fire condition."
+  },
+  {
+    "Name": "Fire Punch",
+    "Description": "It damages an enemy. It could also leave the enemy with a Burn."
+  },
+  {
+    "Name": "Fire Spin",
+    "Description": "It damages an enemy. It could also cause the Fire Spin condition."
+  },
+  {
+    "Name": "Fissure",
+    "Description": "The enemy will faint instantly if this attack hits, but it's hard to land this move. It has no effect on Flying-type Pokemon or Pokemon with the Levitate Ability."
+  },
+  {
+    "Name": "Flail",
+    "Description": "It damages an enemy. The lower your HP is, the greater the damage it causes."
+  },
+  {
+    "Name": "Flame Burst",
+    "Description": "It even damages a faraway Pokemon. It also damages Pokemon around the target."
+  },
+  {
+    "Name": "Flame Charge",
+    "Description": "It damages an enemy. It could also boost your Travel Speed."
+  },
+  {
+    "Name": "Flame Wheel",
+    "Description": "wIt damages an enemy. It could also leave the enemy with a Burn."
+  },
+  {
+    "Name": "Flamethrower",
+    "Description": "It damages a Pokemon, even one far away. It could also leave the enemy with a Burn."
+  },
+  {
+    "Name": "Flare Blitz",
+    "Description": "It damages an enemy, but you'll receive recoil damage, too. It could also leave the enemy with a Burn."
+  },
+  {
+    "Name": "Flash",
+    "Description": "It lowers the enemy's accuracy."
+  },
+  {
+    "Name": "Flash Cannon",
+    "Description": "It damages an enemy. It could also lower the enemy's Sp. Def."
+  },
+  {
+    "Name": "Flatter",
+    "Description": "It makes an enemy Confused, while also raising the enemy's Sp. Atk."
+  },
+  {
+    "Name": "Fling",
+    "Description": "You throw an item in an arc, hitting another Pokemon with it. It causes the same effect as throwing an item at an enemy."
+  },
+  {
+    "Name": "Flower Shield",
+    "Description": "It boosts the Defense of Grass-type Pokemon among you and your teammates in the same room. The stat returns to normal when affected Pokemon go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Fly",
+    "Description": "You soar, get the Flying status condition, and then strike your enemy in the next turn. While you're in the air, you won't be hit by items or moves."
+  },
+  {
+    "Name": "Focus Blast",
+    "Description": "It damages a Pokemon, even one far away. It could also lower the enemy's Sp. Def."
+  },
+  {
+    "Name": "Focus Energy",
+    "Description": "You'll get the Focus Energy condition, which raises your critical-hit rate."
+  },
+  {
+    "Name": "Focus Punch",
+    "Description": "You'll get the Focus Punch condition, focusing your mind and damaging your enemy during the next turn."
+  },
+  {
+    "Name": "Follow Me",
+    "Description": "It warps 1 random enemy in the same room to the tile in front of you. then it warps your teammates near you to surround the enemy."
+  },
+  {
+    "Name": "Force Palm",
+    "Description": "It damages an enemy. It could also cause Paralysis."
+  },
+  {
+    "Name": "Foresight",
+    "Description": "It resets an enemy's boosted evasiveness. If the enemy is Ghost type, it also makes the enemy Exposed, which enables Normal- and Fighting-type moves to hit the enemy."
+  },
+  {
+    "Name": "Foul Play",
+    "Description": "It damages an enemy. But the damage is determined by the target's Attack stat instead of the user's Attack stat."
+  },
+  {
+    "Name": "Freeze-Dry",
+    "Description": "It damages an enemy. It's super effective on Water-type Pokemon, too. It could also make the enemy Frozen."
+  },
+  {
+    "Name": "Frenzy Plant",
+    "Description": "It damages enemies in the same room, but it also gives you the Recoil status, which prevents you from doing anything on the next turn."
+  },
+  {
+    "Name": "Frost Breath",
+    "Description": "It damages an enemy. It always results in a critical hit."
+  },
+  {
+    "Name": "Frustration",
+    "Description": "It damages an enemy. The less you have opened up to your team, the more powerful this move will be."
+  },
+  {
+    "Name": "Fury Attack",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Fury Cutter",
+    "Description": "It damages an enemy. Its power goes up if you use it twice in a row."
+  },
+  {
+    "Name": "Fury Swipes",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Future Sight",
+    "Description": "You'll get the Future Sight condition and damage an enemy on the next turn."
+  },
+  {
+    "Name": "Gastro Acid",
+    "Description": "It causes the Gastro Acid status condition, which removes the effect of the enemy's Ability."
+  },
+  {
+    "Name": "Giga Drain",
+    "Description": "It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores."
+  },
+  {
+    "Name": "Giga Impact",
+    "Description": "It damages an enemy. But it also gives you the Recoil Status, which prevents you from doing anything on the next turn."
+  },
+  {
+    "Name": "Glare",
+    "Description": "It inflicts Paralysis on an enemy."
+  },
+  {
+    "Name": "Grass Knot",
+    "Description": "It damages an enemy. The heavier the enemy, the greater the damage caused by the move."
+  },
+  {
+    "Name": "Grass Pledge",
+    "Description": "It damages an enemy. If your teammate is in a position from which it can use Water Pledge, the PP of Water Pledge will be used, but its power increases, and enemies in the same room as you will get the Swamp condition."
+  },
+  {
+    "Name": "Grass Whistle",
+    "Description": "It makes an enemy go to Sleep with the gentle sound of Whistling grass."
+  },
+  {
+    "Name": "Grassy Terrain",
+    "Description": "It changes the floor to the Grassy Terrain condition, where Grass-type moves become more powerful and HP is naturally restored faster. It also halves the damage from moves such as Earthquake, Bulldoze, and Magnitude. It has no effect on Pokemon in the air."
+  },
+  {
+    "Name": "Gravity",
+    "Description": "It changes the floor's Gravity, which reduces evasiveness. It also eliminates levitating effects and enables Flying-type Pokemon to be hit with Ground-type moves. Pokemon can't be blown away, and they can't warp or travel in the air."
+  },
+  {
+    "Name": "Growl",
+    "Description": "It lowers the Attack of enemies in the same room."
+  },
+  {
+    "Name": "Growth",
+    "Description": "It boosts your Attack and Sp. Atk. During Sunny weather or in Extremely Harsh Sunlight, your stats go up even higher. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Grudge",
+    "Description": "You'll halve your HP and hold a Grudge! If you're hit by an enemy's move, you'll cut the PP of the attacker's move to 0. The status will go away after a while."
+  },
+  {
+    "Name": "Guard Split",
+    "Description": "It adds together the Defense of you and the target, and then it splits the total equally. It also splits the total SP. Def equally. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Guard Swap",
+    "Description": "It switches any changes to your Defense and Sp. Def with the target's. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Guillotine",
+    "Description": "The enemy will faint if this attack hits, but it's hard to land this move. It has no effect on Ghost-type Pokemon."
+  },
+  {
+    "Name": "Gunk Shot",
+    "Description": "It damages a Pokemon, even one far away, and could also make the enemy Poisoned."
+  },
+  {
+    "Name": "Gust",
+    "Description": "It damages an enemy. It can hit an enemy that's in the air from using Fly and the like."
+  },
+  {
+    "Name": "Gyro Ball",
+    "Description": "It damages an enemy. The slower your Speed compared to your enemy's, the greater the damage caused by the move."
+  },
+  {
+    "Name": "Hail",
+    "Description": "It changes the floor's weather to Hail. During the Hail, all Pokemon except Ice types keep taking damage."
+  },
+  {
+    "Name": "Hammer Arm",
+    "Description": "It damages and enemy, but it also lowers your Travel Speed. The stat returns to normal after a while."
+  },
+  {
+    "Name": "Harden",
+    "Description": "It boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Haze",
+    "Description": "The room becomes hazy, resetting the stats of all Pokemon in the same room. It resets all stats, whether boosted or reduced."
+  },
+  {
+    "Name": "Head Smash",
+    "Description": "It damages an enemy, but you'll receive recoil damage, too."
+  },
+  {
+    "Name": "Headbutt",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Heal Bell",
+    "Description": "If you and your teammates in the same room have any bad statuses, all the bad statuses will be removed."
+  },
+  {
+    "Name": "Heal Block",
+    "Description": "It gives the Heal Block status to all enemies in the same room, making them unable to restore their HP."
+  },
+  {
+    "Name": "Heal Pulse",
+    "Description": "It restores a distant Pokemon's HP."
+  },
+  {
+    "Name": "Healing Wish",
+    "Description": "It restores your teammates' HP and heals their bad statuses. But it also depletes your HP to 1, so be careful."
+  },
+  {
+    "Name": "Heart Stamp",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Heat Wave",
+    "Description": "It whips up hot winds, damaging enemies in the same room. It could also leave them with a Burn."
+  },
+  {
+    "Name": "Heavy Slam",
+    "Description": "It damages an enemy. The heavier you are compared to the enemy, the greater the damage caused."
+  },
+  {
+    "Name": "Helping Hand",
+    "Description": "It boosts the Attack and SP. Atk of your teammates in the same room. Their stats return to normal when they go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Hex",
+    "Description": "It damages an enemy. The damage goes up if the enemy has a bad status condition."
+  },
+  {
+    "Name": "Hidden Power",
+    "Description": "It damages an enemy. The move's type changes on each adventure."
+  },
+  {
+    "Name": "High Horsepower",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "High Jump Kick",
+    "Description": "It damages an enemy. But if it misses, you'll hurt yourself!"
+  },
+  {
+    "Name": "Hone Claws",
+    "Description": "It boosts your Attack and accuracy. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Horn Attack",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Horn Drilll",
+    "Description": "The enemy will faint if this attack hits, but it's hard to land this move. It has no effect on Ghost-type Pokemon."
+  },
+  {
+    "Name": "Howl",
+    "Description": "It boosts your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Hurricane",
+    "Description": "It damages an enemy, even if the enemy is in the air from using a move such as Fly. It could also make the enemy Confused. During Rain or Heavy Rain, it never misses. But during Sunny weather or in Extremely Harsh Sunlight, it's hard to land this move."
+  },
+  {
+    "Name": "Hydro Cannon",
+    "Description": "It even damages faraway Pokemon. It also gives you the Recoil status, which prevents you from doing anything on the next turn."
+  },
+  {
+    "Name": "Hydro Pump",
+    "Description": "It fires off water with incredible force to damage even faraway Pokemon."
+  },
+  {
+    "Name": "Hyper Beam",
+    "Description": "It damages Pokemon, even those far away, and causes an explosion that also affects the surroundings. Walls and items on the ground will also disappear. But after you use the move, the Recoil prevents you from doing anything on the next turn."
+  },
+  {
+    "Name": "Hyper Fang",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Hyper Voice",
+    "Description": "It damages near by enemies."
+  },
+  {
+    "Name": "Hypnosis",
+    "Description": "It makes an enemy go to Sleep. Using the move again makes the enemy Terrified. But if you or your allies are attacked by this move while you're sleeping, you'll become the enemy's Puppet."
+  },
+  {
+    "Name": "Ice Ball",
+    "Description": "It damages an enemy up to 5 times or until it misses. The power goes up after you use Defense Curl!"
+  },
+  {
+    "Name": "Ice Beam",
+    "Description": "It fires off a cold beam, damaging a Pokemon, even one far away."
+  },
+  {
+    "Name": "Ice Fang",
+    "Description": "It damages an enemy. It could make the enemy Frozen or cause it to Flinch."
+  },
+  {
+    "Name": "Ice Punch",
+    "Description": "It damages an enemy. It could also make the enemy Frozen."
+  },
+  {
+    "Name": "Ice Shard",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Icicle Crash",
+    "Description": "It damages and enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Icicle Spear",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Icy Wind",
+    "Description": "It damages a Pokemon, even one far away,. It also lowers the target's Travel Speed."
+  },
+  {
+    "Name": "Imprison",
+    "Description": "If enemies on the same floor know any moves you also know, they have them Sealed, preventing all enemies from using the moves."
+  },
+  {
+    "Name": "Incinerate",
+    "Description": "It damages and enemy. iIf the enemy is carrying food, this move burns the food, making it useless."
+  },
+  {
+    "Name": "Inferno",
+    "Description": "It damages an enemy. It also leaves the enemy with a Burn."
+  },
+  {
+    "Name": "Infestation",
+    "Description": "It damages an enemy. It could also cause the Infestation condition."
+  },
+  {
+    "Name": "Ingrain",
+    "Description": "You'll get the Ingrain condition. In the In grain condition, you're unable to move but your HP keeps restoring."
+  },
+  {
+    "Name": "Ion Deluge",
+    "Description": "It changes the floor to the Ion Deluge condition. In the Ion Deluge condition, Normal-type moves will be Electric type."
+  },
+  {
+    "Name": "Iron Defense",
+    "Description": "It sharply boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Iron Head",
+    "Description": "It damages an enemy. It could also cause the enemy to Flinch."
+  },
+  {
+    "Name": "Iron Tail",
+    "Description": "It damages an enemy. It could also lower the enemy's Defense."
+  },
+  {
+    "Name": "Jump Kick",
+    "Description": "It damages an enemy. But if it misses, you'll get hurt."
+  },
+  {
+    "Name": "Karate Chop",
+    "Description": "It damages an enemy. it has a high critical-hit rate"
+  },
+  {
+    "Name": "Kinesis",
+    "Description": "It lowers the enemy's accuracy."
+  },
+  {
+    "Name": "Knock Off",
+    "Description": "It damages an enemy. The power goes up if the enemy has an item. It also knocks the enemy's held item to the floor near it."
+  },
+  {
+    "Name": "Laser Focus",
+    "Description": "You get the Laser Focus condition, making your moves critical hits."
+  },
+  {
+    "Name": "Last Resort",
+    "Description": "It deals big damage to an enemy. But it won't hit unless you have a move with 0 PP remaining. The more moves you have with 0 PP, the more powerful this move becomes."
+  },
+  {
+    "Name": "Lava Plume",
+    "Description": "It damages nearby enemies. It could also leave them with a Burn."
+  },
+  {
+    "Name": "Leaf Blade",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Leaf Storm",
+    "Description": "It damages a Pokemon, even one far away, but it also sharply lowers your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Leaf Tornado",
+    "Description": "It damages an enemy. It could also lower the enemy's accuracy."
+  },
+  {
+    "Name": "Leech Life",
+    "Description": "It damages an enemy. It also restores your HP. The greater the damage it causes, the moreHP it restores."
+  },
+  {
+    "Name": "Leech Seed",
+    "Description": "It gives an enemy the Leech Seed status condition."
+  },
+  {
+    "Name": "Leer",
+    "Description": "It lowers the enemy's Defense."
+  },
+  {
+    "Name": "Lick",
+    "Description": "It damages an enemy. It could also cause Paralysis."
+  },
+  {
+    "Name": "Light Screen",
+    "Description": "You and your teammates in the same room get the Light Screen condition, which reduces the damage taken from special moves."
+  },
+  {
+    "Name": "Liquidation",
+    "Description": "It damages an enemy. It could also lower the target's Defense."
+  },
+  {
+    "Name": "Lock-On",
+    "Description": "You'll get theSure Shot status, which makes your attacks and moves hit the enemy without fail."
+  },
+  {
+    "Name": "Lovely Kiss",
+    "Description": "It makes an enemy go to Sleep. Using the move again makes the enemy Terrified. But if you or your allies are attacked by this move while you're sleeping, you'll become the enemy's Puppet."
+  },
+  {
+    "Name": "Low Kick",
+    "Description": "It damages an enemy. The heavier the enemy, the greater the damage."
+  },
+  {
+    "Name": "Low Sleep",
+    "Description": "It damages an enemy. It also lowers the enemy's Travel Speed."
+  },
+  {
+    "Name": "Lucky Chant",
+    "Description": "You and your teammates in the same room will get the Lucky Chant status condition, which protects you from taking critical hits."
+  },
+  {
+    "Name": "Luster Purge",
+    "Description": "It damages nearby enemies. It could also lower their SP. Def."
+  },
+  {
+    "Name": "Mach Punch",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Magic Coat",
+    "Description": "You and your teammates in the same room will get the Magic Coat status, which reflects status moves and the effects of wands back at the attacker. But there are some moves that cannot be reflected, so be careful! The status will go away after a while."
+  },
+  {
+    "Name": "Magic Room",
+    "Description": "It chages to floor to the Magic Room condition, where nobody can use items. The status returns to normal after a while or if you use this move again."
+  },
+  {
+    "Name": "Magical Leaf",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Magnet Bomb",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Magnet Rise",
+    "Description": "You'll get the Magnet Rise condition. In the Magnet Rise condition, you won't take damage from Ground-type moves."
+  },
+  {
+    "Name": "Magnetic Flux",
+    "Description": "It sharply boosts the Defense and Sp. Def of you or Pokemon in your party in the same room with the Plus or Minus Ability. The stats return to normal when affected Pokemon go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Magnitude",
+    "Description": "It damages all Pokemon in the same room, except for you, including Pokemon underground using Dig. It randomly changes its intensity."
+  },
+  {
+    "Name": "Me First",
+    "Description": "You use one of the enemy's attacking moves. There are some moves that can't be used in this way."
+  },
+  {
+    "Name": "Mean Lock",
+    "Description": "It causes an enemy to get Stuck."
+  },
+  {
+    "Name": "Mediate",
+    "Description": "It boosts your attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Mega Drain",
+    "Description": "It damages an enemy. It also restores your HP. The greater the damage it causes, the more HP it restores."
+  },
+  {
+    "Name": "Mega Kick",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Mega Punch",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Megahorn",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Memento",
+    "Description": "It sharply lowers theAttack and Sp. Atk of enemies in the same room, but it drops your HP to 1 and warps you to somewhere else."
+  },
+  {
+    "Name": "Metal Burst",
+    "Description": "You'll get the Metal Burst condition, which enables you to counter when you take damage from moves."
+  },
+  {
+    "Name": "Metal Claw",
+    "Description": "It damages an enemy. It could also boost your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Metal Sound",
+    "Description": "It sharply lowers the enemy's Sp. Def."
+  },
+  {
+    "Name": "Meteor Mash",
+    "Description": "It damages an enemy. It could also boost your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Metronome",
+    "Description": "You can use a randomly selected move. Some moves aren't available, so be careful!"
+  },
+  {
+    "Name": "Milk Drink",
+    "Description": "It restores the HP of you and your teammates in the same room."
+  },
+  {
+    "Name": "Mimic",
+    "Description": "You can learn the move that the Pokemon in front of you last used. But there are some moves that you can't mimic, so be careful! You return to normal when you go to the next floor or faint."
+  },
+  {
+    "Name": "Mind Reader",
+    "Description": "You'll get theSure Shot status, which makes your moves hit the enemy without fail."
+  },
+  {
+    "Name": "Minimize",
+    "Description": "It sharply boosts your evasiveness. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Miracle Eye",
+    "Description": "It resets an enemy's boosted evasiveness. If the enemy is Dark type, it also causes the Miracle Eye condition, which will allow Psychic-type moves to hit the enemy."
+  },
+  {
+    "Name": "Mirror Coat",
+    "Description": "You'll get the Mirror Coat Condition, which enables you to counter when you take damage from a special move."
+  },
+  {
+    "Name": "Mirror Move",
+    "Description": "You counter the enemy by mimicking its last move. You move fails if there's no move to mimic."
+  },
+  {
+    "Name": "Mirror Shot",
+    "Description": "It damages an enemy. It could also lower the enemy's accuracy."
+  },
+  {
+    "Name": "Mist",
+    "Description": "You and your allies that are in the same room are cloaked in Mist, which prevents all your stats from being lowered. But you're not protected from the effects of your moves that lower your own stats."
+  },
+  {
+    "Name": "Mist Ball",
+    "Description": "It damages a Pokemon, even one far away. It could also lower the enemy's Sp. Atk."
+  },
+  {
+    "Name": "Misty Terrain",
+    "Description": "It changes the floor to the Misty Terrain condition, reducing the damage caused by Dragon-type moves. It also prevents bad statuses. It has no effect on Pokemon in the air."
+  },
+  {
+    "Name": "Moonblast",
+    "Description": "It damages an enemy. It could also lower the enemy's Sp. Atk."
+  },
+  {
+    "Name": "Moonlight",
+    "Description": "It restores the HP of you and your teammates in the same room. During Sunny weather or in extremely Harsh Sunlight, it restores your HP even more. During Rain, Heavy Rain, Hail, or a Sandstorm, the amount regained goes down."
+  },
+  {
+    "Name": "Morning Sun",
+    "Description": "It restores the HP of you and your teammates in the same room. During Sunny weather or in eExtremely Harsh Sunlight, it restores your HP even more. During Rain, Heavy Rain, hail, or a Sandstorm, the amount regained goes down."
+  },
+  {
+    "Name": "Mud Bomb",
+    "Description": "It damages an enemy. It could also lower the enemy's accuracy."
+  },
+  {
+    "Name": "Mud Shot",
+    "Description": "IJt damages an enemy. It also lowers the enemy's Travel Speed."
+  },
+  {
+    "Name": "Mud Sport",
+    "Description": "It changes the entire floor's status to Mud Sport, reducing the power of all Electric-type moves."
+  },
+  {
+    "Name": "Muddy Water",
+    "Description": "It damages all Pokemon in the same room except for you with muddy water. It could also lower the other Pokemon's accuracy."
+  },
+  {
+    "Name": "Mud-Slap",
+    "Description": "It damages an enemy. It also lowers the enemy's accuracy."
+  },
+  {
+    "Name": "Mystical Fire",
+    "Description": "It damages an enemy. It also lowers the enem's Sp. Atk."
+  },
+  {
+    "Name": "Nasty Plot",
+    "Description": "It sharply boosts your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Natural Gift",
+    "Description": "It damages an enemy. If you're holding food, such as Berries or seeds, the move's type will change and the power will go up."
+  },
+  {
+    "Name": "Nature Power",
+    "Description": "Borrowing power from nature, a variety of damaging moves will be used depending on the scenery of the floor."
+  },
+  {
+    "Name": "Needle Arm",
+    "Description": "It damages an enemy. It could also cause the enemy to Flinch."
+  },
+  {
+    "Name": "Night Shade",
+    "Description": "The amount of damage done matches your level."
+  },
+  {
+    "Name": "Night Slash",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Nightmare",
+    "Description": "It causes an enemy to have a Nightmare."
+  },
+  {
+    "Name": "Noble Roar",
+    "Description": "It lowers the enemy's aAttack and Sp. Atk."
+  },
+  {
+    "Name": "Nuzzle",
+    "Description": "It damages an enemy. It also causes Paralysis."
+  },
+  {
+    "Name": "Octazooka",
+    "Description": "It damages a Pokemon, even one far away. It could also cause the Blinker condition."
+  },
+  {
+    "Name": "Odor Sleuth",
+    "Description": "It resets any boosts to evasiveness for all enemies in the same room. It also makes Ghost-type enemies Exposed, which allows Normal- and Fighting-type moves to hit them."
+  },
+  {
+    "Name": "Ominous Wind",
+    "Description": "It damages enemies in the same room. iIt could also boost your Attack, Defense, Sp. Atk, Sp. Def, and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Origin Pulse",
+    "Description": "It damages nearby enemies."
+  },
+  {
+    "Name": "Outrage",
+    "Description": "You go berserk, damaging an enemy 2 to 3 times in a row. After that, you'll get Confused."
+  },
+  {
+    "Name": "Overheat",
+    "Description": "It damages nearby enemies, but it also sharply lowers your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Pain Split",
+    "Description": "It adds together the HP of you and the enemy and then shares the total equally between you."
+  },
+  {
+    "Name": "Pay Day",
+    "Description": "If you defeat an enemy with this move, the enemy will drop money. However, enemies you defeat while you're in a maze won't drop any money."
+  },
+  {
+    "Name": "Payback",
+    "Description": "You'll get the Counter condition, which enables you to counter when you take damage from physical moves."
+  },
+  {
+    "Name": "Peck",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Perish Song",
+    "Description": "It gives the Perish Song condition to all enemies on the floor. Pokemon affected by the move will faint 3 turns later."
+  },
+  {
+    "Name": "Petal Blizzard",
+    "Description": "It damages enemies in the same room by stirring up a petal Blizzard."
+  },
+  {
+    "Name": "Petal Dance",
+    "Description": "It scatters petals about, damaging an enemy 2 to 3 times in a row. After that, you'll get Confused."
+  },
+  {
+    "Name": "Phantom Force",
+    "Description": "You'll get the Phantom Force condition, which lets you charge power to try a powerful attack on the next turn. This move breaks through the enemy's Protect, Wide Guard, or Quick Guard to damage the enemy."
+  },
+  {
+    "Name": "Pin Missile",
+    "Description": "It damages a Pokemon, even one far away, 2 to 3 times in a row."
+  },
+  {
+    "Name": "Play Nice",
+    "Description": "It lowers the enemy's Attack."
+  },
+  {
+    "Name": "Play Rough",
+    "Description": "It damages an enemy. It could also lower the enemy's Attack."
+  },
+  {
+    "Name": "Pluck",
+    "Description": "It damages an enemy. If the enemy is carrying any food, you'll pluck it from their grasp and eat it!"
+  },
+  {
+    "Name": "Poison Fang",
+    "Description": "It damages an enemy. It could also make the enemy Badly Poisoned."
+  },
+  {
+    "Name": "Poison Gas",
+    "Description": "It makes an enemy Poisoned."
+  },
+  {
+    "Name": "Poison Jab",
+    "Description": "It damages an enemy. It could also make the enemy Poisoned."
+  },
+  {
+    "Name": "Poison Powder",
+    "Description": "It makes an enemy Poisoned. But it has no effect on Grass-type Pokemon."
+  },
+  {
+    "Name": "Poison Sting",
+    "Description": "It damages an enemy. It could also make the enemy Poisoned."
+  },
+  {
+    "Name": "Poison Tail",
+    "Description": "It damages an enemy. It could also make the enemy Poisoned. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Pound",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Powder Snow",
+    "Description": "It damages an enemy. It could also make the enemy Frozen."
+  },
+  {
+    "Name": "Power Gem",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Power Split",
+    "Description": "It adds together the Attack of you and the target, and then it splits the total equally. It also splits the total Sp. Atk equally. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Power Swap",
+    "Description": "It switches any changes to your Attack and Sp. Atk with the target's. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Power Trick",
+    "Description": "It switches any changes of your Attack and Defense. The stat changes return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Power Whip",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Power-Up Punch",
+    "Description": "It damages an enemy. It also boosts your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Precipice Blades",
+    "Description": "It even damages a faraway Pokemon."
+  },
+  {
+    "Name": "Present",
+    "Description": "You give an enemy a gift of a random amount of damage! But be careful, because sometimes the gift could mistakenly help restore the enemy's HP, too. If you use this move on a teammate, it will always help restore their HP."
+  },
+  {
+    "Name": "Protect",
+    "Description": "You'll Protect yourself from enemies' moves. But its chance of failure rises if you use it after you've already used a move that blocks enemies' attacks."
+  },
+  {
+    "Name": "Psybeam",
+    "Description": "It damages a Pokemon, even one far away, with a mysterious beam. It could also make the enemy Confused."
+  },
+  {
+    "Name": "Psych Up",
+    "Description": "You copy the target's changes in Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Psychic",
+    "Description": "It damages an enemy. It could also lower the enemy's Sp. Def."
+  },
+  {
+    "Name": "Psycho Boost",
+    "Description": "It damages a Pokemon, even one far away. But it also sharply lowers your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Psycho Cut",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Psycho Shift",
+    "Description": "It transfers your bad status to a target. Not all bad statuses can be transferred, so be careful."
+  },
+  {
+    "Name": "Psyshock",
+    "Description": "It damages an enemy. The damage is determined by the enemy's Defense stat."
+  },
+  {
+    "Name": "Psystrike",
+    "Description": "It damages an enemy. This move is a special attack, but the enemy Defense stat determines damage instead of its Sp. Def stat."
+  },
+  {
+    "Name": "Psywave",
+    "Description": "It damages an enemy. The higher your level, the greater the damage."
+  },
+  {
+    "Name": "Punishment",
+    "Description": "It damages an enemy. The more the enemy has powered up with stat changes, the more powerful the move becomes."
+  },
+  {
+    "Name": "Pursuit",
+    "Description": "It damages an enemy. The damage goes up if the enemy has a bad status."
+  },
+  {
+    "Name": "Quash",
+    "Description": "It causes an enemy to Flinch."
+  },
+  {
+    "Name": "Quick Attack",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Quick Guard",
+    "Description": "You and your teammates in the same room will get the Quick Guard condition, which protects you from faraway enemies' moves."
+  },
+  {
+    "Name": "Quiver Dance",
+    "Description": "It boosts your Sp. Atk, Sp. Def, and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Rage",
+    "Description": "You'll get Enraged, which boosts your Attack everytime you take damage from a move. The boosted Attack returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Rage Powder",
+    "Description": "You'll be a Decoy and become the enemies' primary target."
+  },
+  {
+    "Name": "Rain Dance",
+    "Description": "It changes the floor's weather to Rain. The power of Fire-type moves goes down, and the power of Water-type moves goes up."
+  },
+  {
+    "Name": "Rapid Spin",
+    "Description": "It damages an enemy. It also frees you from being bound and from the Leech Seed status. It destroys any trap in front of you, too."
+  },
+  {
+    "Name": "Razor Leaf",
+    "Description": "It damages a Pokemon, even one far away. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Razor Shell",
+    "Description": "It damages an enemy. It could also lower the enemy's Defense."
+  },
+  {
+    "Name": "Razor Wind",
+    "Description": "It damages all the enemies that are in the same room as you on the next turn! You'll get the Razor Wind status condition, which lets you charge power to try a powerful move on the next turn. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Recover",
+    "Description": "It restores your HP."
+  },
+  {
+    "Name": "Recycle",
+    "Description": "It changes a Plain Seed to a different seed or an Oran Berry."
+  },
+  {
+    "Name": "Reflect",
+    "Description": "You and your teammates in the same room get the Reflect condition, which reduces the damage taken from physical moves."
+  },
+  {
+    "Name": "Reflect Type",
+    "Description": "It makes your type the same as that of the Pokemon in front of you. You regain your usual type when you go to the next floor."
+  },
+  {
+    "Name": "Refresh",
+    "Description": "If you and your teammates in the same room have any bad statuses, all the bad statuses will be removed."
+  },
+  {
+    "Name": "Rest",
+    "Description": "You'll get the Napping condition. With the Napping condition, you'll fall asleep, awakening later with all your HP restored and bad statuses healed."
+  },
+  {
+    "Name": "Retaliate",
+    "Description": "It damages an enemy. If you know this move, your Attack goes up sharply when an enemy defeats a teammate. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Return",
+    "Description": "It damages an enemy. The more you've opened up to your team, the more powerful this move will be."
+  },
+  {
+    "Name": "Revenge",
+    "Description": "You'll get the Bide status for a little while, and then you'll damage an enemy. The more damage you take while biding, the greater the damage you can cause."
+  },
+  {
+    "Name": "Reversal",
+    "Description": "It damages an enemy. The lower your HP is, the greater the damage it causes."
+  },
+  {
+    "Name": "Roar",
+    "Description": "It blows an enemy away in a straight line. If the enemy crashes into any Pokemon or a wall, both Pokemon take damage."
+  },
+  {
+    "Name": "Rock Blast",
+    "Description": "It damages an enemy 2 to 5 times in a row."
+  },
+  {
+    "Name": "Rock Polish",
+    "Description": "It boosts your Travel Speed sharply!"
+  },
+  {
+    "Name": "Rock Slide",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Rock Throw",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Rock Tomb",
+    "Description": "It damages an enemy. It also lowers the enemy's Travel Speed."
+  },
+  {
+    "Name": "Rock Wrecker",
+    "Description": "It damages a Pokemon, even one far away, but it also gives you the Recoil status, which prevents you from doing anything on the next turn."
+  },
+  {
+    "Name": "Role Play",
+    "Description": "It copies the Ability of a Pokemon in front of you. You regain your usual Ability when you go the next floor."
+  },
+  {
+    "Name": "Rolling Kick",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Rollout",
+    "Description": "It damages an enemy up to 5 times or until it misses. The power goes up after you use Defense Curl!"
+  },
+  {
+    "Name": "Roost",
+    "Description": "It restores your HP. If it's used by a Flying-type Pokemon, that Pokemon also loses its Flying-type designation until the next turn."
+  },
+  {
+    "Name": "Rototiller",
+    "Description": "It boosts the Attack and Sp. Atk of Grass-type Pokemon among you and your teammates in the same room. It has no effect on Pokemon in the air. The stats return to normal when affected Pokemon go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Round",
+    "Description": "It damages an enemy. It causes more damage if your teammate in the same room just used the same move."
+  },
+  {
+    "Name": "Sacred Fire",
+    "Description": "It damages enemies in the same room with. mystical flames. It could also leave enemies with a Burn."
+  },
+  {
+    "Name": "Safeguard",
+    "Description": "You and your teammates in the same room get the Safeguard condition, which prevents you from having bad statuses."
+  },
+  {
+    "Name": "Sand Attack",
+    "Description": "It lowers the enemy's accuracy."
+  },
+  {
+    "Name": "Sand Tomb",
+    "Description": "It damages an enemy. It could also cause the Sand Tomb condition."
+  },
+  {
+    "Name": "Sandstorm",
+    "Description": "It changes the floor's weather to Sandstorm. Pokemon that can't deal with the weather will keep taking damage."
+  },
+  {
+    "Name": "Scald",
+    "Description": "It damages an enemy. It could also leave the enemy with a Burn. It will thaw a Frozen Pokemon."
+  },
+  {
+    "Name": "Scary Face",
+    "Description": "It reduces the enemy's Travel Speed."
+  },
+  {
+    "Name": "Scratch",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Screech",
+    "Description": "It sharply lowers the enemy's Defense."
+  },
+  {
+    "Name": "Seed Bomb",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Seismic Toss",
+    "Description": "You'll throw your teammate or an enemy in front of you at another Pokemon or at a trap."
+  },
+  {
+    "Name": "Self-Destruct",
+    "Description": "You'll get the Self-Destruct status. When you take damage, it causes an explosion!"
+  },
+  {
+    "Name": "Shadow Ball",
+    "Description": "It damages even a faraway Pokemon. It could also lower the enemy's Sp. Def."
+  },
+  {
+    "Name": "Shadow Claw",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Shadow Punch",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Shadow Sneak",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Sharpen",
+    "Description": "It boosts your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Sheer Cold",
+    "Description": "The enemy will faint instantly if this attack hits, but it's hard to land this move. It has no effect on Ice-type Pokemon."
+  },
+  {
+    "Name": "Shell Smash",
+    "Description": "It lowers your Defense and Sp. Def while sharply raising your Attack, Sp. Atk and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Shock Wave",
+    "Description": "It damages nearby enemies. It never misses."
+  },
+  {
+    "Name": "Signal Beam",
+    "Description": "It damages a Pokemon, even one far away. It could also make the enemy Confused."
+  },
+  {
+    "Name": "Silver Wind",
+    "Description": "It damages enemies in the same room. It could also boost your Attack, Defense, Sp. Atk, Sp. Def, and Travel Speed. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Sing",
+    "Description": "It makes an enemy go to Sleep."
+  },
+  {
+    "Name": "Sketch",
+    "Description": "You can learn the target's last move. But there are some moves that you can't sketch, so be careful!"
+  },
+  {
+    "Name": "Skill Swap",
+    "Description": "It trades your Ability with the Ability of a Pokemon in front of you. You regain your usual Ability when you go to the next floor or faint."
+  },
+  {
+    "Name": "Skull Bash",
+    "Description": "You'll get the Skull Bash condition, which lets you charge power to try a powerful attack on the next turn. It also boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Sky Attack",
+    "Description": "You'll get the Sky Attack status, which lets you charge power to try a powerful attack on the next turn. It could also make the enemy Flinch. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Sky Drop",
+    "Description": "You'll get the Sky Drop condition. You'll lift the enemy into the sky and then drop the enemy during the next turn, causing damage to them. You'll evade items and moves while you're in the air."
+  },
+  {
+    "Name": "Sky Uppercut",
+    "Description": "It damages an enemy. It can hit an enemy that's in the air from using Fly and the like."
+  },
+  {
+    "Name": "Slack Off",
+    "Description": "It restore your HP."
+  },
+  {
+    "Name": "Slam",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Slash",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Sleep Powder",
+    "Description": "It makes nearby enemies go to Sleep. but it has no effect on Grass-type Pokemon."
+  },
+  {
+    "Name": "Sleep Talk",
+    "Description": "If you're sleeping, a move you know will be used automatically on an enemy near you. But keep in mind that nothing will happen if you use this while you're wide awake."
+  },
+  {
+    "Name": "Sludge",
+    "Description": "It damages an enemy. It could also make the enemy Poisoned."
+  },
+  {
+    "Name": "Sludge Bomb",
+    "Description": "It damages a Pokemon, even one far away. It could also make the enemy Poisoned."
+  },
+  {
+    "Name": "Sludge Wave",
+    "Description": "It damages nearby enemies. It could also make them Poisoned."
+  },
+  {
+    "Name": "Smack Down",
+    "Description": "It damages an enemy. If the enemy is flying, it will be Grounded, which allows Ground-type moves to hit it. This move also hits a Pokemon that's in the air from using a move like Fly."
+  },
+  {
+    "Name": "Smart Strike",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Smelling Salts",
+    "Description": "It damages an enemy. It causes more damage if the enemy has Paralysis, but it heals the Paralysis."
+  },
+  {
+    "Name": "Smog",
+    "Description": "It damages an enemy. It could also make the enemy Poisoned."
+  },
+  {
+    "Name": "Smokescreen",
+    "Description": "It lowers the enemy's accuracy."
+  },
+  {
+    "Name": "Snarl",
+    "Description": "It damages nearby enemies. It also lowers their Sp. Atk."
+  },
+  {
+    "Name": "Snatch",
+    "Description": "It gives the Snatch status, which lets you steal the effects of a recovery move or status move used nearby. There are some moves that can't be stolen, so be careful!"
+  },
+  {
+    "Name": "Snore",
+    "Description": "If you're sleeping, it will be used automatically and will damage enemies around you. It could also make them Flinch. Keep in mind that nothing will happen if you use it while you're wide awake."
+  },
+  {
+    "Name": "Soak",
+    "Description": "It changes the type of the target to Water. The type returns to normal when the Pokemon goes to the next floor or faints."
+  },
+  {
+    "Name": "Soft-Boiled",
+    "Description": "It restores the HP of you and your teammates in the same room."
+  },
+  {
+    "Name": "Solar Beam",
+    "Description": "You'll get the Solar Beam condition, which lets you charge power to try a powerful attack on the next turn. During Sunny weather or in Extremely Harsh Sunlight, it charges for an immediate attack on the first turn. But during Rain, Heavy Rain, Hail, or a Sandstorm, the damage will be reduced."
+  },
+  {
+    "Name": "Sonic Boom",
+    "Description": "It inflicts a set amount of damage on an enemy."
+  },
+  {
+    "Name": "Spark",
+    "Description": "It damages an enemy. It could also cause Paralysis."
+  },
+  {
+    "Name": "Spider Web",
+    "Description": "It causes an enemy to get Stuck."
+  },
+  {
+    "Name": "Spike Cannon",
+    "Description": "It fires off sharp spikes, damaging a Pokemon, even one far away, 2 to 5 times in a row."
+  },
+  {
+    "Name": "Spikes",
+    "Description": "It turns your tile into Spikes that damage enemies that step on them. Spikes that you or your teammates make don't do anything to you or your teammates."
+  },
+  {
+    "Name": "Spiky Shield",
+    "Description": "You'll get the Spiky Shield status, which protects you from enemies' moves. You counterattack when you're attacked by a contact move. This move's chance of failure rises if you use it after you've already used a move that blocks enemies' attacks."
+  },
+  {
+    "Name": "Spit Up",
+    "Description": "Only the power stored using the move Stockpile is released once in an attack. The more power is stored, the greater the move's power."
+  },
+  {
+    "Name": "Spite",
+    "Description": "It sharply lowers the PP of the move last used by the enemy. It fails if the enemy had not used a move or if the enemy's PP is already 0."
+  },
+  {
+    "Name": "Splash",
+    "Description": "You flop wholeheartedly and jump over an enemy or teammate."
+  },
+  {
+    "Name": "Spore",
+    "Description": "It scatters spores about, making the enemies in the same room go to Sleep. It has no effect on Grass-type Pokemon."
+  },
+  {
+    "Name": "Spotlight",
+    "Description": "It makes the target into a Decoy, which will then become the enemies' primary target."
+  },
+  {
+    "Name": "Stealth Rock",
+    "Description": "It turns your tile into an invisible Stealth Rock trap. A Stealth Rock trap damages enemies that step on it. You and your teammates won't take any damage from it."
+  },
+  {
+    "Name": "Steamroller",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Steel Wing",
+    "Description": "It damages an enemy. It could also boost your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Sticky Web",
+    "Description": "It reduces the enemy's Travel Speed. If the enemy is holding an item, it also makes the enemy's item sticky."
+  },
+  {
+    "Name": "Stockpile",
+    "Description": "It boosts your Defense and Sp. Def and stores one unit of power. You can stockpile power up to 3 times, but if you try to stockpile any more, the move will fail! The more power you stockpile, the greater the effects of Spit Up and Swallow."
+  },
+  {
+    "Name": "Stomp",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Stomping Tantrum",
+    "Description": "It damages an enemy. If your previous move failed, its damage is increased."
+  },
+  {
+    "Name": "Stone Edge",
+    "Description": "It damages an enemy. It has a high critical-hit rate."
+  },
+  {
+    "Name": "Stored Power",
+    "Description": "It damages an enemy. If you're Boosted, this move will be more powerful."
+  },
+  {
+    "Name": "Storm Throw",
+    "Description": "It damages an enemy. It always results in a critical hit."
+  },
+  {
+    "Name": "Strength",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Sting Shot",
+    "Description": "It reduces the Travel Speed of a Pokemon, even one far away."
+  },
+  {
+    "Name": "Struggle",
+    "Description": "When you have no PP left, this move comes out instead. It damages an enemy, but it also damages you."
+  },
+  {
+    "Name": "Struggle Bug",
+    "Description": "It damages nearby enemies. It also lowers their Sp. Atk."
+  },
+  {
+    "Name": "Stun Spore",
+    "Description": "It inflicts Paralysis on nearby enemies. But it has no effect on Grass-type Pokemon."
+  },
+  {
+    "Name": "Submission",
+    "Description": "It damages an enemy-but you'll receive recoil damage, too."
+  },
+  {
+    "Name": "Substitute",
+    "Description": "You'll create a Substitute if you have more than half your max HP. Every time you use this move, your HP decreases. When you create a Substitute, you won't be targeted by enemies, but you can't use moves or items, and you can't restore your HP naturally."
+  },
+  {
+    "Name": "Sucker Punch",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Sunny Day",
+    "Description": "It changes the floor's weather to Sunny. The power of Fire-type moves goes up, and the power of Water-type moves goes down."
+  },
+  {
+    "Name": "Super Fang",
+    "Description": "It damages an enemy by halving its existing HP."
+  },
+  {
+    "Name": "Superpower",
+    "Description": "It unleashes awesome power, damaging an enemy but also lowering your Attack and Defense due to fatigue. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Supersonic",
+    "Description": "It makes an enemy Confused."
+  },
+  {
+    "Name": "Surf",
+    "Description": "It damages all Pokemon in the same room except you. It can hit a Pokemon with the Dive status."
+  },
+  {
+    "Name": "Swagger",
+    "Description": "It makes an enemy Confused, but it also sharply raises the enemy's Attack."
+  },
+  {
+    "Name": "Swallow",
+    "Description": "Only the power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP."
+  },
+  {
+    "Name": "Sweet Kiss",
+    "Description": "It makes an enemy Confused."
+  },
+  {
+    "Name": "Sweet Scent",
+    "Description": "It gives off a sweet scent that lowers the evasiveness of all enemies in the same room. It could also make enemies' Bellies emptier."
+  },
+  {
+    "Name": "Swift",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Switcheroo",
+    "Description": "It swaps your held item with a target's held item. The move succeeds even if either you or the target doesn't have an item."
+  },
+  {
+    "Name": "Swords Dance",
+    "Description": "It sharply boosts your Attack. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Synchronoise",
+    "Description": "It damages nearby enemies. But it won't be effective unless you and the enemy share at least one type. Enemies that you don't share a type with won't be damaged."
+  },
+  {
+    "Name": "Synthesis",
+    "Description": "It restores your HP. During Sunny weather or in Extremely Harsh Sunlight, it restores your HP even more. During Rain, Heavy Rain, Hail, or a Sandstorm, the amount regained goes down."
+  },
+  {
+    "Name": "Tackle",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Tail Glow",
+    "Description": "It sharply boosts your Sp. Atk. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Tail Whip",
+    "Description": "It lowers the enemy's Defense."
+  },
+  {
+    "Name": "Tailwind",
+    "Description": "It boosts Travel Speed for you and your teammates in the same room."
+  },
+  {
+    "Name": "Take Down",
+    "Description": "It damages an enemy-but you'll receive recoil damage, too."
+  },
+  {
+    "Name": "Taunt",
+    "Description": "It makes an enemy Taunted. The taunted Pokemon can't use status moves. The Pokemon can use attack moves, however."
+  },
+  {
+    "Name": "Tearful Look",
+    "Description": "It lowers the enemy's Attack and Sp. Atk."
+  },
+  {
+    "Name": "Teeter Dance",
+    "Description": "It makes all Pokemon in the same room Confused except for you."
+  },
+  {
+    "Name": "Telekinesis",
+    "Description": "It gives the Telekinesis condition to the Pokemon in front of you. In the Telekinesis condition, the Pokemon can't move and its evasiveness goes down, but it won't take damage from Ground-type moves."
+  },
+  {
+    "Name": "Teleport",
+    "Description": "It warps you to somewhere else on the floor."
+  },
+  {
+    "Name": "Thief",
+    "Description": "It damages an enemy. You'll also steal an item that the enemy has. If you can't carry any more items, your attempt to steal will fail."
+  },
+  {
+    "Name": "Thrash",
+    "Description": "It damages an enemy 2 to 3 times in a row. After that, you'll get Confused."
+  },
+  {
+    "Name": "Throat Chop",
+    "Description": "It damages an enemy and gives them the Throat Chop condition."
+  },
+  {
+    "Name": "Thunder",
+    "Description": "It can hit an enemy that's in the air from using a move such as Fly. It could also cause Paralysis. During Rain or Heavy Rain, it never misses. But during Sunny weather or in Extremely Harsh Sunlight. it's hard to land this move."
+  },
+  {
+    "Name": "Thunder Fang",
+    "Description": "It damages an enemy. It could also cause Paralysis or make the enemy Flinch."
+  },
+  {
+    "Name": "Thunder Punch",
+    "Description": "It damages an enemy. It could also cause Paralysis."
+  },
+  {
+    "Name": "Thunder Shock",
+    "Description": "It damages an enemy. It could also cause Paralysis."
+  },
+  {
+    "Name": "Thunder Wave",
+    "Description": "It inflicts Paralysis on an enemy."
+  },
+  {
+    "Name": "Thunderbolt",
+    "Description": "It damages nearby enemies. It could also cause Paralysis."
+  },
+  {
+    "Name": "Tickle",
+    "Description": "It tickles an enemy, making them giggle and lowering their Attack and Defense."
+  },
+  {
+    "Name": "Torment",
+    "Description": "It has the move the enemy last used Sealed, which prevents the Pokemon from using it. The seal will be removed when the Pokemon goes to the next floor."
+  },
+  {
+    "Name": "Toxic",
+    "Description": "It makes an enemy Badly Poisoned. It never misses if used by Poison-type Pokemon. It will even hit a Pokemon that's used Dig, Fly, or the like."
+  },
+  {
+    "Name": "Toxic Spikes",
+    "Description": "It turns your tile into Toxic Spikes, which damage enemies that step on the Toxic Spikes, leaving them Poisoned."
+  },
+  {
+    "Name": "Toxic Thread",
+    "Description": "It makes a faraway Pokemon Poisoned and reduces their Travel Speed."
+  },
+  {
+    "Name": "Transform",
+    "Description": "It makes your appearance the same as a target's Pokemon. Your moves and types will also change to those of the target Pokemon. If an enemy uses this move, your teammates may become Confused, so be careful! The stat change returns to normal when you go to the next floor."
+  },
+  {
+    "Name": "Tri Attack",
+    "Description": "It damages an enemy. It could also cause Paralysis, cause a Burn, or make the enemy Frozen."
+  },
+  {
+    "Name": "Trick",
+    "Description": "It swaps your held item with a target's held item. The move succeeds even if either you or the target doesn't have an item."
+  },
+  {
+    "Name": "Trick Room",
+    "Description": "It changes the floor to the Trick Room condition. Travel Speed will be reversed."
+  },
+  {
+    "Name": "Triple Kick",
+    "Description": "It damages the enemy 3 times in a row."
+  },
+  {
+    "Name": "Trump Card",
+    "Description": "It damages an enemy. It never misses. The lower the PP of the move, the greater the damage it causes."
+  },
+  {
+    "Name": "Twineedle",
+    "Description": "It damages a Pokemon, even one far away, 2 times in a row. It could also make the enemy Poisoned."
+  },
+  {
+    "Name": "Twister",
+    "Description": "It damages an enemy. It can hit an enemy that's in the air from using a move such as Fly. It could also cause the enemy to Flinch."
+  },
+  {
+    "Name": "Uproar",
+    "Description": "It damages enemies in the same room. It also causes all Pokemon in the same room to be Sleepless. Sleeping Pokemon will wake up immediately."
+  },
+  {
+    "Name": "U-turn",
+    "Description": "It damages an enemy. If one of your teammates is right behind you, it switches you and your teammate's positions."
+  },
+  {
+    "Name": "Vacuum Wave",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Venom Drench",
+    "Description": "It lowers the enemy's Attack, Sp. Atk, and Travel Speed. It will fail unless the enemy is already Poisoned or Badly Poisoned, so be careful!"
+  },
+  {
+    "Name": "Venoshock",
+    "Description": "It damages an enemy. Its power goes up if the enemy is Poisoned or Badly Poisoned."
+  },
+  {
+    "Name": "Vine Whip",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Vise Grip",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Vital Throw",
+    "Description": "It damages an enemy. It never misses."
+  },
+  {
+    "Name": "Volt Switch",
+    "Description": "It damages an enemy. If one of your teammates is right behind you, this move switches the positions of you and your teammate."
+  },
+  {
+    "Name": "Volt Tackle",
+    "Description": "It damages an enemy, but you'll take recoil damage, too. It reaches up to 2 tiles away. It could also inflict Paralysis on the enemy."
+  },
+  {
+    "Name": "Wake-Up Slap",
+    "Description": "It damages an enemy. It causes more damage if the enemy is in the Sleep, Nightmare, or Napping condition, but it will wake the enemy up."
+  },
+  {
+    "Name": "Water Gun",
+    "Description": "It damages an enemy. It reaches up to 2 tiles away."
+  },
+  {
+    "Name": "Water Pledge",
+    "Description": "It damages an enemy. If your teammate is in a position from which it can use Fire Pledge, the PP of Fire Pledge will be used, but its power increases, and your teammates in the same room as you will get the Rainbow condition."
+  },
+  {
+    "Name": "Water Pulse",
+    "Description": "It damages a Pokemon, even one far away. It could also make the enemy Confused."
+  },
+  {
+    "Name": "Water Sport",
+    "Description": "It changes the entire floor to the Water Sport condition. Damage cause by Fire-type moves goes down."
+  },
+  {
+    "Name": "Water Spout",
+    "Description": "It damages nearby enemies. The less HP you have, the less powerful this attack will be."
+  },
+  {
+    "Name": "Waterfall",
+    "Description": "It damages an enemy. It could also make the enemy Flinch."
+  },
+  {
+    "Name": "Weather Ball",
+    "Description": "It damages a Pokemon, even one far away. The move's type varies, depending on the weather. The power goes up in any weather condition other than Clear."
+  },
+  {
+    "Name": "Whirlpool",
+    "Description": "It damages an enemy. It could also cause the Whirlpool condition. It can hit a Pokemon in the Dive state."
+  },
+  {
+    "Name": "Whirlwind",
+    "Description": "It blows an enemy away in a straight line. If the enemy crashes into any Pokemon or a wall, both Pokemon take damage."
+  },
+  {
+    "Name": "Wide Guard",
+    "Description": "You and your teammates in the same room will get the Wide Guard condition, which protects you from wide-ranging moves."
+  },
+  {
+    "Name": "Wild Charge",
+    "Description": "It damages an enemy, but you'll receive recoil damage, too."
+  },
+  {
+    "Name": "Will-O-Wisp",
+    "Description": "It leaves an enemy with a Burn."
+  },
+  {
+    "Name": "Wing Attack",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Wish",
+    "Description": "You'll make a Wish! When your Wish comes true on the next turn, your HP and your nearby teammates' HP will be restored."
+  },
+  {
+    "Name": "Withdraw",
+    "Description": "It boosts your Defense. The stat returns to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Wonder Room",
+    "Description": "It changes the floor to the Wonder Room condition. Defense and Sp. Def will be swapped. The status returns to normal after a while or after you use this move again."
+  },
+  {
+    "Name": "Wood Hammer",
+    "Description": "It damages an enemy, but you'll receive recoil damage, too."
+  },
+  {
+    "Name": "Work Up",
+    "Description": "It boosts your Attack and Sp. Atk. The stats return to normal when you go to the next floor or step on a Wonder Tile."
+  },
+  {
+    "Name": "Worry Seed",
+    "Description": "It changes the target's Ability to Insomnia. The effect wears off when you go to the next floor."
+  },
+  {
+    "Name": "Wrap",
+    "Description": "It damages an enemy. It could also cause the enemy to be Bound."
+  },
+  {
+    "Name": "Wring Out",
+    "Description": "It damages an enemy. The more HP the enemy has, the greater the damage caused by the move."
+  },
+  {
+    "Name": "X-Scissor",
+    "Description": "It damages an enemy."
+  },
+  {
+    "Name": "Yawn",
+    "Description": "It inflicts the Yawning status on an enemy. It will make the target go to Sleep after a while."
+  },
+  {
+    "Name": "Zap Cannon",
+    "Description": "It damages a Pokemon, even one far away. It also causes Paralysis."
+  },
+  {
+    "Name": "Zen Headbutt",
+    "Description": "It damages an enemy. It could also cause the enemy to Flinch."
+  }
+]

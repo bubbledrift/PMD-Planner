@@ -108,6 +108,16 @@ function Main() {
     useInterval(sendPopularity, 60000)
 
 
+    useEffect(() => {
+        if (showPopupAdd === true || showPopupEdit === true) {
+            document.documentElement.style.overflowY = 'hidden';
+            // document.body.scroll = "no";
+        } else {
+            document.documentElement.style.overflowY = 'scroll';
+            // document.body.scroll = "yes";
+        }
+    }, [showPopupAdd, showPopupEdit])
+
 
     let teams = [];
     for (let i = 1; i < 10; i++) {
@@ -120,6 +130,7 @@ function Main() {
                 setPokeToAdd={setPokeToAdd}
                 teamNumber={i}
                 setShowUndo={setShowUndo}
+                showPopupEdit={showPopupEdit}
                 setShowPopupEdit={setShowPopupEdit}
                 pokeToEdit={pokeToEdit}
                 setPokeToEdit={setPokeToEdit}

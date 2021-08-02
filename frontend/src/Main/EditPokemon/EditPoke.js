@@ -3,6 +3,7 @@ import {Button} from "react-bootstrap";
 import React, {useState, useRef, useEffect} from "react";
 import itemdata from "../../data/HeldItems.json";
 import RQdata from "../../data/RareQualities.json"
+import movedata from "../../data/AllMoves.json"
 
 function EditPoke(props) {
 
@@ -19,12 +20,24 @@ function EditPoke(props) {
     const [nickname, setNickname] = useState(pokemon.Nickname)
     const [item, setItem] = useState(pokemon.Item)
     const [rq, setRQ] = useState(pokemon.RareQuality)
+    const [move1, setMove1] = useState(pokemon.Move1)
+    const [move2, setMove2] = useState(pokemon.Move2)
+    const [move3, setMove3] = useState(pokemon.Move3)
+    const [move4, setMove4] = useState(pokemon.Move4)
+
     const [itemText, setItemText] = useState(pokemon.Item)
     const [rqText, setRQText] = useState(pokemon.RareQuality)
+    const [move1Text, setMove1Text] = useState(pokemon.Move1)
+    const [move2Text, setMove2Text] = useState(pokemon.Move2)
+    const [move3Text, setMove3Text] = useState(pokemon.Move3)
+    const [move4Text, setMove4Text] = useState(pokemon.Move4)
+    //Keeps track of which of the 4 moves is the most recently selected
+    const [activeMove, setActiveMove] = useState(0)
 
     //Checks if item input has changed in order to tell results to filter or not
     const [itemInputChanged, setItemInputChanged] = useState(false)
     const [RQInputChanged, setRQInputChanged] = useState(false)
+    const [moveInputChanged, setMoveInputChanged] = useState(false)
 
     //Determines which result set to show
     const [resultType, setResultType] = useState('')
@@ -59,14 +72,52 @@ function EditPoke(props) {
         }
     })
 
+    let moveResults = movedata.filter((val) => {
+
+        if (activeMove === 0) {
+            if (move1Text === "" || !moveInputChanged) {
+                return val
+            } else if (val.Name.toLowerCase().includes(move1Text.toLowerCase())) {
+                return val
+            }
+        } else if (activeMove === 1) {
+            if (move2Text === "" || !moveInputChanged) {
+                return val
+            } else if (val.Name.toLowerCase().includes(move2Text.toLowerCase())) {
+                return val
+            }
+        } else if (activeMove === 2) {
+            if (move3Text === "" || !moveInputChanged) {
+                return val
+            } else if (val.Name.toLowerCase().includes(move3Text.toLowerCase())) {
+                return val
+            }
+        } else {
+            if (move4Text === "" || !moveInputChanged) {
+                return val
+            } else if (val.Name.toLowerCase().includes(move4Text.toLowerCase())) {
+                return val
+            }
+        }
+
+
+
+    })
+
+
+
     //Autosaves any changes when fields that should be saved change.
     useEffect(() => {
         pokemon.Nickname = nickname
         pokemon.Item = item
         pokemon.RareQuality = rq
+        pokemon.Move1 = move1
+        pokemon.Move2 = move2
+        pokemon.Move3 = move3
+        pokemon.Move4 = move4
 
         props.setPokeToEdit(pokemon)
-    }, [nickname, rq, item])
+    }, [nickname, rq, item, move1, move2, move3, move4])
 
     //This use effect should happen every time the result type changes or text input changes
     useEffect(() => {
@@ -74,10 +125,12 @@ function EditPoke(props) {
             setResults(itemResults)
         } else if (resultType === "Rare Qualities") {
             setResults(rqResults)
+        } else if (resultType === "Moves") {
+            setResults(moveResults)
         } else {
             setResults([])
         }
-    }, [resultType, itemText, rqText])
+    }, [resultType, itemText, rqText, move1Text, move2Text, move3Text, move4Text])
 
     let portraitSrc = '/images/portraits/' + pokemon.Number.substring(1) + '.png'
 
@@ -174,36 +227,60 @@ function EditPoke(props) {
                     className='EditInfoElement'
                     id='Move1'
                     type="text"
-                    defaultValue={pokemon.Move1}
+                    value={move1Text}
+                    onFocus={() => {
+                        setResultType('Moves')
+                        setMoveInputChanged(false)
+                        setActiveMove(0)
+                    }}
                     onChange={(event) => {
-                        //setSearchTerm(event.target.value)
+                        setMove1Text(event.target.value)
+                        setMoveInputChanged(true)
                     }}
                 />
                 <input
                     className='EditInfoElement'
                     id='Move2'
                     type="text"
-                    defaultValue={pokemon.Move2}
+                    value={move2Text}
+                    onFocus={() => {
+                        setResultType('Moves')
+                        setMoveInputChanged(false)
+                        setActiveMove(1)
+                    }}
                     onChange={(event) => {
-                        //setSearchTerm(event.target.value)
+                        setMove2Text(event.target.value)
+                        setMoveInputChanged(true)
                     }}
                 />
                 <input
                     className='EditInfoElement'
                     id='Move3'
                     type="text"
-                    defaultValue={pokemon.Move3}
+                    value={move3Text}
+                    onFocus={() => {
+                        setResultType('Moves')
+                        setMoveInputChanged(false)
+                        setActiveMove(2)
+                    }}
                     onChange={(event) => {
-                        //setSearchTerm(event.target.value)
+                        setMove3Text(event.target.value)
+                        setMoveInputChanged(true)
                     }}
                 />
                 <input
                     className='EditInfoElement'
                     id='Move4'
                     type="text"
-                    defaultValue={pokemon.Move4}
+                    value={move4Text}
+                    onFocus={() => {
+                        setResultType('Moves')
+                        setMoveInputChanged(false)
+                        setActiveMove(3)
+                    }}
                     onChange={(event) => {
-                        //setSearchTerm(event.target.value)
+                        setMove4Text(event.target.value)
+                        setMoveInputChanged(true)
                     }}
                 />
 
@@ -220,7 +297,6 @@ function EditPoke(props) {
                                 style={{padding: '0px', border: '0px'}}
                                 variant="secondary" block
                                 onClick={() => {
-
                                     if (resultType === "Items") {
                                         setItem(val.Name)
                                         setItemText(val.Name)
@@ -229,6 +305,21 @@ function EditPoke(props) {
                                         setRQ(val.Name)
                                         setRQText(val.Name)
                                         setRQInputChanged(false)
+                                    } else if (resultType === 'Moves') {
+                                        if (activeMove === 0) {
+                                            setMove1(val.Name)
+                                            setMove1Text(val.Name)
+                                        } else if (activeMove === 1) {
+                                            setMove2(val.Name)
+                                            setMove2Text(val.Name)
+                                        } else if (activeMove === 2) {
+                                            setMove3(val.Name)
+                                            setMove3Text(val.Name)
+                                        } else {
+                                            setMove4(val.Name)
+                                            setMove4Text(val.Name)
+                                        }
+                                        setMoveInputChanged(false)
                                     }
 
                                 }}

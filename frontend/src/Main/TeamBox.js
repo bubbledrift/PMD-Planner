@@ -18,6 +18,7 @@ function TeamBox(props) {
                 setPokeToAdd={props.setPokeToAdd}
                 boxNumber={props.teamNumber * 10 + i}
                 setShowUndo={props.setShowUndo}
+                showPopupEdit={props.showPopupEdit}
                 setShowPopupEdit={props.setShowPopupEdit}
                 pokeToEdit={props.pokeToEdit}
                 setPokeToEdit={props.setPokeToEdit}

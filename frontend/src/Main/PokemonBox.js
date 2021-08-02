@@ -74,11 +74,10 @@ function PokemonBox(props) {
     //When pokeToEdit changes and it's different from our current pokemon, change to that pokemon
     useEffect(() => {
 
-        if (props.boxNumber === props.destinationBox && props.pokeToEdit !== pokemon) {
+        if (props.boxNumber === props.destinationBox) {
             setPokemon(props.pokeToEdit)
         }
-
-    }, [props.pokeToEdit])
+    }, [props.pokeToEdit, props.showPopupEdit])
 
     //When undo changes, set this box's pokemon to the last deleted pokemon.
     useEffect(() => {
