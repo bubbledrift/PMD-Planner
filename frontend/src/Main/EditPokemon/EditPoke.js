@@ -79,7 +79,7 @@ function EditPoke(props) {
         }
     }, [resultType, itemText, rqText])
 
-    let portraitSrc = '/images/portraits/' + pokemon.Number + '.png'
+    let portraitSrc = '/images/portraits/' + pokemon.Number.substring(1) + '.png'
 
     return (
         <div className="EditPage">
@@ -167,7 +167,7 @@ function EditPoke(props) {
                 </div>
 
                 <div className='EditInfoElement' id='EditMoves'>
-                    Moves
+                    Moves (WIP)
                 </div>
 
                 <input

@@ -11,10 +11,19 @@ function PokeListElement(props) {
      "Type 2": "Poison",
      "Rescue Camp": "Beau Plains",
      "Final Evolution": "FALSE",
-     "Popularity": 5
      */
 
-    let spriteSrc = '/images/sprites/' + props.element.Name.toLowerCase() + '.png'
+    let spriteSrc = ''
+
+    if (props.element.Name === 'Farfetch\'d') {
+        spriteSrc = '/images/sprites/farfetchd.png'
+    } else if (props.element.Name === 'Mr. Mime') {
+        spriteSrc = '/images/sprites/mr-mime.png'
+    } else if (props.element.Name === 'Mime Jr.') {
+        spriteSrc = '/images/sprites/mime-jr.png'
+    } else {
+        spriteSrc = '/images/sprites/' + props.element.Name.toLowerCase() + '.png'
+    }
 
     let type1Src = '/images/types/' + props.element.Type1.toLowerCase() + '.gif'
 

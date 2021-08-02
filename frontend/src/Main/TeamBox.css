@@ -9,7 +9,7 @@
     margin: 10px;
     border-radius: 10px;
     padding: 2px 8px 8px;
-    background: #747e52;
+    background: rgba(156, 172, 191, 0.9);
 }
 
 .Pokemon {
@@ -23,8 +23,8 @@
     flex-direction: row;
 }
 
-#TeamName {
-    color: #e2e3e5;
+.TeamName {
+    color: #fcfcfc;
     background: transparent;
     border: none;
 

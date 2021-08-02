@@ -5,7 +5,7 @@ import './MyNavbar.css'
 function MyNavbar() {
 
     return (
-        <Navbar collapseOnSelect expand="sm" bg="dark" variant="dark" id='MyNavbar' fixed="top">
+        <Navbar collapseOnSelect expand="sm" bg="dark" variant="light" id='MyNavbar' fixed="top">
             <Container>
                 <Navbar.Brand>
                     <Link className="NavLink" to='/'>

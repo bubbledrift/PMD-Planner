@@ -1,10 +1,10 @@
 .NavLink {
-    color: #dddbdb;
+    color: #fcfcfc;
     margin: 7px;
 }
 
 .NavLink:hover {
-    color: #acacac;
+    color: #dfdfdf;
 }
 
 #MyNavbar {

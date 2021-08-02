@@ -36,7 +36,7 @@ function TeamBox(props) {
         <div className='TeamBox'>
             <div className='BoxHeader'>
                 <input
-                    id="TeamName"
+                    className="TeamName"
                     type="text"
                     placeholder={"Team " + props.teamNumber}
                     value={teamName}

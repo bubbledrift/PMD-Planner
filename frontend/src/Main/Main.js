@@ -136,34 +136,33 @@ function Main() {
     }
 
     return (
-        <div>
-            <div>
-                <PopupAdd
-                    showPopupAdd={showPopupAdd}
-                    setShowPopupAdd={setShowPopupAdd}
-                    setPokeToAdd={setPokeToAdd}
-                    popularity={popularity}
-                />
-                <PopupUndo
-                    showUndo={showUndo}
-                    setShowUndo={setShowUndo}
-                    undo={undo}
-                    setUndo={setUndo}
-                    lastDeleted={lastDeleted}
-                />
-                <PopupEdit
-                    showPopupEdit={showPopupEdit}
-                    setShowPopupEdit={setShowPopupEdit}
-                    pokeToEdit={pokeToEdit}
-                    setPokeToEdit={setPokeToEdit}
-                />
+        <div id='main' style={{
+            backgroundImage: 'url("/images/art/map.png")',
+            backgroundSize: 'contain'
+        }}>
+            <PopupAdd
+                showPopupAdd={showPopupAdd}
+                setShowPopupAdd={setShowPopupAdd}
+                setPokeToAdd={setPokeToAdd}
+                popularity={popularity}
+            />
+            <PopupUndo
+                showUndo={showUndo}
+                setShowUndo={setShowUndo}
+                undo={undo}
+                setUndo={setUndo}
+                lastDeleted={lastDeleted}
+            />
+            <PopupEdit
+                showPopupEdit={showPopupEdit}
+                setShowPopupEdit={setShowPopupEdit}
+                pokeToEdit={pokeToEdit}
+                setPokeToEdit={setPokeToEdit}
+            />
 
-                <MyNavbar/>
+            <MyNavbar/>
 
-                <div id='teams'>{teams}</div>
-
-
-            </div>
+            <div id='teams'>{teams}</div>
         </div>
     )
 
