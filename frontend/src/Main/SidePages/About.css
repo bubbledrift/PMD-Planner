@@ -18,3 +18,11 @@
     font-size: .8em;
     margin-top: 2em;
 }
+
+#FAQLink {
+    color: #5602f1;
+}
+
+#FAQLink:hover {
+    color: #0237d6;
+}

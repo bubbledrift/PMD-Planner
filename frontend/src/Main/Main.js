@@ -7,6 +7,7 @@ import PopupUndo from "./PopupUndo";
 import PopupEdit from "./EditPokemon/PopupEdit";
 import MyNavbar from "./MyNavbar";
 import axios from "axios";
+import {Link} from "react-router-dom";
 
 
 function Main() {
@@ -170,15 +171,29 @@ function Main() {
 
             <MyNavbar/>
 
-            <div id='teams'>{teams}</div>
-
             <div id='instructions'>
-                <h1>How to Use:</h1>
+
+                <h1>How to Use</h1>
 
                 <p>
+                    Welcome to PMD Planner, a tool designed to help you plan your Pokémon Rescue Team DX adventure.
+
+                    <ul>
+                        <li>To get started, click on an Add Pokémon button to add a pokémon in that spot.</li>
+                        <li>Then, you'll be able to search for and pick a pokémon that you want on your team.</li>
+                        <li>Once you've picked a pokémon, you can click on the pokémon to edit its properties.</li>
+                        <li>To delete a pokemon, simply click on the Trash icon on each pokémon.</li>
+                        <li>Also, you can edit team names to your liking.</li>
+                    </ul>
+
+                    Check out the <Link to='/faq' id="FAQLink">FAQ</Link> for some more information.
 
                 </p>
+
             </div>
+
+            <div id='teams'>{teams}</div>
+
         </div>
     )
 

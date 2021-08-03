@@ -91,7 +91,7 @@ function PokemonBox(props) {
         return (
             <div className='EmptyBox'>
                 <Button variant="secondary" className='AddPokeButton' onClick={addPokePopup}>
-                    + Add Pokemon
+                    + Add Pokémon
                 </Button>
             </div>
         )

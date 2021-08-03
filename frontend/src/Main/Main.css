@@ -1,21 +1,55 @@
 #main {
     width: 100%;
-    display: grid;
-    grid-template-columns: 770px auto;
+    display: flex;
+    flex-direction: column;
 }
 
 #teams {
-    grid-column: 1;
-    margin-top: 4em;
-    margin-left: 1em;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #instructions {
-    grid-column: 2;
-    height: 500px;
+    height: 300px;
+    width: 720px;
     margin-top: 4.6em;
-    margin-right: 1em;
+    margin-right: auto;
+    margin-left: auto;
     background: rgba(56, 126, 209, 0.9);
     border-radius: 10px;
     padding: 1em;
 }
+
+@media only screen and (min-width: 1200px) {
+    /* For larger screens: */
+    #main {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 770px auto;
+    }
+
+    #teams {
+        grid-column: 1;
+        grid-row: 1;
+        margin-top: 4em;
+        margin-left: 1em;
+    }
+
+    #instructions {
+        grid-column: 2;
+        grid-row: 1;
+        width: auto;
+        height: 400px;
+        margin-top: 4.6em;
+        margin-right: 1em;
+        background: rgba(56, 126, 209, 0.9);
+        border-radius: 10px;
+        padding: 1em;
+    }
+
+}
+
+
+
+
+

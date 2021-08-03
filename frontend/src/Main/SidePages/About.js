@@ -18,18 +18,14 @@ function About() {
                 <h1>About</h1>
 
                 <p>
-                    PMD Planner is a game where you can tool to help people plan their teams. it started as...
-                    contactme here if you have comments or suggestions, but it is sjust a passion project so no guarantees
-                    on new features.
-
-                    PMD Planner is a tool designed to help you plan your team for the game Pokémon Mystery Dungeon Rescue
-                    Team DX for the Nintendo Switch. I started the project because I was tired of how disorganized trying to
-                    plan a team in a text document was.
-
+                    PMD Planner is a tool designed to help you plan your team for the game Pokémon Mystery Dungeon
+                    Rescue Team DX for the Nintendo Switch. It started as a passion project when I was tired of how
+                    disorganized it was to try planning a team in a text document. I hope it's helpful to you and
+                    I hope you have a great time playing Pokemon RTDX!
                 </p>
 
 
-                Check out the <Link to='/faq'>FAQ</Link>
+                Check out the <Link to='/faq' id="FAQLink">FAQ</Link> for some more information.
 
                 <br/>
 
