@@ -90,7 +90,6 @@ function AddPoke(props) {
     /**
      * BUTTON ONCLICK HANDLERS
      */
-
     const popularityClick = () => {
         if (sortState === 'Popular') {
             setSortState('PopularRev')

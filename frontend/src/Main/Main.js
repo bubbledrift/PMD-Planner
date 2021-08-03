@@ -70,7 +70,7 @@ function Main() {
         console.log(popularity)
     }
 
-
+    //Keeps track of the recently added pokemon to send back to our backend to calculate most popular pokemon.
     const recentlyAddedRef = useRef([])
     let recentlyAdded = recentlyAddedRef.current;
 
@@ -108,14 +108,12 @@ function Main() {
 
     useInterval(sendPopularity, 60000)
 
-
+    //Stops scrolling when in a popup.
     useEffect(() => {
         if (showPopupAdd === true || showPopupEdit === true) {
             document.documentElement.style.overflowY = 'hidden';
-            // document.body.scroll = "no";
         } else {
             document.documentElement.style.overflowY = 'scroll';
-            // document.body.scroll = "yes";
         }
     }, [showPopupAdd, showPopupEdit])
 

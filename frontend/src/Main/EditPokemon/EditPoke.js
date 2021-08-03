@@ -49,12 +49,12 @@ function EditPoke(props) {
         type2Src = '/images/types/' + pokemon.Type2.toLowerCase() + '.gif'
     }
 
-    //closes the edit popup
+    //Closes the edit popup
     const savePoke = () => {
         props.setShowPopupEdit(false)
     }
 
-    //Search Filter
+    //Search Filters
     let itemResults = itemdata.filter((val) => {
         if (itemText === "" || !itemInputChanged) {
             return val
@@ -74,7 +74,6 @@ function EditPoke(props) {
     })
 
     let moveResults = movedata.filter((val) => {
-
         if (activeMove === 0) {
             if (move1Text === "" || !moveInputChanged) {
                 return val
