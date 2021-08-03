@@ -1,6 +1,6 @@
 #About {
     margin-top: 4em;
-    width: 700px;
+    width: 600px;
     background: rgba(56, 126, 209, 0.9);
     border-radius: 10px;
     padding: 1em;
@@ -20,9 +20,9 @@
 }
 
 #FAQLink {
-    color: #5602f1;
+    color: #f29e36;
 }
 
 #FAQLink:hover {
-    color: #0237d6;
+    color: #e0bd01;
 }

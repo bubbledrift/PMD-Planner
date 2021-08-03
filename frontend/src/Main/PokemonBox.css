@@ -58,6 +58,11 @@
 }
 
 .Delete {
+    position: relative;
+    top: -318px;
+    left: 176px;
+
+    z-index: 1;
     margin-top: 5px;
     width: 40px;
     height: 40px;

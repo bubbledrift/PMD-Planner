@@ -1,5 +1,6 @@
 import MyNavbar from "../MyNavbar";
 import './faq.css'
+import React from "react";
 
 function faq() {
 
@@ -15,19 +16,72 @@ function faq() {
 
             <div id='faq'>
                 <h1>FAQ</h1>
-                <br/>
 
-                <h2>What is PMD Planner?</h2>
+                <p className='Question'>
+                    Are there any plans to make planners for the other Pokémon Mystery Dungeon games?
+                </p>
 
-                <h2>How do I use PMD Planner?</h2>
+                <p>
+                    Not currently.
+                </p>
 
-                <h2>Are you planning to add other PMD games like Explorers of Sky?</h2>
+                <p className='Question'>How is pokémon popularity determined?</p>
 
-                <h2>What's next?</h2>
+                <p>
+                    Pokémon popularity is based off of how many people on this site have added a certain pokémon
+                    to one of their teams.
+                </p>
 
-                <h2>Where is the data from?</h2>
+                <p className='Question'>Where is the data from?</p>
 
-                <h2>How is pokemon popularity calculated?</h2>
+                <ul>
+                    <li>
+                        Pokémon sprites from&#160;
+                        <a className='link'
+                           href="https://pokemondb.net/"
+                           target="_blank" rel='noreferrer'>Pokemon Database</a>.
+                    </li>
+
+                    <li>
+                        RTDX portraits from&#160;
+                        <a className='link'
+                           href="https://www.serebii.net/dungeonrescueteamdx/pokemon.shtml"
+                           target="_blank" rel='noreferrer'>Serebii</a>.
+                    </li>
+
+                    <li>
+                        Move data from&#160;
+                        <a className='link'
+                           href="https://gamewith.net/pokemon-mystery-dungeon-dx/article/show/16215"
+                           target="_blank" rel='noreferrer'>GameWith</a>.
+                    </li>
+                    <li>
+                        Pokémon, Rare Quality, and Item data from&#160;
+                        <a className='link'
+                           href="https://www.serebii.net/dungeonrescueteamdx/pokemon.shtml"
+                           target="_blank" rel='noreferrer'>Serebii</a>.
+                    </li>
+                    <li>
+                        Background images from&#160;
+                        <a className='link'
+                           href="https://pokemon.gamespress.com/Pokemon-Mystery-Dungeon-Rescue-Team-DX/Focus/Mystery-Dungeon-Artwork"
+                           target="_blank" rel='noreferrer'>here</a>.
+                    </li>
+                </ul>
+
+                <p className='Question'>What's next?</p>
+
+                <p>
+                    There are a lot of things that I'd like to add to the site, but the most important things are
+                    probably:
+                </p>
+
+                <ul>
+                    <li>Making the site more mobile friendly.</li>
+                    <li>Adding tooltips with descriptions and info to moves, items, and rare qualities.</li>
+                    <li>Limiting move options to only moves that the pokémon can learn in game.</li>
+                </ul>
+
             </div>
 
 

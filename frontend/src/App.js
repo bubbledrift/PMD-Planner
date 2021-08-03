@@ -4,6 +4,7 @@ import faq from "./Main/SidePages/faq";
 import './App.css';
 import {Route, Switch} from "react-router-dom";
 
+// require('dotenv').config()
 
 const Router = () => {
   return (

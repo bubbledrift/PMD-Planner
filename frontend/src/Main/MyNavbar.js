@@ -30,7 +30,7 @@ function MyNavbar() {
                         <Link className="NavLink" to='faq'>
                             FAQ
                         </Link>
-                        <a className="NavLink" href="mailto:slippyg0@protonmail.com">
+                        <a className="NavLink" href="mailto:PMDPlanner@protonmail.com">
                             Contact
                         </a>
                     </Nav>

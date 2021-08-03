@@ -18,16 +18,17 @@ function About() {
                 <h1>About</h1>
 
                 <p>
-                    PMD Planner is a tool designed to help you plan your team for the game Pokémon Mystery Dungeon
-                    Rescue Team DX for the Nintendo Switch. It started as a passion project when I was tired of how
-                    disorganized it was to try planning a team in a text document. I hope it's helpful to you and
-                    I hope you have a great time playing Pokemon RTDX!
+                    PMD Planner is a fan-made tool designed to help you plan your team for the game Pokémon
+                    Mystery Dungeon Rescue Team DX for the Nintendo Switch. It started as a small project
+                    to help me organize my own teams for the game. I'll continue to update the site with more
+                    features and upgrades when I have time, and you can check out what's coming next in
+                    the <Link to='/faq' id="FAQLink">FAQ</Link>.
                 </p>
 
+                <p>
+                    I hope it's helpful to you and I hope you have a great time playing Pokemon RTDX!
+                </p>
 
-                Check out the <Link to='/faq' id="FAQLink">FAQ</Link> for some more information.
-
-                <br/>
 
                 <div id='disclaimer'>
                     Pokémon and All Respective Names and Images are Trademark & © of Nintendo 1996-{new Date().getFullYear()}

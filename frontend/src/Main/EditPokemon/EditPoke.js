@@ -43,7 +43,6 @@ function EditPoke(props) {
     const [resultType, setResultType] = useState('')
     const [results, setResults] = useState([])
 
-    //TODO: Maybe extract out this code into separate file and just make a helper method?
     let type1Src = '/images/types/' + pokemon.Type1.toLowerCase() + '.gif'
     let type2Src = ''
     if (pokemon.Type2 !== "") {
@@ -62,6 +61,7 @@ function EditPoke(props) {
         } else if (val.Name.toLowerCase().includes(itemText.toLowerCase())) {
             return val
         }
+        return []
     })
 
     let rqResults = RQdata.filter((val) => {
@@ -70,6 +70,7 @@ function EditPoke(props) {
         } else if (val.Name.toLowerCase().includes(rqText.toLowerCase())) {
             return val
         }
+        return []
     })
 
     let moveResults = movedata.filter((val) => {
@@ -99,12 +100,8 @@ function EditPoke(props) {
                 return val
             }
         }
-
-
-
+        return []
     })
-
-
 
     //Autosaves any changes when fields that should be saved change.
     useEffect(() => {
@@ -117,6 +114,7 @@ function EditPoke(props) {
         pokemon.Move4 = move4
 
         props.setPokeToEdit(pokemon)
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [nickname, rq, item, move1, move2, move3, move4])
 
     //This use effect should happen every time the result type changes or text input changes
@@ -129,7 +127,7 @@ function EditPoke(props) {
             setResults(moveResults)
         } else {
             setResults([])
-        }
+        } // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [resultType, itemText, rqText, move1Text, move2Text, move3Text, move4Text])
 
     let portraitSrc = '/images/portraits/' + pokemon.Number.substring(1) + '.png'
@@ -292,7 +290,7 @@ function EditPoke(props) {
             <div className="EditResults">
                 {results.map((val, key) => {
                     return (
-                        <div className="listElement">
+                        <div className="listElement" key={val.Name}>
                             <Button
                                 style={{padding: '0px', border: '0px'}}
                                 variant="secondary" block

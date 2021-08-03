@@ -1,4 +1,4 @@
-import React, {useState, useEffect, useRef} from "react";
+import {useState, useEffect, useRef} from "react";
 
 // Code from https://usehooks.com/useLocalStorage/
 export function useLocalStorage(key, initialValue) {
