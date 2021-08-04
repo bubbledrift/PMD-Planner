@@ -1,4 +1,4 @@
-![logo](/frontend/public/images/other/logo.png?raw=true)
+![logo](/frontend/public/images/other/Logo.png?raw=true)
 
 # PMD Planner Frontend
 
