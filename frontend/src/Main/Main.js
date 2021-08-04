@@ -67,7 +67,6 @@ function Main() {
             .catch(function (error) {
                 console.log(error.response);
             });
-        console.log(popularity)
     }
 
     //Keeps track of the recently added pokemon to send back to our backend to calculate most popular pokemon.
