@@ -1,6 +1,8 @@
+![logo](https://github.com/bubbledrift/PMD-Planner/blob/main/frontend/public/images/other/logo.png?raw=true)
+
 # PMD Planner Frontend
 
-This is the repository for the frontend of the web application hosted [here.](pmdplanner.com)
+This is the repository for the frontend of the web application hosted [here.](https://www.pmdplanner.com)
 
 PMD Planner is a planning tool for the game Pokemon Mystery Dungeon Rescue Team DX. Instructions for how to use the
 application are on the website.
