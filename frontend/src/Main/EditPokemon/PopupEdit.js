@@ -20,7 +20,7 @@ function PopupEdit(props) {
     return (
         <div className="PopupEdit">
             <div className="Popup-headerEdit">
-                <div className="Popup-titleEdit">Edit Pokemon</div>
+                <div className="Popup-titleEdit">Edit Pokémon</div>
                 <button className="close" onClick={() => props.setShowPopupEdit(false)}/>
             </div>
             <div className="Popup-contentEdit">

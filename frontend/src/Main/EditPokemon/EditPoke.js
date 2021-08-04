@@ -61,7 +61,7 @@ function EditPoke(props) {
         } else if (val.Name.toLowerCase().includes(itemText.toLowerCase())) {
             return val
         }
-        return []
+        return ''
     })
 
     let rqResults = RQdata.filter((val) => {
@@ -70,7 +70,7 @@ function EditPoke(props) {
         } else if (val.Name.toLowerCase().includes(rqText.toLowerCase())) {
             return val
         }
-        return []
+        return ''
     })
 
     let moveResults = movedata.filter((val) => {
@@ -99,7 +99,7 @@ function EditPoke(props) {
                 return val
             }
         }
-        return []
+        return ''
     })
 
     //Autosaves any changes when fields that should be saved change.
@@ -146,7 +146,7 @@ function EditPoke(props) {
                 </div>
 
                 <div className='EditInfoElement' id='EditPokemon'>
-                    Pokemon
+                    Pokémon
                     <input
                         type="text"
                         defaultValue={pokemon.Name}

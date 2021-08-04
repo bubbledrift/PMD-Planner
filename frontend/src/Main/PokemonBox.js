@@ -81,7 +81,7 @@ function PokemonBox(props) {
         let portraitSrc = '/images/portraits/' + pokemon.Number.substring(1) + '.png'
 
         return (
-            <div>
+            <div className='OuterBox'>
                 <Button variant="secondary" className='EditButton' onClick={editPoke}>
 
                     <div className='PokemonBox'>

@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# PMD Planner Frontend
+
+This is the repository for the web application hosted here via Netlify: 
+The backend code for the web application is here: 
+
+PMD Planner is a planning tool for the game Pokemon Mystery Dungeon Rescue Team DX. Instructions for how to use the
+application are on the website.
+
+The frontend is written in React and uses modules like react-bootstrap, axios, and react-router-dom.
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

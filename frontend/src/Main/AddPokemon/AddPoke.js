@@ -17,8 +17,9 @@ function AddPoke(props) {
             return val
         } else if (val.Name.toLowerCase().includes(searchTerm.toLowerCase())) {
             return val
+        } else {
+            return ''
         }
-        return []
     })
 
     //Further filter the results based on what filters have been applied.
@@ -27,7 +28,7 @@ function AddPoke(props) {
             if (val.Type1 === typeFilter || val.Type2 === typeFilter) {
                 return val
             }
-            return []
+            return ''
         })
     }
     if (evolvedOnly) {
@@ -35,12 +36,12 @@ function AddPoke(props) {
             if (val.FinalEvolution === true) {
                 return val
             }
-            return []
+            return ''
         })
     }
 
 
-    let headerLabels = ['Popularity','Pokemon','Type','Rescue Camp']
+    let headerLabels = ['Popularity','Pokémon','Type','Rescue Camp']
 
     //SORT FUNCTION
     results.sort(function(a, b){

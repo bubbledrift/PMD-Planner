@@ -19,7 +19,7 @@ function PopupAdd(props) {
     return (
         <div className="PopupAdd">
             <div className="Popup-headerAdd">
-                <div className="Popup-titleAdd">Add Pokemon</div>
+                <div className="Popup-titleAdd">Add Pokémon</div>
                 <button className="close" onClick={() => props.setShowPopupAdd(false)}/>
             </div>
             <div className="Popup-contentAdd">
