@@ -1,4 +1,4 @@
-![logo](https://github.com/bubbledrift/PMD-Planner/blob/main/frontend/public/images/other/logo.png?raw=true)
+![logo](frontend/public/images/other/logo.png?raw=true)
 
 # PMD Planner Frontend
 
