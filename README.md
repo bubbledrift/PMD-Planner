@@ -1,12 +1,12 @@
 # PMD Planner Frontend
 
-This is the repository for the web application hosted here via Netlify: 
-The backend code for the web application is here: 
+This is the repository for the frontend of the web application hosted [here.](pmdplanner.com)
 
 PMD Planner is a planning tool for the game Pokemon Mystery Dungeon Rescue Team DX. Instructions for how to use the
 application are on the website.
 
-The frontend is written in React and uses modules like react-bootstrap, axios, and react-router-dom.
+The frontend is written in React and uses modules like react-bootstrap, axios, and react-router-dom. It's hosted via
+Netlify.
 
 
 
